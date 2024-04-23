@@ -1,0 +1,56 @@
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.flp
+*.pydevproject
+*.pydevproject
+*.project
+*.workspace
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Editor directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore test environments
+env.test
+
+prototipo.ipynb
+app/api/core/config/logger.py
