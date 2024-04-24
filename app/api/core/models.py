@@ -1,9 +1,42 @@
-from pydantic import BaseModel, ValidationError, Field
+from pydantic import BaseModel
 from typing import List
 
 
 class DNAVerificationModel(BaseModel):
+    """
+    Represents a DNA verification model.
+
+    Attributes:
+        dna (List[str]): The DNA sequences to be verified.
+
+    Example:
+        {
+            "dna": [
+                "ATGCGA",
+                "CAGTGC",
+                "TTATGT",
+                "AGAAGG",
+                "CCCCTA",
+                "TCACTG"
+            ]
+        }
+    """
     dna: List[str]
+
+    model_config = {
+        "json_schema_extra": {
+            "example": {
+                "dna": [
+                    "ATGCGA",
+                    "CAGTGC",
+                    "TTATGT",
+                    "AGAAGG",
+                    "CCCCTA",
+                    "TCACTG"
+                ]
+            }
+        }
+        }
 
     @classmethod
     def validate_dna(cls, value):

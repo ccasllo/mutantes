@@ -24,8 +24,9 @@ class TestMutantAPI(unittest.TestCase):
         with patch('app.api.core.views.DNARepository', return_value=mock_repository):
             async def run_test():
                 response = await detect_mutant(mock_dna)
-                self.assertEqual(response, ({"message": "Mutant detected"}, 200))
+                self.assertEqual(response.status_code, 200)
             self.loop.run_until_complete(run_test())
+
 
     def test_detect_mutant_human_detected(self):
         # Prueba el escenario donde se detecta un humano
@@ -34,8 +35,12 @@ class TestMutantAPI(unittest.TestCase):
         mock_repository.save_person.return_value = True
         with patch('app.api.core.views.DNARepository', return_value=mock_repository):
             async def run_test():
-                response = await detect_mutant(mock_dna)
-                self.assertEqual(response, ({"message": "Forbidden"}, 403))
+                try:
+                    await detect_mutant(mock_dna)
+                except HTTPException as exc:
+                    self.assertEqual(exc.status_code, 403)
+                else:  
+                    self.assertEqual(1,2)
             self.loop.run_until_complete(run_test())
 
     def test_detect_mutant_internal_server_error(self):
