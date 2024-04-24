@@ -17,6 +17,10 @@ class DNAVerificationModel(BaseModel):
         if any(len(seq) != n for seq in value):
             raise ValueError("Los elementos de la secuencia deben formar una matriz cuadrada (NxN).")
 
+        if n == 0:
+            raise ValueError("La secuencia de ADN no puede estar vacía.")
+
     def __init__(self, dna: List[str]):
         self.validate_dna(dna)
         super().__init__(dna=dna)
+
