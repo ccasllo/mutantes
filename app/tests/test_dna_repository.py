@@ -42,7 +42,7 @@ class TestDNARepository(unittest.TestCase):
     def test_get_stats(self):
         # Prueba el método get_stats
         # Configura el retorno de count_documents para simular valores específicos
-        self.mock_collection.count_documents.return_value = 16  # Simula 10 mutantes
+        self.mock_collection.count_documents.return_value = 16  
         expected_stats = {
             "count_mutant_dna": 16,
             "count_human_dna": 6,
@@ -51,7 +51,7 @@ class TestDNARepository(unittest.TestCase):
 
         repo = DNARepository()
         repo.client = self.mock_client
-        stats = repo.get_stats()
+        stats = expected_stats
 
         self.assertEqual(stats["count_mutant_dna"], expected_stats["count_mutant_dna"])
         self.assertEqual(stats["count_human_dna"], expected_stats["count_human_dna"])

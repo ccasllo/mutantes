@@ -24,7 +24,7 @@ class TestMutantAPI(unittest.TestCase):
         with patch('app.api.core.views.DNARepository', return_value=mock_repository):
             async def run_test():
                 response = await detect_mutant(mock_dna)
-                self.assertEqual(response.status_code, 200)
+                self.assertEqual(response,  {'status_code': 200, 'detail': 'Mutant detected'})
             self.loop.run_until_complete(run_test())
 
 
