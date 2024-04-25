@@ -20,7 +20,8 @@ async def detect_mutant(dna: DNAVerificationModel):
     if result:
         if document["is_mutant"]:
             message = "Mutant detected"
-            return HTTPException(status_code=status.HTTP_200_OK, detail=message)
+            response = {"status_code": 200, "detail": message}
+            return response
         else:
             message = "Forbidden"
             raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=message)
@@ -32,3 +33,17 @@ async def detect_mutant(dna: DNAVerificationModel):
 async def get_stats():
     repository = DNARepository()
     return repository.get_stats()
+
+@router.get("/health")
+async def health():
+    """
+    This endpoint is used to check the health of the API
+    """
+    return {"status": "ok"}
+
+@router.get("/")
+async def root():
+    """
+    This endpoint is used to get the version of the API
+    """
+    return {"api": "mutants v1.0.0"}

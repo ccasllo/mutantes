@@ -1,6 +1,8 @@
 from pymongo import MongoClient
 from pymongo.errors import DuplicateKeyError
-from app.api.core.config import MONGO_COLLECTION, MONGO_URI
+from app.api.core.config import MONGO_COLLECTION, MONGO_URI, ENTORNO
+from app.api.core.event_bridge import enviar_evento_eventbridge
+
 
 class DNARepository:
     def __init__(self,
@@ -12,11 +14,15 @@ class DNARepository:
         self.collection.create_index([("dna", 1)], unique=True)
 
     def save_person(self, document: dict) -> bool:
-        try:
-            result = self.collection.insert_one(document)
-            return result.inserted_id is not None
-        except DuplicateKeyError:
-            return True
+        if ENTORNO != "PRODUCTION":
+            try:
+                result = self.collection.insert_one(document)
+                return result.inserted_id is not None
+            except DuplicateKeyError:
+                return 200
+        else:
+            enviar_evento_eventbridge(document["dna"],document["is_mutant"])
+            return 200
 
     def get_stats(self) -> dict:
         count_mutant = self.collection.count_documents({"is_mutant": True})

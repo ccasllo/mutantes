@@ -3,3 +3,4 @@
  fastapi==0.110.2
  uvicorn==0.29.0
  coverage==7.5.0
+ boto3==1.34.90
