@@ -54,3 +54,4 @@ env.test
 
 prototipo.ipynb
 app/api/core/config/logger.py
+.env
