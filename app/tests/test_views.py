@@ -3,9 +3,9 @@ import asyncio
 from fastapi import HTTPException
 from unittest.mock import MagicMock, patch
 from app.api.core.models import DNAVerificationModel
-from app.api.core.helper import isMutant
+from app.api.core.utils import is_mutant
 from app.api.core.repositories.dna_repository import DNARepository
-from app.api.core.views import detect_mutant, get_stats
+from app.api.v1.views import detect_mutant, get_stats
 
 class TestMutantAPI(unittest.TestCase):
 
@@ -21,7 +21,7 @@ class TestMutantAPI(unittest.TestCase):
         mock_dna = DNAVerificationModel(dna=["ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG"])
         mock_repository = MagicMock(spec=DNARepository)
         mock_repository.save_person.return_value = True
-        with patch('app.api.core.views.DNARepository', return_value=mock_repository):
+        with patch('app.api.v1.views.DNARepository', return_value=mock_repository):
             async def run_test():
                 response = await detect_mutant(mock_dna)
                 self.assertEqual(response,  {'status_code': 200, 'detail': 'Mutant detected'})
@@ -33,7 +33,7 @@ class TestMutantAPI(unittest.TestCase):
         mock_dna = DNAVerificationModel(dna=["ATGCGA", "CAGTGC", "TTATTT", "AGACGG", "GCGTCA", "TCACTG"])
         mock_repository = MagicMock(spec=DNARepository)
         mock_repository.save_person.return_value = True
-        with patch('app.api.core.views.DNARepository', return_value=mock_repository):
+        with patch('app.api.v1.views.DNARepository', return_value=mock_repository):
             async def run_test():
                 try:
                     await detect_mutant(mock_dna)
@@ -48,7 +48,7 @@ class TestMutantAPI(unittest.TestCase):
         mock_dna = DNAVerificationModel(dna=["ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG"])
         mock_repository = MagicMock(spec=DNARepository)
         mock_repository.save_person.return_value = False
-        with patch('app.api.core.views.DNARepository', return_value=mock_repository):
+        with patch('app.api.v1.views.DNARepository', return_value=mock_repository):
             async def run_test():
                 with self.assertRaises(HTTPException) as cm:
                     await detect_mutant(mock_dna)
@@ -63,7 +63,7 @@ class TestMutantAPI(unittest.TestCase):
         async def async_get_stats():
             return await get_stats()
 
-        with patch('app.api.core.views.DNARepository', return_value=mock_repository):
+        with patch('app.api.v1.views.DNARepository', return_value=mock_repository):
             # Ejecuta la función asíncrona y espera su resolución
             loop = asyncio.get_event_loop()
             response = loop.run_until_complete(async_get_stats())

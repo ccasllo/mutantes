@@ -1,8 +1,8 @@
 import unittest
-from app.api.core.helper import isMutant
+from app.api.core.utils import is_mutant
 
 
-class TestIsMutant(unittest.TestCase):
+class Testis_mutant(unittest.TestCase):
     def test_horizontal_sequence(self):
         # Prueba una secuencia horizontal válida
         dna = [
@@ -12,7 +12,7 @@ class TestIsMutant(unittest.TestCase):
             "AGAAGG",
             "CCCCTA",
             "TCACTG"]
-        self.assertTrue(isMutant(dna))
+        self.assertTrue(is_mutant(dna))
 
     def test_vertical_sequence(self):
         # Prueba una secuencia vertical válida
@@ -22,7 +22,7 @@ class TestIsMutant(unittest.TestCase):
             "ACTGGT",
             "ACTGCA"
         ]
-        self.assertTrue(isMutant(dna))
+        self.assertTrue(is_mutant(dna))
 
     def test_diagonal_sequence(self):
         # Prueba una secuencia diagonal (\) válida
@@ -32,7 +32,7 @@ class TestIsMutant(unittest.TestCase):
             "GTACGT",
             "AGTACA"
         ]
-        self.assertTrue(isMutant(dna))
+        self.assertTrue(is_mutant(dna))
 
         # Prueba una secuencia diagonal (/) válida
         dna = [
@@ -41,7 +41,7 @@ class TestIsMutant(unittest.TestCase):
             "CATGGT",
             "ATGACA"
         ]
-        self.assertTrue(isMutant(dna))
+        self.assertTrue(is_mutant(dna))
 
     def test_non_mutant_sequence(self):
         # Prueba una secuencia que no es mutante
@@ -52,7 +52,7 @@ class TestIsMutant(unittest.TestCase):
             "GTACGA",
             "CGATCA"
         ]
-        self.assertFalse(isMutant(dna))
+        self.assertFalse(is_mutant(dna))
 
 
 if __name__ == '__main__':

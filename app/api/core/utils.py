@@ -1,4 +1,4 @@
-def isMutant(dna):
+def is_mutant(dna):
     n = len(dna)
 
     # Verificar secuencias horizontales y verticales
@@ -23,3 +23,9 @@ def isMutant(dna):
 
     # Si no se encontraron secuencias mutantes
     return False
+
+def valida_mongo_uri(mongo_uri):
+    URL_CON = mongo_uri
+    if not mongo_uri.endswith('/'):
+        URL_CON = mongo_uri+'/'
+    return URL_CON

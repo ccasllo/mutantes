@@ -1,5 +1,5 @@
 import unittest
-from unittest.mock import MagicMock, patch
+from unittest.mock import MagicMock
 from pymongo import MongoClient, errors
 from app.api.core.repositories.dna_repository import DNARepository
 

@@ -1,7 +1,8 @@
 from fastapi import APIRouter, HTTPException, status
 from app.api.core.models import DNAVerificationModel
-from app.api.core.helper import isMutant
+from app.api.core.utils import is_mutant
 from app.api.core.repositories.dna_repository import DNARepository
+from config.logger import logger
 
 router = APIRouter()
 
@@ -12,7 +13,8 @@ async def detect_mutant(dna: DNAVerificationModel):
     the valus of the dna parameter must be a list of strings with the same length.
     and matrix must be NxN
     """
-    document = {"dna": str(dna.dna), "is_mutant": isMutant(dna.dna)}
+    document = {"dna": str(dna.dna), "is_mutant": is_mutant(dna.dna)}
+    
 
     repository = DNARepository()
     result = repository.save_person(document=document)
@@ -26,6 +28,7 @@ async def detect_mutant(dna: DNAVerificationModel):
             message = "Forbidden"
             raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=message)
     else:
+        logger.error("Internal Server Error")
         raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="Internal Server Error")
 
 
@@ -41,9 +44,3 @@ async def health():
     """
     return {"status": "ok"}
 
-@router.get("/")
-async def root():
-    """
-    This endpoint is used to get the version of the API
-    """
-    return {"api": "mutants v1.0.0"}
