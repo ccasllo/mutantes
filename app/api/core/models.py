@@ -1,5 +1,6 @@
 from pydantic import BaseModel
 from typing import List
+import json
 
 
 class DNAVerificationModel(BaseModel):
@@ -22,21 +23,13 @@ class DNAVerificationModel(BaseModel):
         }
     """
     dna: List[str]
+    
+    
 
-    model_config = {
-        "json_schema_extra": {
-            "example": {
-                "dna": [
-                    "ATGCGA",
-                    "CAGTGC",
-                    "TTATGT",
-                    "AGAAGG",
-                    "CCCCTA",
-                    "TCACTG"
-                ]
-            }
-        }
-        }
+    class Config:
+        with open("app/api/core/schema/dna_verification.json") as file:
+            schema_extra = json.load(file)
+    
 
     @classmethod
     def validate_dna(cls, value):
@@ -56,4 +49,30 @@ class DNAVerificationModel(BaseModel):
     def __init__(self, dna: List[str]):
         self.validate_dna(dna)
         super().__init__(dna=dna)
+
+
+class DNAStatsModel(BaseModel):
+    """
+    Represents a DNA stats model.
+
+    Attributes:
+        count_mutant_dna (int): The number of mutant DNA sequences.
+        count_human_dna (int): The number of human DNA sequences.
+        ratio (float): The ratio of mutant DNA sequences to human DNA sequences.
+
+    Example:
+        {
+            "count_mutant_dna": 40,
+            "count_human_dna": 100,
+            "ratio": 0.4
+        }
+    """
+    count_mutant_dna: int
+    count_human_dna: int
+    ratio: float
+
+    class Config:
+        with open("app/api/core/schema/dna_stats.json") as file:
+            schema_extra = json.load(file)
+
 

@@ -1,3 +1,4 @@
+from datetime import datetime
 import pymongo
 import json
 import os
@@ -27,7 +28,8 @@ def lambda_handler(event, context):
     # Crear un documento para insertar en la colección
     documento = {
         "dna": dna,
-        "is_mutant": is_mutant
+        "is_mutant": is_mutant,
+        "fecha_hora": datetime.now()
     }
 
     # Insertar el documento en la colección
@@ -43,12 +45,3 @@ def lambda_handler(event, context):
             'body': json.dumps("El documento ya existe en la base de datos")
         }
 
-
-if __name__ == '__main__':
-    event = {
-        "detail": {
-            "dna": '["ATGCGA","CCGTTC","TTATGT","AGAAGG","CCCCTA","TCACTG"]',
-            "is_mutant": True
-        }
-    }
-    print(lambda_handler(event, None))
