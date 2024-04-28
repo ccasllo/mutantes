@@ -62,7 +62,9 @@ This code should capture the event it receives from EventBridge and send it to t
 ```bash
 git clone https://github.com/ccasllo/mutantes.git
 ```
-
+```
+cd mutantes
+```
 2. Install Python Virtual Environment:
 ```bash
 python3 -m venv venv
