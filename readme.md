@@ -89,7 +89,7 @@ export $(cat .env)
 
 6. execute 
 ```bash
-uvicorn app.api.main:app --reload
+uvicorn config.main:app --reload
 ```
 
 # Usage
