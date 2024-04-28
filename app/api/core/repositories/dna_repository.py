@@ -1,22 +1,24 @@
 from pymongo import MongoClient
 from pymongo.errors import DuplicateKeyError
-from app.api.core.config import MONGO_COLLECTION, MONGO_URI
+import config.environment as env 
+from app.api.core.providers.aws import AWSProvider
+
 
 class DNARepository:
-    def __init__(self,
-                 mongo_uri: str = MONGO_URI,
-                 collection_name: str = MONGO_COLLECTION):
-        self.client = MongoClient(mongo_uri)
+    def __init__(self):
+        self.client = MongoClient(env.MONGO_URI)
         db_name = self.client.get_database().name
-        self.collection = self.client[db_name][collection_name]
+        self.collection = self.client[db_name][env.MONGO_COLLECTION]
         self.collection.create_index([("dna", 1)], unique=True)
 
     def save_person(self, document: dict) -> bool:
+        aws_provider = AWSProvider()
         try:
-            result = self.collection.insert_one(document)
-            return result.inserted_id is not None
-        except DuplicateKeyError:
-            return True
+            aws_provider.enviar_evento_eventbridge(document["dna"], document["is_mutant"])
+            return 200
+        except Exception as e:
+            print(f"Error al enviar el evento a EventBridge {e}")
+            raise Exception(e)
 
     def get_stats(self) -> dict:
         count_mutant = self.collection.count_documents({"is_mutant": True})

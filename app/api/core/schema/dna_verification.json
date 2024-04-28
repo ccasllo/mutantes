@@ -1,0 +1,12 @@
+{
+    "example": {
+        "dna": [
+            "ATGCGA",
+            "CAGTGC",
+            "TTATGT",
+            "AGAAGG",
+            "CCCCTA",
+            "TCACTG"
+        ]
+    }
+}
