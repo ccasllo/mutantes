@@ -1,0 +1,85 @@
+{
+	"info": {
+		"_postman_id": "6c277c0c-8e46-41a3-adba-3d8b11d61e05",
+		"name": "api_mutants",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13192378"
+	},
+	"item": [
+		{
+			"name": "stats",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/api/v1/stats",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"stats"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "mutant",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n{\r\n\"dna\":[\"CTGCGC\",\"CAGTGC\",\"TTATGT\",\"AGAATT\",\"CCTCTA\",\"TCACTG\"]\r\n}\r\n\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/api/v1/mutant",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"mutant"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "mutant_runner",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n{\r\n\r\n\"dna\": [\"{{dna_1}}\", \"{{dna_2}}\", \"{{dna_3}}\",\"{{dna_4}}\",\"{{dna_5}}\",\"{{dna_6}}\"]\r\n\r\n}\r\n\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/api/v1/mutant",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"mutant"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

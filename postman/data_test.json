@@ -1,0 +1,8002 @@
+[
+    {
+        "dna_1": "CTACAC",
+        "dna_2": "GCTTCC",
+        "dna_3": "TGTGTT",
+        "dna_4": "CACTCT",
+        "dna_5": "GTCGTA",
+        "dna_6": "ATCGTA"
+    },
+    {
+        "dna_1": "ATGAGA",
+        "dna_2": "GTTGCA",
+        "dna_3": "GTCGTG",
+        "dna_4": "CCCATG",
+        "dna_5": "CCGGGA",
+        "dna_6": "TTAGAA"
+    },
+    {
+        "dna_1": "TAGCGA",
+        "dna_2": "CTAACT",
+        "dna_3": "TTTGAC",
+        "dna_4": "GGTACT",
+        "dna_5": "GTATAC",
+        "dna_6": "AACACG"
+    },
+    {
+        "dna_1": "CGTCGT",
+        "dna_2": "GGGAAG",
+        "dna_3": "TAACCG",
+        "dna_4": "CTGTTG",
+        "dna_5": "TGTAAT",
+        "dna_6": "CTGGTT"
+    },
+    {
+        "dna_1": "GGCGGG",
+        "dna_2": "GCAGGA",
+        "dna_3": "TGGTTA",
+        "dna_4": "ATAGCA",
+        "dna_5": "GCTCCA",
+        "dna_6": "TGGTTA"
+    },
+    {
+        "dna_1": "TACTAG",
+        "dna_2": "ACAATG",
+        "dna_3": "GTTTCG",
+        "dna_4": "GGTGAT",
+        "dna_5": "CGTTCG",
+        "dna_6": "AGGGAC"
+    },
+    {
+        "dna_1": "TGCAGC",
+        "dna_2": "AAGCAT",
+        "dna_3": "CTATAG",
+        "dna_4": "CTCCCC",
+        "dna_5": "GGCGCC",
+        "dna_6": "CCCATG"
+    },
+    {
+        "dna_1": "TTCTTA",
+        "dna_2": "CTAGAC",
+        "dna_3": "CCCTGC",
+        "dna_4": "CGCGAA",
+        "dna_5": "ACTCTC",
+        "dna_6": "GAGTTA"
+    },
+    {
+        "dna_1": "CCGGAA",
+        "dna_2": "GGCTTT",
+        "dna_3": "CGTGTG",
+        "dna_4": "ATCGCA",
+        "dna_5": "CGAAAA",
+        "dna_6": "TGTGCG"
+    },
+    {
+        "dna_1": "TACTTA",
+        "dna_2": "ATCGCG",
+        "dna_3": "CCACAC",
+        "dna_4": "CCATCG",
+        "dna_5": "TAGCTT",
+        "dna_6": "AGGTTA"
+    },
+    {
+        "dna_1": "TTGCTG",
+        "dna_2": "GCATAT",
+        "dna_3": "AGAAAC",
+        "dna_4": "CCTCGT",
+        "dna_5": "TTCACG",
+        "dna_6": "GAGCTC"
+    },
+    {
+        "dna_1": "TAAGCT",
+        "dna_2": "GAAAAA",
+        "dna_3": "CTGTGC",
+        "dna_4": "TGTCTG",
+        "dna_5": "TCCTAT",
+        "dna_6": "GTAGCT"
+    },
+    {
+        "dna_1": "CAATGT",
+        "dna_2": "AGGACG",
+        "dna_3": "ACAAGC",
+        "dna_4": "TCGCGT",
+        "dna_5": "TAACAC",
+        "dna_6": "ACTCTG"
+    },
+    {
+        "dna_1": "GTTCAT",
+        "dna_2": "ACACCG",
+        "dna_3": "ATCTGT",
+        "dna_4": "CAGGGG",
+        "dna_5": "TACCTG",
+        "dna_6": "CAGATT"
+    },
+    {
+        "dna_1": "GCAAAA",
+        "dna_2": "CAGTAG",
+        "dna_3": "TATTCA",
+        "dna_4": "GAGCTG",
+        "dna_5": "GGTGGA",
+        "dna_6": "GGTCTC"
+    },
+    {
+        "dna_1": "AGGATA",
+        "dna_2": "GGACAG",
+        "dna_3": "AAATGC",
+        "dna_4": "ATATCC",
+        "dna_5": "TAACTT",
+        "dna_6": "TGACAG"
+    },
+    {
+        "dna_1": "GGTCCC",
+        "dna_2": "CGACCG",
+        "dna_3": "ATTCGC",
+        "dna_4": "ATCGAA",
+        "dna_5": "CAGGTA",
+        "dna_6": "TTCTGA"
+    },
+    {
+        "dna_1": "GACCGT",
+        "dna_2": "AGGGAT",
+        "dna_3": "TTTGCT",
+        "dna_4": "AGAGCT",
+        "dna_5": "TCAATA",
+        "dna_6": "CCCAGT"
+    },
+    {
+        "dna_1": "TTAGAC",
+        "dna_2": "AAGGCA",
+        "dna_3": "TGATTG",
+        "dna_4": "GCGCAC",
+        "dna_5": "TGCCTC",
+        "dna_6": "CTGCAT"
+    },
+    {
+        "dna_1": "TACGCG",
+        "dna_2": "GGATCT",
+        "dna_3": "GGTCCA",
+        "dna_4": "GAGGCA",
+        "dna_5": "GTAAAC",
+        "dna_6": "GCCAAA"
+    },
+    {
+        "dna_1": "ACGCAT",
+        "dna_2": "TGTATG",
+        "dna_3": "CCAACC",
+        "dna_4": "ACACGC",
+        "dna_5": "TGATCG",
+        "dna_6": "ACGCCC"
+    },
+    {
+        "dna_1": "AAGGAA",
+        "dna_2": "GGGACT",
+        "dna_3": "ATATGA",
+        "dna_4": "GTTAAG",
+        "dna_5": "ACACAT",
+        "dna_6": "CGCTTG"
+    },
+    {
+        "dna_1": "AGCAAA",
+        "dna_2": "GTGGAA",
+        "dna_3": "AAAGTA",
+        "dna_4": "GGCCGA",
+        "dna_5": "TGCACA",
+        "dna_6": "TTATCG"
+    },
+    {
+        "dna_1": "GAGATC",
+        "dna_2": "AGGCAA",
+        "dna_3": "TGTTGG",
+        "dna_4": "ATACAC",
+        "dna_5": "CACAGT",
+        "dna_6": "TTACGT"
+    },
+    {
+        "dna_1": "TATTAA",
+        "dna_2": "TAGGTG",
+        "dna_3": "ATTCCC",
+        "dna_4": "TTCGTA",
+        "dna_5": "ACCATC",
+        "dna_6": "CTCGTC"
+    },
+    {
+        "dna_1": "CATGGC",
+        "dna_2": "GACATA",
+        "dna_3": "GGTATG",
+        "dna_4": "AGCGCG",
+        "dna_5": "GGCGGA",
+        "dna_6": "GAGCCC"
+    },
+    {
+        "dna_1": "TCAGTC",
+        "dna_2": "TTAGTA",
+        "dna_3": "ATTCGG",
+        "dna_4": "GCCGCC",
+        "dna_5": "ACAGTG",
+        "dna_6": "ATTGCT"
+    },
+    {
+        "dna_1": "GTCTGG",
+        "dna_2": "GAGGAT",
+        "dna_3": "CGAATA",
+        "dna_4": "GCAGAT",
+        "dna_5": "TTATAG",
+        "dna_6": "TGAACC"
+    },
+    {
+        "dna_1": "GTCGAC",
+        "dna_2": "GTTCCG",
+        "dna_3": "CGTCGG",
+        "dna_4": "TGCAAC",
+        "dna_5": "CTGCTT",
+        "dna_6": "GAGGAA"
+    },
+    {
+        "dna_1": "CAGCCC",
+        "dna_2": "CCGGAA",
+        "dna_3": "CACAGT",
+        "dna_4": "TGGTCG",
+        "dna_5": "CAGCTC",
+        "dna_6": "CCTTAA"
+    },
+    {
+        "dna_1": "TGGTCG",
+        "dna_2": "ATGGTA",
+        "dna_3": "ATTGTC",
+        "dna_4": "CCGCCG",
+        "dna_5": "GACTTA",
+        "dna_6": "CTCGTC"
+    },
+    {
+        "dna_1": "CCGTAA",
+        "dna_2": "GTGAAT",
+        "dna_3": "AACCCT",
+        "dna_4": "CCCAGG",
+        "dna_5": "CAGAAA",
+        "dna_6": "GTCCTG"
+    },
+    {
+        "dna_1": "AATACA",
+        "dna_2": "GCGGAC",
+        "dna_3": "GAGATT",
+        "dna_4": "ATTCTA",
+        "dna_5": "GTGCGT",
+        "dna_6": "CATATG"
+    },
+    {
+        "dna_1": "TGTTGC",
+        "dna_2": "AAGAGT",
+        "dna_3": "CAGCGG",
+        "dna_4": "ACATAC",
+        "dna_5": "AAATTC",
+        "dna_6": "GAAATA"
+    },
+    {
+        "dna_1": "ACACCC",
+        "dna_2": "GTCGCA",
+        "dna_3": "GAAGAT",
+        "dna_4": "CATATC",
+        "dna_5": "CAGAGT",
+        "dna_6": "GAGATT"
+    },
+    {
+        "dna_1": "TCGCTG",
+        "dna_2": "AAGCGG",
+        "dna_3": "CGCTCC",
+        "dna_4": "CTTTTA",
+        "dna_5": "TCCATC",
+        "dna_6": "TCGCGC"
+    },
+    {
+        "dna_1": "TTCAAA",
+        "dna_2": "CCCTCA",
+        "dna_3": "GGCACC",
+        "dna_4": "GAGCAA",
+        "dna_5": "ACGTTT",
+        "dna_6": "GTCAAA"
+    },
+    {
+        "dna_1": "TGACAG",
+        "dna_2": "CGGGTA",
+        "dna_3": "AACTGA",
+        "dna_4": "CCGGAC",
+        "dna_5": "ACTGGG",
+        "dna_6": "ATGAGG"
+    },
+    {
+        "dna_1": "GCGCTT",
+        "dna_2": "CTACGT",
+        "dna_3": "CTGTTT",
+        "dna_4": "CAAGGC",
+        "dna_5": "TATCTT",
+        "dna_6": "AGCGAT"
+    },
+    {
+        "dna_1": "CTACGA",
+        "dna_2": "ATCGCC",
+        "dna_3": "CTTGGA",
+        "dna_4": "GGACCA",
+        "dna_5": "GGCCCT",
+        "dna_6": "GGTGTT"
+    },
+    {
+        "dna_1": "GAGGCC",
+        "dna_2": "AATAAC",
+        "dna_3": "AATACT",
+        "dna_4": "GTGTAG",
+        "dna_5": "GTTCCA",
+        "dna_6": "GAATGT"
+    },
+    {
+        "dna_1": "ACGGGA",
+        "dna_2": "TCCCTA",
+        "dna_3": "GGACAG",
+        "dna_4": "CTTGTG",
+        "dna_5": "TAGCCT",
+        "dna_6": "ACTTCG"
+    },
+    {
+        "dna_1": "TCGGCG",
+        "dna_2": "GAAGTG",
+        "dna_3": "CATTTT",
+        "dna_4": "TTTATA",
+        "dna_5": "GCCGAC",
+        "dna_6": "ACAGGA"
+    },
+    {
+        "dna_1": "AACAAG",
+        "dna_2": "TCCGTC",
+        "dna_3": "AAACAT",
+        "dna_4": "GAGACC",
+        "dna_5": "CAACCA",
+        "dna_6": "CGAAGT"
+    },
+    {
+        "dna_1": "CATGTT",
+        "dna_2": "CAATGT",
+        "dna_3": "AGGACT",
+        "dna_4": "GACTCG",
+        "dna_5": "TCCTGC",
+        "dna_6": "ACGGGC"
+    },
+    {
+        "dna_1": "ATTCCA",
+        "dna_2": "GATGGT",
+        "dna_3": "TTACAA",
+        "dna_4": "TATAAT",
+        "dna_5": "TCAGAG",
+        "dna_6": "CGGACA"
+    },
+    {
+        "dna_1": "AAAGAT",
+        "dna_2": "AGAAGT",
+        "dna_3": "ACACCA",
+        "dna_4": "ACGTGT",
+        "dna_5": "GGAATC",
+        "dna_6": "CGGCCA"
+    },
+    {
+        "dna_1": "TTTACC",
+        "dna_2": "ACTTTC",
+        "dna_3": "GCGTCT",
+        "dna_4": "TTTCTT",
+        "dna_5": "TACCAC",
+        "dna_6": "CTGATT"
+    },
+    {
+        "dna_1": "AGTGAA",
+        "dna_2": "ATCGTC",
+        "dna_3": "ACGTGT",
+        "dna_4": "CCTCTA",
+        "dna_5": "CGTCAC",
+        "dna_6": "GCTTCT"
+    },
+    {
+        "dna_1": "AAAATA",
+        "dna_2": "CATTAG",
+        "dna_3": "ACAGCT",
+        "dna_4": "AACGGG",
+        "dna_5": "ATGTGC",
+        "dna_6": "TTCCCC"
+    },
+    {
+        "dna_1": "AGTCGT",
+        "dna_2": "GCAATG",
+        "dna_3": "CCCCTG",
+        "dna_4": "ACGCCC",
+        "dna_5": "TCAGTG",
+        "dna_6": "TGCAAT"
+    },
+    {
+        "dna_1": "GGAATT",
+        "dna_2": "CGGGAG",
+        "dna_3": "CTTTTG",
+        "dna_4": "GCATGT",
+        "dna_5": "GCTCTG",
+        "dna_6": "ACCCTT"
+    },
+    {
+        "dna_1": "GAGACT",
+        "dna_2": "AGCCCT",
+        "dna_3": "TCGGTG",
+        "dna_4": "GGGGCT",
+        "dna_5": "TTCAGT",
+        "dna_6": "TTTCCA"
+    },
+    {
+        "dna_1": "AACACG",
+        "dna_2": "GGTGAA",
+        "dna_3": "AAGGCG",
+        "dna_4": "TTCCAG",
+        "dna_5": "TGTCTA",
+        "dna_6": "CCCCTT"
+    },
+    {
+        "dna_1": "AAACTC",
+        "dna_2": "GGGGCC",
+        "dna_3": "AACTGG",
+        "dna_4": "CACACA",
+        "dna_5": "ACGCCA",
+        "dna_6": "ATTGCC"
+    },
+    {
+        "dna_1": "CCTCAA",
+        "dna_2": "TGTAAC",
+        "dna_3": "ATGACG",
+        "dna_4": "GGCGTC",
+        "dna_5": "GAGTTA",
+        "dna_6": "AGCGCC"
+    },
+    {
+        "dna_1": "CAGGAC",
+        "dna_2": "TAGGAA",
+        "dna_3": "ATCATA",
+        "dna_4": "TATCTG",
+        "dna_5": "CTTTCG",
+        "dna_6": "GGTCCC"
+    },
+    {
+        "dna_1": "AGAGCA",
+        "dna_2": "TTTTAT",
+        "dna_3": "TAGAAT",
+        "dna_4": "CACAGG",
+        "dna_5": "CTGGGC",
+        "dna_6": "AAGCTC"
+    },
+    {
+        "dna_1": "ATAGCC",
+        "dna_2": "GTGCGA",
+        "dna_3": "CGGCGG",
+        "dna_4": "TTGTTG",
+        "dna_5": "CCATGC",
+        "dna_6": "GGGACG"
+    },
+    {
+        "dna_1": "TATCGG",
+        "dna_2": "ACGGAA",
+        "dna_3": "ATCATT",
+        "dna_4": "CTTGTT",
+        "dna_5": "AATCCT",
+        "dna_6": "GAGTCG"
+    },
+    {
+        "dna_1": "GATACT",
+        "dna_2": "GCATTC",
+        "dna_3": "AAAAAA",
+        "dna_4": "GCAACT",
+        "dna_5": "GGTCTA",
+        "dna_6": "GCAGAT"
+    },
+    {
+        "dna_1": "CACGGT",
+        "dna_2": "GTTCGA",
+        "dna_3": "TAACAC",
+        "dna_4": "AGGTCC",
+        "dna_5": "GGGCGA",
+        "dna_6": "AGTAAG"
+    },
+    {
+        "dna_1": "GGTGAG",
+        "dna_2": "ACGTGA",
+        "dna_3": "TCGTAT",
+        "dna_4": "AGACTG",
+        "dna_5": "CTGAGG",
+        "dna_6": "TTACAT"
+    },
+    {
+        "dna_1": "TGTCAC",
+        "dna_2": "GCCAGT",
+        "dna_3": "GCAGTG",
+        "dna_4": "GAATGC",
+        "dna_5": "CAACCC",
+        "dna_6": "TTGCGG"
+    },
+    {
+        "dna_1": "CTGGTG",
+        "dna_2": "CGCGTG",
+        "dna_3": "TAATCT",
+        "dna_4": "CGGAAC",
+        "dna_5": "ATGACT",
+        "dna_6": "AAAGTT"
+    },
+    {
+        "dna_1": "AGGACG",
+        "dna_2": "GCACTC",
+        "dna_3": "CAATCA",
+        "dna_4": "GCTAGG",
+        "dna_5": "TCCTCC",
+        "dna_6": "GCAACA"
+    },
+    {
+        "dna_1": "ACAGCG",
+        "dna_2": "CTCCTG",
+        "dna_3": "GAACAC",
+        "dna_4": "AGTCAC",
+        "dna_5": "TCGGCG",
+        "dna_6": "CAATAC"
+    },
+    {
+        "dna_1": "CTCCTC",
+        "dna_2": "GGTTCG",
+        "dna_3": "GCTCAG",
+        "dna_4": "CACCAC",
+        "dna_5": "GCTTCT",
+        "dna_6": "ACAATA"
+    },
+    {
+        "dna_1": "TTGCTC",
+        "dna_2": "CGTTTA",
+        "dna_3": "CACGGA",
+        "dna_4": "ATACCT",
+        "dna_5": "CGAACT",
+        "dna_6": "TTGCGG"
+    },
+    {
+        "dna_1": "TATGGC",
+        "dna_2": "TACAGT",
+        "dna_3": "TGTAAG",
+        "dna_4": "ATGCCA",
+        "dna_5": "ACACTC",
+        "dna_6": "TGACGC"
+    },
+    {
+        "dna_1": "GACTCA",
+        "dna_2": "ATCGTG",
+        "dna_3": "GGGGAC",
+        "dna_4": "GTACAT",
+        "dna_5": "ATAATA",
+        "dna_6": "TCACGA"
+    },
+    {
+        "dna_1": "TTTTAT",
+        "dna_2": "TGACTC",
+        "dna_3": "TTTGTC",
+        "dna_4": "TATAGA",
+        "dna_5": "GAACAG",
+        "dna_6": "TGCGTA"
+    },
+    {
+        "dna_1": "ACCGGA",
+        "dna_2": "AGTTCT",
+        "dna_3": "GCAAAA",
+        "dna_4": "GGTGAA",
+        "dna_5": "AAGGCA",
+        "dna_6": "TCAGTG"
+    },
+    {
+        "dna_1": "CCCTAG",
+        "dna_2": "ATATGC",
+        "dna_3": "TGGGAC",
+        "dna_4": "TTCACG",
+        "dna_5": "CGGATC",
+        "dna_6": "CGAGCA"
+    },
+    {
+        "dna_1": "AAGTGT",
+        "dna_2": "ATCACG",
+        "dna_3": "CGTTGT",
+        "dna_4": "TAGGTT",
+        "dna_5": "ACTCAC",
+        "dna_6": "CAGATC"
+    },
+    {
+        "dna_1": "ACAGCA",
+        "dna_2": "ACTCAG",
+        "dna_3": "CGATCG",
+        "dna_4": "TGAAGC",
+        "dna_5": "GTCACA",
+        "dna_6": "ACGCTC"
+    },
+    {
+        "dna_1": "GTGCTG",
+        "dna_2": "AATCAC",
+        "dna_3": "CGATGC",
+        "dna_4": "GAAACT",
+        "dna_5": "GGTAGA",
+        "dna_6": "AGAACA"
+    },
+    {
+        "dna_1": "TCGGTT",
+        "dna_2": "TAACAC",
+        "dna_3": "TTTTGA",
+        "dna_4": "TCGCTT",
+        "dna_5": "AACGCT",
+        "dna_6": "GGTCCG"
+    },
+    {
+        "dna_1": "TGTTGA",
+        "dna_2": "GTGTAG",
+        "dna_3": "TCTGCT",
+        "dna_4": "GGAGCA",
+        "dna_5": "AATGGC",
+        "dna_6": "CGCGGG"
+    },
+    {
+        "dna_1": "CTAAAG",
+        "dna_2": "GGAAAC",
+        "dna_3": "TCTACG",
+        "dna_4": "CTTGCC",
+        "dna_5": "TTTCCG",
+        "dna_6": "CCTTAT"
+    },
+    {
+        "dna_1": "CCTTGC",
+        "dna_2": "CATTTC",
+        "dna_3": "CTCCCA",
+        "dna_4": "GAGATG",
+        "dna_5": "GACAAA",
+        "dna_6": "TAAATA"
+    },
+    {
+        "dna_1": "GGATCA",
+        "dna_2": "TCGATT",
+        "dna_3": "GGCTTA",
+        "dna_4": "AGGGTC",
+        "dna_5": "CAACTA",
+        "dna_6": "GTTATG"
+    },
+    {
+        "dna_1": "CCAAAT",
+        "dna_2": "CAGCTA",
+        "dna_3": "TGAGGC",
+        "dna_4": "TGCCGT",
+        "dna_5": "CTTCCG",
+        "dna_6": "GGTTTA"
+    },
+    {
+        "dna_1": "AGTGGA",
+        "dna_2": "CCAAAA",
+        "dna_3": "AAATTG",
+        "dna_4": "TACGGC",
+        "dna_5": "GGTTGG",
+        "dna_6": "AAACCG"
+    },
+    {
+        "dna_1": "GCCATT",
+        "dna_2": "AAAGAA",
+        "dna_3": "TCCAAC",
+        "dna_4": "AAGAAA",
+        "dna_5": "CAGTTT",
+        "dna_6": "GCTCCT"
+    },
+    {
+        "dna_1": "ACGATT",
+        "dna_2": "GGTGGC",
+        "dna_3": "ACAGCA",
+        "dna_4": "AGGGCT",
+        "dna_5": "ACGGCC",
+        "dna_6": "GGCCTG"
+    },
+    {
+        "dna_1": "TTACCC",
+        "dna_2": "CTAGCC",
+        "dna_3": "TGTCGA",
+        "dna_4": "CGAGAC",
+        "dna_5": "CATGAG",
+        "dna_6": "TGTAGA"
+    },
+    {
+        "dna_1": "GTCTCG",
+        "dna_2": "AAGTGG",
+        "dna_3": "TTGGTT",
+        "dna_4": "TGTTAC",
+        "dna_5": "CCGGTT",
+        "dna_6": "GTCAGG"
+    },
+    {
+        "dna_1": "GCCACC",
+        "dna_2": "GCAGCC",
+        "dna_3": "CCTATT",
+        "dna_4": "TAGGAA",
+        "dna_5": "GTGAAC",
+        "dna_6": "GGACAG"
+    },
+    {
+        "dna_1": "AGGAAT",
+        "dna_2": "TAACCA",
+        "dna_3": "ACGGCT",
+        "dna_4": "CCTCCG",
+        "dna_5": "GCCCTG",
+        "dna_6": "GCTGTG"
+    },
+    {
+        "dna_1": "AGTAAG",
+        "dna_2": "TTTGAG",
+        "dna_3": "GGGCTG",
+        "dna_4": "ACAACG",
+        "dna_5": "AGGAAA",
+        "dna_6": "CTTATG"
+    },
+    {
+        "dna_1": "ATGTTA",
+        "dna_2": "CAATTA",
+        "dna_3": "GGAGTG",
+        "dna_4": "ATTACG",
+        "dna_5": "GGACCA",
+        "dna_6": "TAGCAA"
+    },
+    {
+        "dna_1": "TAACGG",
+        "dna_2": "ATGAAA",
+        "dna_3": "GAAATC",
+        "dna_4": "GGACTC",
+        "dna_5": "TCCGCA",
+        "dna_6": "GTGTCC"
+    },
+    {
+        "dna_1": "GTCCAG",
+        "dna_2": "CTACTG",
+        "dna_3": "GACCGG",
+        "dna_4": "AGATAG",
+        "dna_5": "TTATAA",
+        "dna_6": "ATTATT"
+    },
+    {
+        "dna_1": "TATTTA",
+        "dna_2": "TCTAAG",
+        "dna_3": "TTCATC",
+        "dna_4": "CAATCT",
+        "dna_5": "GGGAAG",
+        "dna_6": "GGACGG"
+    },
+    {
+        "dna_1": "ATCCAG",
+        "dna_2": "CCCTGG",
+        "dna_3": "CGTCTC",
+        "dna_4": "CATATT",
+        "dna_5": "CCAATG",
+        "dna_6": "CAGGAC"
+    },
+    {
+        "dna_1": "GCTCCA",
+        "dna_2": "TAGGGC",
+        "dna_3": "CTCAGA",
+        "dna_4": "AAGTTC",
+        "dna_5": "CAGCGG",
+        "dna_6": "ACGGTT"
+    },
+    {
+        "dna_1": "AGGAGG",
+        "dna_2": "GGGCCC",
+        "dna_3": "CCAGAT",
+        "dna_4": "TCAAGC",
+        "dna_5": "CCTTGT",
+        "dna_6": "CTTGAC"
+    },
+    {
+        "dna_1": "GAGGTA",
+        "dna_2": "CTATAC",
+        "dna_3": "CGAGGA",
+        "dna_4": "CTTATC",
+        "dna_5": "AAGCAC",
+        "dna_6": "ACGCGG"
+    },
+    {
+        "dna_1": "TGGGTA",
+        "dna_2": "GCAGCA",
+        "dna_3": "CAGTCC",
+        "dna_4": "TGTTTT",
+        "dna_5": "TGATAG",
+        "dna_6": "AGGTCT"
+    },
+    {
+        "dna_1": "CGATGC",
+        "dna_2": "AATTCC",
+        "dna_3": "TGCCCT",
+        "dna_4": "CTGTTC",
+        "dna_5": "ACCCAC",
+        "dna_6": "ATATAC"
+    },
+    {
+        "dna_1": "CATTTA",
+        "dna_2": "TACTTT",
+        "dna_3": "CCTGCC",
+        "dna_4": "TCTGAT",
+        "dna_5": "CTTCTC",
+        "dna_6": "GGTGGT"
+    },
+    {
+        "dna_1": "TGGCGC",
+        "dna_2": "CGGACG",
+        "dna_3": "ACGGCT",
+        "dna_4": "TAATCA",
+        "dna_5": "ATGAGG",
+        "dna_6": "ATAAGT"
+    },
+    {
+        "dna_1": "ACTAAG",
+        "dna_2": "GATTGT",
+        "dna_3": "TCTATA",
+        "dna_4": "AGACTC",
+        "dna_5": "TTTAGA",
+        "dna_6": "CGTTCT"
+    },
+    {
+        "dna_1": "TACGCG",
+        "dna_2": "GACAGG",
+        "dna_3": "TGCAGG",
+        "dna_4": "TGTCTA",
+        "dna_5": "AGCCCC",
+        "dna_6": "CCCGAT"
+    },
+    {
+        "dna_1": "TCATCC",
+        "dna_2": "GTTGTA",
+        "dna_3": "GAAGAG",
+        "dna_4": "CCAGTC",
+        "dna_5": "TTAGCC",
+        "dna_6": "ACATCC"
+    },
+    {
+        "dna_1": "GCTAGA",
+        "dna_2": "GAATAA",
+        "dna_3": "CACCAC",
+        "dna_4": "GTACGA",
+        "dna_5": "CTAACA",
+        "dna_6": "AGCTGT"
+    },
+    {
+        "dna_1": "TAGGAA",
+        "dna_2": "ATAGCA",
+        "dna_3": "CTGGCA",
+        "dna_4": "ATGAGG",
+        "dna_5": "GAAACT",
+        "dna_6": "CGCCAC"
+    },
+    {
+        "dna_1": "GCGATC",
+        "dna_2": "TTCGCA",
+        "dna_3": "TGCTGC",
+        "dna_4": "TGAAGG",
+        "dna_5": "TCGCTG",
+        "dna_6": "CCGCCG"
+    },
+    {
+        "dna_1": "GGGGTC",
+        "dna_2": "GGACTC",
+        "dna_3": "AAGTCG",
+        "dna_4": "ACGCAC",
+        "dna_5": "GGGCGC",
+        "dna_6": "CTTTCA"
+    },
+    {
+        "dna_1": "TATAGG",
+        "dna_2": "GGGGGC",
+        "dna_3": "CAACTC",
+        "dna_4": "AGGCCA",
+        "dna_5": "CAAGGC",
+        "dna_6": "TTGAAG"
+    },
+    {
+        "dna_1": "ATACAG",
+        "dna_2": "GGGCGC",
+        "dna_3": "TAGTAT",
+        "dna_4": "TCGGGT",
+        "dna_5": "TTCCCT",
+        "dna_6": "TTCCCT"
+    },
+    {
+        "dna_1": "GTGACC",
+        "dna_2": "CTGCTC",
+        "dna_3": "TTCCAG",
+        "dna_4": "TCCAAC",
+        "dna_5": "TATCAT",
+        "dna_6": "AGCTGC"
+    },
+    {
+        "dna_1": "TTCCAG",
+        "dna_2": "GGGCAA",
+        "dna_3": "GTCATG",
+        "dna_4": "TACCGC",
+        "dna_5": "GCGTCC",
+        "dna_6": "GTTCGT"
+    },
+    {
+        "dna_1": "GTTCCA",
+        "dna_2": "GATGGA",
+        "dna_3": "ACATGA",
+        "dna_4": "AGGAAG",
+        "dna_5": "ATATGA",
+        "dna_6": "CGCGCA"
+    },
+    {
+        "dna_1": "TGTAGG",
+        "dna_2": "ATGGAC",
+        "dna_3": "AATAAC",
+        "dna_4": "ATCCTC",
+        "dna_5": "CTCCGG",
+        "dna_6": "GCCATA"
+    },
+    {
+        "dna_1": "GTGCTG",
+        "dna_2": "ATTTTC",
+        "dna_3": "GCCACC",
+        "dna_4": "CCTGGA",
+        "dna_5": "AATAGC",
+        "dna_6": "GTATAA"
+    },
+    {
+        "dna_1": "CACTCT",
+        "dna_2": "GAATTA",
+        "dna_3": "GATTGG",
+        "dna_4": "CCGCAC",
+        "dna_5": "AGCGGT",
+        "dna_6": "ACCGCC"
+    },
+    {
+        "dna_1": "TCACCT",
+        "dna_2": "TCACCT",
+        "dna_3": "GCGACA",
+        "dna_4": "CTGGGC",
+        "dna_5": "TCTCTT",
+        "dna_6": "TCCAAC"
+    },
+    {
+        "dna_1": "ACACTA",
+        "dna_2": "CACGGT",
+        "dna_3": "TCCTCG",
+        "dna_4": "TACTTA",
+        "dna_5": "AGTGAG",
+        "dna_6": "TCGAGG"
+    },
+    {
+        "dna_1": "TGAGCC",
+        "dna_2": "CTACTA",
+        "dna_3": "ATTAGT",
+        "dna_4": "TATCCC",
+        "dna_5": "AATACA",
+        "dna_6": "GTTCAG"
+    },
+    {
+        "dna_1": "CACACT",
+        "dna_2": "TGGAGC",
+        "dna_3": "CATTGA",
+        "dna_4": "ACGCAC",
+        "dna_5": "ATATTT",
+        "dna_6": "TACAGT"
+    },
+    {
+        "dna_1": "CTTTGC",
+        "dna_2": "CAGTCC",
+        "dna_3": "CAAAGA",
+        "dna_4": "GTTACC",
+        "dna_5": "TCCCAT",
+        "dna_6": "ACATAT"
+    },
+    {
+        "dna_1": "CACGAT",
+        "dna_2": "AAAACT",
+        "dna_3": "AATAAG",
+        "dna_4": "TCCTGG",
+        "dna_5": "GGCGTG",
+        "dna_6": "TATCGG"
+    },
+    {
+        "dna_1": "ACAAAT",
+        "dna_2": "ATCCTG",
+        "dna_3": "CAAGCC",
+        "dna_4": "TACGGA",
+        "dna_5": "ATTGCG",
+        "dna_6": "GCCCTA"
+    },
+    {
+        "dna_1": "TCTAGA",
+        "dna_2": "CATGAA",
+        "dna_3": "GTCCAG",
+        "dna_4": "TTGGCA",
+        "dna_5": "TTCCCC",
+        "dna_6": "TAGGAG"
+    },
+    {
+        "dna_1": "TAAGGA",
+        "dna_2": "ACGGCG",
+        "dna_3": "CCTCTA",
+        "dna_4": "AACGAG",
+        "dna_5": "ATTACG",
+        "dna_6": "TTTTCG"
+    },
+    {
+        "dna_1": "TTGCCT",
+        "dna_2": "AAAGAG",
+        "dna_3": "GCAGGT",
+        "dna_4": "ACCAGA",
+        "dna_5": "GAGACG",
+        "dna_6": "CTTGAC"
+    },
+    {
+        "dna_1": "TGCAGC",
+        "dna_2": "TATTTC",
+        "dna_3": "GTGAGG",
+        "dna_4": "TGAGTG",
+        "dna_5": "CACCGA",
+        "dna_6": "CTCATA"
+    },
+    {
+        "dna_1": "CGTGAA",
+        "dna_2": "TTGCGT",
+        "dna_3": "AGTAAC",
+        "dna_4": "TGAAGC",
+        "dna_5": "TGAAAT",
+        "dna_6": "GATTGA"
+    },
+    {
+        "dna_1": "TCCGGT",
+        "dna_2": "GTGTGA",
+        "dna_3": "CATATA",
+        "dna_4": "CTCACA",
+        "dna_5": "CGAAGT",
+        "dna_6": "GTGACT"
+    },
+    {
+        "dna_1": "GGATCG",
+        "dna_2": "CGGAGA",
+        "dna_3": "CGTTGT",
+        "dna_4": "TAGGTC",
+        "dna_5": "ACATCC",
+        "dna_6": "AAATAT"
+    },
+    {
+        "dna_1": "TCACAT",
+        "dna_2": "AGTTAC",
+        "dna_3": "CAATGT",
+        "dna_4": "TGCAGG",
+        "dna_5": "GCCCCT",
+        "dna_6": "GATTGC"
+    },
+    {
+        "dna_1": "AACAGG",
+        "dna_2": "ACTTTT",
+        "dna_3": "GGCTGC",
+        "dna_4": "TTGAAT",
+        "dna_5": "TGAGAC",
+        "dna_6": "GATGGT"
+    },
+    {
+        "dna_1": "GCCTAC",
+        "dna_2": "AGACTC",
+        "dna_3": "GGACAC",
+        "dna_4": "GATCGT",
+        "dna_5": "CAACGA",
+        "dna_6": "CTCGGG"
+    },
+    {
+        "dna_1": "TTCTCC",
+        "dna_2": "AAGAAC",
+        "dna_3": "TCACTG",
+        "dna_4": "CCAGCT",
+        "dna_5": "CTGAGA",
+        "dna_6": "TCTTAT"
+    },
+    {
+        "dna_1": "CATCGC",
+        "dna_2": "TATGGG",
+        "dna_3": "AGACGG",
+        "dna_4": "TTATAT",
+        "dna_5": "AGCTAC",
+        "dna_6": "ACTGGT"
+    },
+    {
+        "dna_1": "GAAATT",
+        "dna_2": "AAGGTG",
+        "dna_3": "GCAGCT",
+        "dna_4": "TTTTCC",
+        "dna_5": "CGAGGG",
+        "dna_6": "GTCCCC"
+    },
+    {
+        "dna_1": "CTATTT",
+        "dna_2": "CTTAAT",
+        "dna_3": "GTCAAT",
+        "dna_4": "CGAAAC",
+        "dna_5": "GAACAG",
+        "dna_6": "GTAATG"
+    },
+    {
+        "dna_1": "TGCTCC",
+        "dna_2": "TCTCAC",
+        "dna_3": "ATAATT",
+        "dna_4": "CAGAAT",
+        "dna_5": "ACGGGT",
+        "dna_6": "GAATCC"
+    },
+    {
+        "dna_1": "GAGGCC",
+        "dna_2": "ACATGT",
+        "dna_3": "AGGAGC",
+        "dna_4": "CGTAGT",
+        "dna_5": "GGTCGC",
+        "dna_6": "TGCTCC"
+    },
+    {
+        "dna_1": "GATAGT",
+        "dna_2": "GTCGCA",
+        "dna_3": "AGCGAC",
+        "dna_4": "TGTTCC",
+        "dna_5": "TGAGCT",
+        "dna_6": "AGTCGG"
+    },
+    {
+        "dna_1": "GCCACT",
+        "dna_2": "TCCGCC",
+        "dna_3": "AGGCCA",
+        "dna_4": "TATTTG",
+        "dna_5": "GTCCAG",
+        "dna_6": "GAAGCA"
+    },
+    {
+        "dna_1": "ACCCCA",
+        "dna_2": "GCATAT",
+        "dna_3": "GAGTTA",
+        "dna_4": "TCCAAA",
+        "dna_5": "GGCACG",
+        "dna_6": "GCGTTC"
+    },
+    {
+        "dna_1": "TGTCGA",
+        "dna_2": "GGCTTT",
+        "dna_3": "CAGCTT",
+        "dna_4": "CCAATA",
+        "dna_5": "GTTGCG",
+        "dna_6": "TAGATT"
+    },
+    {
+        "dna_1": "CTACAA",
+        "dna_2": "CATGGC",
+        "dna_3": "GATAGT",
+        "dna_4": "CTGCCC",
+        "dna_5": "CCACAT",
+        "dna_6": "AAGATG"
+    },
+    {
+        "dna_1": "TCGGTC",
+        "dna_2": "CGACCG",
+        "dna_3": "GACTAG",
+        "dna_4": "TTTTGA",
+        "dna_5": "GCAAGG",
+        "dna_6": "CAACAC"
+    },
+    {
+        "dna_1": "AAAGAA",
+        "dna_2": "AGGATT",
+        "dna_3": "GCAAGT",
+        "dna_4": "AGAGCA",
+        "dna_5": "GTAGGA",
+        "dna_6": "CAGCAA"
+    },
+    {
+        "dna_1": "CTGCAT",
+        "dna_2": "CCTCCG",
+        "dna_3": "TGCGGG",
+        "dna_4": "TTGGAG",
+        "dna_5": "GCGCTA",
+        "dna_6": "CACTTA"
+    },
+    {
+        "dna_1": "CCATTC",
+        "dna_2": "TCCCAG",
+        "dna_3": "TCTGGG",
+        "dna_4": "AACATA",
+        "dna_5": "GAAATA",
+        "dna_6": "AAAGAC"
+    },
+    {
+        "dna_1": "CAGAAC",
+        "dna_2": "CCTTGA",
+        "dna_3": "ACAGCA",
+        "dna_4": "GACTCG",
+        "dna_5": "TGTTGT",
+        "dna_6": "GCGTAA"
+    },
+    {
+        "dna_1": "CCGCTA",
+        "dna_2": "TCCCGG",
+        "dna_3": "CTTAGC",
+        "dna_4": "CAGAAC",
+        "dna_5": "AGAGAG",
+        "dna_6": "CGTCTG"
+    },
+    {
+        "dna_1": "ATAAGC",
+        "dna_2": "GTTATA",
+        "dna_3": "GGAGGC",
+        "dna_4": "CTAAAA",
+        "dna_5": "ATGATA",
+        "dna_6": "GCCATT"
+    },
+    {
+        "dna_1": "TGAAGC",
+        "dna_2": "AATGAT",
+        "dna_3": "CTCCAA",
+        "dna_4": "TGGTAG",
+        "dna_5": "GTGGAC",
+        "dna_6": "TCTTCC"
+    },
+    {
+        "dna_1": "ATAGAA",
+        "dna_2": "CAGCTA",
+        "dna_3": "AGTCTT",
+        "dna_4": "ATCCGC",
+        "dna_5": "ATGGTT",
+        "dna_6": "AGTAGA"
+    },
+    {
+        "dna_1": "AATATA",
+        "dna_2": "GCTGGC",
+        "dna_3": "GTGAAT",
+        "dna_4": "GAATGT",
+        "dna_5": "AAACTT",
+        "dna_6": "GTGCAG"
+    },
+    {
+        "dna_1": "TTCGAT",
+        "dna_2": "TGCACT",
+        "dna_3": "TTTCTA",
+        "dna_4": "TCAACG",
+        "dna_5": "CGAAAT",
+        "dna_6": "TATGCC"
+    },
+    {
+        "dna_1": "CTGCCC",
+        "dna_2": "CTCACA",
+        "dna_3": "GGTGAG",
+        "dna_4": "CCGCAC",
+        "dna_5": "CTACTT",
+        "dna_6": "ACATAG"
+    },
+    {
+        "dna_1": "TACATA",
+        "dna_2": "GTGCTG",
+        "dna_3": "CGAACC",
+        "dna_4": "CATTTC",
+        "dna_5": "AATCTC",
+        "dna_6": "ATTAAA"
+    },
+    {
+        "dna_1": "ATCGTG",
+        "dna_2": "CCCAGC",
+        "dna_3": "CTACCA",
+        "dna_4": "CTGGGG",
+        "dna_5": "TGACCA",
+        "dna_6": "AAGATA"
+    },
+    {
+        "dna_1": "TCAAGG",
+        "dna_2": "CGCTCT",
+        "dna_3": "TCCGAT",
+        "dna_4": "GAATGA",
+        "dna_5": "TGATCA",
+        "dna_6": "GACCGC"
+    },
+    {
+        "dna_1": "CGTAAA",
+        "dna_2": "CCGATT",
+        "dna_3": "CCCGCA",
+        "dna_4": "GCTCTG",
+        "dna_5": "TCGTAC",
+        "dna_6": "TCCTGT"
+    },
+    {
+        "dna_1": "TCTGGC",
+        "dna_2": "TGTCTA",
+        "dna_3": "GTCCTG",
+        "dna_4": "GAATCT",
+        "dna_5": "CAAGTA",
+        "dna_6": "TCATGG"
+    },
+    {
+        "dna_1": "TACTCG",
+        "dna_2": "CCTTCT",
+        "dna_3": "ACGCAC",
+        "dna_4": "AGGGTA",
+        "dna_5": "GTGTGG",
+        "dna_6": "ATAGGC"
+    },
+    {
+        "dna_1": "TCGCTT",
+        "dna_2": "GATATA",
+        "dna_3": "GAGGGA",
+        "dna_4": "AGCCCG",
+        "dna_5": "AATTGC",
+        "dna_6": "GCTGGA"
+    },
+    {
+        "dna_1": "GTCAAA",
+        "dna_2": "ACACAT",
+        "dna_3": "TTATCG",
+        "dna_4": "TAGAGT",
+        "dna_5": "GAATTG",
+        "dna_6": "CGAAAC"
+    },
+    {
+        "dna_1": "CTGCTT",
+        "dna_2": "CCTTAT",
+        "dna_3": "TTGAAC",
+        "dna_4": "TGGGAG",
+        "dna_5": "TTGCGA",
+        "dna_6": "TTAGTA"
+    },
+    {
+        "dna_1": "TTGGGA",
+        "dna_2": "TTTGAA",
+        "dna_3": "CAGCAC",
+        "dna_4": "AGGAGG",
+        "dna_5": "GTATTT",
+        "dna_6": "GGAACG"
+    },
+    {
+        "dna_1": "TTCCCA",
+        "dna_2": "TAGTGC",
+        "dna_3": "AGATAC",
+        "dna_4": "GGTTTG",
+        "dna_5": "GTGGAC",
+        "dna_6": "ACGCGC"
+    },
+    {
+        "dna_1": "ACTAAC",
+        "dna_2": "CAGAGA",
+        "dna_3": "TCCCGC",
+        "dna_4": "CCCTCC",
+        "dna_5": "GTCGGT",
+        "dna_6": "GAAGGT"
+    },
+    {
+        "dna_1": "GGTTTT",
+        "dna_2": "AACCAA",
+        "dna_3": "ACAGAA",
+        "dna_4": "AGGATC",
+        "dna_5": "CCAGAA",
+        "dna_6": "TTCTGG"
+    },
+    {
+        "dna_1": "TAGATC",
+        "dna_2": "TTGGAG",
+        "dna_3": "TTCGCC",
+        "dna_4": "CTCACA",
+        "dna_5": "GAGTGC",
+        "dna_6": "ATGTAC"
+    },
+    {
+        "dna_1": "GACGCC",
+        "dna_2": "GTCGAG",
+        "dna_3": "AGAGAC",
+        "dna_4": "AGTGTG",
+        "dna_5": "GCCCCA",
+        "dna_6": "TGACTC"
+    },
+    {
+        "dna_1": "TCACTT",
+        "dna_2": "ATGGAT",
+        "dna_3": "TCATTT",
+        "dna_4": "AAGTAT",
+        "dna_5": "CCTCTT",
+        "dna_6": "TGACAT"
+    },
+    {
+        "dna_1": "ATTTAT",
+        "dna_2": "CACAAG",
+        "dna_3": "AATACG",
+        "dna_4": "GCGTTC",
+        "dna_5": "CCCTAC",
+        "dna_6": "ACTAAC"
+    },
+    {
+        "dna_1": "ATCCTC",
+        "dna_2": "GACATT",
+        "dna_3": "CACACA",
+        "dna_4": "CTCGTT",
+        "dna_5": "GCTGGT",
+        "dna_6": "TAATCG"
+    },
+    {
+        "dna_1": "AGAAAA",
+        "dna_2": "CTTAGC",
+        "dna_3": "CGCAAC",
+        "dna_4": "TAGCCT",
+        "dna_5": "GCTCAT",
+        "dna_6": "AAAGCC"
+    },
+    {
+        "dna_1": "GTGGAA",
+        "dna_2": "TAGAGT",
+        "dna_3": "GGTCCG",
+        "dna_4": "TACAAA",
+        "dna_5": "CTACGG",
+        "dna_6": "GCTACT"
+    },
+    {
+        "dna_1": "AGTAGC",
+        "dna_2": "ACAAAT",
+        "dna_3": "GCATGC",
+        "dna_4": "CTACAG",
+        "dna_5": "TTCCGG",
+        "dna_6": "CAAAAT"
+    },
+    {
+        "dna_1": "CGGCAA",
+        "dna_2": "GCGTAC",
+        "dna_3": "CGTGAT",
+        "dna_4": "CACTGC",
+        "dna_5": "GGTAAA",
+        "dna_6": "TGCCGT"
+    },
+    {
+        "dna_1": "CAAACT",
+        "dna_2": "GCCCAC",
+        "dna_3": "CCAAAC",
+        "dna_4": "ATTGTT",
+        "dna_5": "CTATGT",
+        "dna_6": "TTCTCA"
+    },
+    {
+        "dna_1": "CACGCG",
+        "dna_2": "TAGATA",
+        "dna_3": "GCCCGT",
+        "dna_4": "TGCTCG",
+        "dna_5": "TTCAGA",
+        "dna_6": "GGGTGG"
+    },
+    {
+        "dna_1": "TCCTGG",
+        "dna_2": "TACTAT",
+        "dna_3": "TCCGAA",
+        "dna_4": "ATTACT",
+        "dna_5": "TCCGAA",
+        "dna_6": "TATCGT"
+    },
+    {
+        "dna_1": "TGTAGT",
+        "dna_2": "AATCAG",
+        "dna_3": "GGTTAC",
+        "dna_4": "ATTGTC",
+        "dna_5": "GGCCCG",
+        "dna_6": "GCCCAC"
+    },
+    {
+        "dna_1": "CCCCTC",
+        "dna_2": "GAATGA",
+        "dna_3": "CGCATA",
+        "dna_4": "TGTGCA",
+        "dna_5": "ACTAGC",
+        "dna_6": "CGAATG"
+    },
+    {
+        "dna_1": "CCCGGA",
+        "dna_2": "TCCACA",
+        "dna_3": "TATAGT",
+        "dna_4": "GTGTCA",
+        "dna_5": "GTAAAT",
+        "dna_6": "GACAAG"
+    },
+    {
+        "dna_1": "AGATCA",
+        "dna_2": "ACCTCG",
+        "dna_3": "GAGTAA",
+        "dna_4": "CCACAC",
+        "dna_5": "CGGGCA",
+        "dna_6": "CGGGAG"
+    },
+    {
+        "dna_1": "GAAGCC",
+        "dna_2": "TAGTCA",
+        "dna_3": "TAACAA",
+        "dna_4": "ACCACA",
+        "dna_5": "CCAACA",
+        "dna_6": "TTCGGT"
+    },
+    {
+        "dna_1": "CCGGTA",
+        "dna_2": "CCACGT",
+        "dna_3": "CATGGC",
+        "dna_4": "GCCAAT",
+        "dna_5": "AGACTT",
+        "dna_6": "ACTACA"
+    },
+    {
+        "dna_1": "GGGCAT",
+        "dna_2": "TGTGGT",
+        "dna_3": "AGTACT",
+        "dna_4": "GAAAAT",
+        "dna_5": "TTCCGT",
+        "dna_6": "TTGGAG"
+    },
+    {
+        "dna_1": "GAGCGG",
+        "dna_2": "ACGAAA",
+        "dna_3": "AGCATG",
+        "dna_4": "CTTTTA",
+        "dna_5": "AAGATC",
+        "dna_6": "AGTGCC"
+    },
+    {
+        "dna_1": "TACAAA",
+        "dna_2": "TGTTAA",
+        "dna_3": "TGTGCA",
+        "dna_4": "TACCTG",
+        "dna_5": "TGAGAG",
+        "dna_6": "GGTCCA"
+    },
+    {
+        "dna_1": "TAGATG",
+        "dna_2": "GCTAGT",
+        "dna_3": "GCCCAT",
+        "dna_4": "CTCACA",
+        "dna_5": "CGATAC",
+        "dna_6": "CCTATA"
+    },
+    {
+        "dna_1": "AGCTGC",
+        "dna_2": "GTATGC",
+        "dna_3": "GGTGTT",
+        "dna_4": "CACTAG",
+        "dna_5": "CGCGCT",
+        "dna_6": "ACTTTG"
+    },
+    {
+        "dna_1": "CCTGTA",
+        "dna_2": "GCGAAA",
+        "dna_3": "TAATGA",
+        "dna_4": "TTGAGG",
+        "dna_5": "ATCTGA",
+        "dna_6": "TCCTAT"
+    },
+    {
+        "dna_1": "CATCAG",
+        "dna_2": "TACGGA",
+        "dna_3": "AAACAA",
+        "dna_4": "GTGGAA",
+        "dna_5": "TGCCTC",
+        "dna_6": "CTACGA"
+    },
+    {
+        "dna_1": "TGTTAT",
+        "dna_2": "CGCCAT",
+        "dna_3": "CAGTCG",
+        "dna_4": "CCCAAC",
+        "dna_5": "CTACGG",
+        "dna_6": "CGTCTC"
+    },
+    {
+        "dna_1": "CGCGAA",
+        "dna_2": "CTTATC",
+        "dna_3": "GGCAGC",
+        "dna_4": "TCATGT",
+        "dna_5": "CTTCTC",
+        "dna_6": "ACCAGC"
+    },
+    {
+        "dna_1": "AATTTA",
+        "dna_2": "TTAGAA",
+        "dna_3": "CACAGA",
+        "dna_4": "GGTGGA",
+        "dna_5": "CTTTTT",
+        "dna_6": "TAAGCA"
+    },
+    {
+        "dna_1": "TACGAA",
+        "dna_2": "CTAAGT",
+        "dna_3": "TCAACG",
+        "dna_4": "GTCGAT",
+        "dna_5": "AACTTA",
+        "dna_6": "TGCCGG"
+    },
+    {
+        "dna_1": "GCCCGC",
+        "dna_2": "TTGTTG",
+        "dna_3": "GGCCCG",
+        "dna_4": "GCTATG",
+        "dna_5": "TGTAAT",
+        "dna_6": "ACCATC"
+    },
+    {
+        "dna_1": "CCACAG",
+        "dna_2": "CAAAAT",
+        "dna_3": "GGACCG",
+        "dna_4": "TCCTTC",
+        "dna_5": "CCCACC",
+        "dna_6": "ATTCAG"
+    },
+    {
+        "dna_1": "GCAAGT",
+        "dna_2": "ACTTCC",
+        "dna_3": "TTAGCG",
+        "dna_4": "AATAAC",
+        "dna_5": "CGCATC",
+        "dna_6": "CATTGA"
+    },
+    {
+        "dna_1": "TTGCGT",
+        "dna_2": "CTAGTC",
+        "dna_3": "TATAAT",
+        "dna_4": "AGCTTA",
+        "dna_5": "CCATGG",
+        "dna_6": "GGTCGT"
+    },
+    {
+        "dna_1": "GTAGTT",
+        "dna_2": "AGTTAC",
+        "dna_3": "CATAAC",
+        "dna_4": "AGAGTT",
+        "dna_5": "GCATCA",
+        "dna_6": "CAAGAG"
+    },
+    {
+        "dna_1": "GTTGCA",
+        "dna_2": "GAGACT",
+        "dna_3": "TCGGAA",
+        "dna_4": "ATGTAG",
+        "dna_5": "CACGGC",
+        "dna_6": "CGGGCC"
+    },
+    {
+        "dna_1": "TCTACT",
+        "dna_2": "CTATCG",
+        "dna_3": "GGGGTT",
+        "dna_4": "AGCCAA",
+        "dna_5": "TCCTCT",
+        "dna_6": "CAGTCA"
+    },
+    {
+        "dna_1": "ACATTA",
+        "dna_2": "TATCAG",
+        "dna_3": "TTCGTT",
+        "dna_4": "AGTGAA",
+        "dna_5": "CGGTGC",
+        "dna_6": "CGCCGC"
+    },
+    {
+        "dna_1": "TTGCGC",
+        "dna_2": "GTCGAT",
+        "dna_3": "GTTTCT",
+        "dna_4": "ACATGT",
+        "dna_5": "TGTAGT",
+        "dna_6": "GGGATT"
+    },
+    {
+        "dna_1": "TGGTAG",
+        "dna_2": "GATAAG",
+        "dna_3": "AGTTCC",
+        "dna_4": "CAGAAG",
+        "dna_5": "GATAAT",
+        "dna_6": "GAAAGC"
+    },
+    {
+        "dna_1": "TCACCG",
+        "dna_2": "CCGCGT",
+        "dna_3": "CTCATC",
+        "dna_4": "CATCGG",
+        "dna_5": "TATGTG",
+        "dna_6": "TAAACC"
+    },
+    {
+        "dna_1": "AATGAA",
+        "dna_2": "GTATGA",
+        "dna_3": "AAGGGA",
+        "dna_4": "ACTTTT",
+        "dna_5": "GTTGGC",
+        "dna_6": "GTGAAC"
+    },
+    {
+        "dna_1": "TTGCGC",
+        "dna_2": "TTCATA",
+        "dna_3": "TCAGCT",
+        "dna_4": "TTGGGT",
+        "dna_5": "ACGGTT",
+        "dna_6": "GCGGAA"
+    },
+    {
+        "dna_1": "GCTTAA",
+        "dna_2": "TTCCTG",
+        "dna_3": "AGCCGC",
+        "dna_4": "CGCGTA",
+        "dna_5": "TCCCTG",
+        "dna_6": "GGATGC"
+    },
+    {
+        "dna_1": "CGTTAA",
+        "dna_2": "GGGAGG",
+        "dna_3": "CGGACA",
+        "dna_4": "GGGGGT",
+        "dna_5": "CGTCTG",
+        "dna_6": "TCACTC"
+    },
+    {
+        "dna_1": "GTGATA",
+        "dna_2": "GACATT",
+        "dna_3": "CCAACT",
+        "dna_4": "TCTTTC",
+        "dna_5": "GCCGTA",
+        "dna_6": "GTAGAA"
+    },
+    {
+        "dna_1": "GGAGCT",
+        "dna_2": "TGATTA",
+        "dna_3": "GAACCC",
+        "dna_4": "ATGACC",
+        "dna_5": "GCGTGT",
+        "dna_6": "GCATTA"
+    },
+    {
+        "dna_1": "ATAACC",
+        "dna_2": "TCCACC",
+        "dna_3": "AACGAT",
+        "dna_4": "GTACGG",
+        "dna_5": "TGGTGG",
+        "dna_6": "TACACG"
+    },
+    {
+        "dna_1": "TTTAGC",
+        "dna_2": "TGAGAG",
+        "dna_3": "TGAATG",
+        "dna_4": "TACGGA",
+        "dna_5": "TTGTCT",
+        "dna_6": "CCCAGT"
+    },
+    {
+        "dna_1": "CGTAGG",
+        "dna_2": "ATTTGC",
+        "dna_3": "CTCTAT",
+        "dna_4": "CCGTGC",
+        "dna_5": "CAGATA",
+        "dna_6": "GTGGGT"
+    },
+    {
+        "dna_1": "AATCAT",
+        "dna_2": "AATGGT",
+        "dna_3": "GTTCGT",
+        "dna_4": "CGCACA",
+        "dna_5": "GACAAC",
+        "dna_6": "ACTACC"
+    },
+    {
+        "dna_1": "TCAGGA",
+        "dna_2": "GGTGGG",
+        "dna_3": "ATTGGG",
+        "dna_4": "GTGCAC",
+        "dna_5": "AATGCT",
+        "dna_6": "GTGCGT"
+    },
+    {
+        "dna_1": "ATAGAT",
+        "dna_2": "CAGCAG",
+        "dna_3": "CCGAAC",
+        "dna_4": "GGTCCT",
+        "dna_5": "CACCTG",
+        "dna_6": "CTGGCT"
+    },
+    {
+        "dna_1": "ATACCC",
+        "dna_2": "CGGGTG",
+        "dna_3": "CTTCAC",
+        "dna_4": "TCCGTC",
+        "dna_5": "ACGAAC",
+        "dna_6": "TTGTGG"
+    },
+    {
+        "dna_1": "ACTACT",
+        "dna_2": "ATTCCC",
+        "dna_3": "CCCATC",
+        "dna_4": "TTCGGA",
+        "dna_5": "CCAAGT",
+        "dna_6": "AAGAGA"
+    },
+    {
+        "dna_1": "CTAGCA",
+        "dna_2": "GGTACA",
+        "dna_3": "GCGCTG",
+        "dna_4": "CGGGCA",
+        "dna_5": "CGTCGA",
+        "dna_6": "AGCATT"
+    },
+    {
+        "dna_1": "CGCCGG",
+        "dna_2": "AAGTCG",
+        "dna_3": "CCCGTC",
+        "dna_4": "TATTAG",
+        "dna_5": "AATTGC",
+        "dna_6": "TGATCG"
+    },
+    {
+        "dna_1": "AAAGGT",
+        "dna_2": "CGTCGC",
+        "dna_3": "TGCTAC",
+        "dna_4": "AGGGAG",
+        "dna_5": "TGGCCC",
+        "dna_6": "GTCTGT"
+    },
+    {
+        "dna_1": "AGCCCG",
+        "dna_2": "CGTGCT",
+        "dna_3": "TGTCGT",
+        "dna_4": "TGTATA",
+        "dna_5": "ATAGTC",
+        "dna_6": "TTAGCT"
+    },
+    {
+        "dna_1": "CCTTCA",
+        "dna_2": "CATGGA",
+        "dna_3": "AAAGGC",
+        "dna_4": "GTAATC",
+        "dna_5": "GTCATA",
+        "dna_6": "TCCGGT"
+    },
+    {
+        "dna_1": "AACCTT",
+        "dna_2": "CGCTTA",
+        "dna_3": "AACTAA",
+        "dna_4": "GCTTAA",
+        "dna_5": "TTAGTA",
+        "dna_6": "CTATCT"
+    },
+    {
+        "dna_1": "GAATCA",
+        "dna_2": "GACTGG",
+        "dna_3": "ACTGAA",
+        "dna_4": "CAGCTT",
+        "dna_5": "TACTAA",
+        "dna_6": "CTGAGG"
+    },
+    {
+        "dna_1": "CTAAAA",
+        "dna_2": "AATAGT",
+        "dna_3": "GCGACG",
+        "dna_4": "CAAGAT",
+        "dna_5": "GAACTA",
+        "dna_6": "AACATA"
+    },
+    {
+        "dna_1": "ACGCAT",
+        "dna_2": "GGAGTG",
+        "dna_3": "CACAAC",
+        "dna_4": "CCACAC",
+        "dna_5": "AATACG",
+        "dna_6": "TGCTCA"
+    },
+    {
+        "dna_1": "AATCTT",
+        "dna_2": "TCTTTC",
+        "dna_3": "CGCCTC",
+        "dna_4": "TACTAC",
+        "dna_5": "GGCCCT",
+        "dna_6": "ACACGA"
+    },
+    {
+        "dna_1": "TGCTGA",
+        "dna_2": "TTGGGG",
+        "dna_3": "AATATC",
+        "dna_4": "CTCGGT",
+        "dna_5": "TCATCG",
+        "dna_6": "GGTGAG"
+    },
+    {
+        "dna_1": "GTCCAA",
+        "dna_2": "CTGTAG",
+        "dna_3": "ACAGTT",
+        "dna_4": "CTGGGG",
+        "dna_5": "GTTCTC",
+        "dna_6": "AACTTC"
+    },
+    {
+        "dna_1": "AAACCA",
+        "dna_2": "AGATAT",
+        "dna_3": "ATTGCT",
+        "dna_4": "AAAACG",
+        "dna_5": "TCCGCG",
+        "dna_6": "CGGCGA"
+    },
+    {
+        "dna_1": "AACGCG",
+        "dna_2": "CTGCAG",
+        "dna_3": "TCCGCT",
+        "dna_4": "TCGCTT",
+        "dna_5": "AATGTG",
+        "dna_6": "CCCATG"
+    },
+    {
+        "dna_1": "TTTTCC",
+        "dna_2": "CAAAGG",
+        "dna_3": "TAGAGA",
+        "dna_4": "CTAACC",
+        "dna_5": "CGGATG",
+        "dna_6": "GGTATA"
+    },
+    {
+        "dna_1": "ATCACT",
+        "dna_2": "TGTCTT",
+        "dna_3": "CTTCAC",
+        "dna_4": "TCTTCA",
+        "dna_5": "TCGACA",
+        "dna_6": "CCCGCC"
+    },
+    {
+        "dna_1": "GCGCAG",
+        "dna_2": "GATGAA",
+        "dna_3": "CCCCCA",
+        "dna_4": "GGTGTC",
+        "dna_5": "GCCCCC",
+        "dna_6": "AAAGAG"
+    },
+    {
+        "dna_1": "CCCCGT",
+        "dna_2": "GTAAAT",
+        "dna_3": "ACCGAG",
+        "dna_4": "ATTCTC",
+        "dna_5": "CTATTG",
+        "dna_6": "CGGAAC"
+    },
+    {
+        "dna_1": "TCTCGT",
+        "dna_2": "ACGTCG",
+        "dna_3": "GTCGCT",
+        "dna_4": "CCAATA",
+        "dna_5": "AGAAGT",
+        "dna_6": "GTGCTA"
+    },
+    {
+        "dna_1": "CTCAGT",
+        "dna_2": "CTGAAG",
+        "dna_3": "AGGTGC",
+        "dna_4": "CCTGGG",
+        "dna_5": "GAAGTG",
+        "dna_6": "AGAGTT"
+    },
+    {
+        "dna_1": "AAAGCC",
+        "dna_2": "CCAGTG",
+        "dna_3": "CCCCTA",
+        "dna_4": "GTGGGC",
+        "dna_5": "TGTCCT",
+        "dna_6": "GGCGTT"
+    },
+    {
+        "dna_1": "GTCGAA",
+        "dna_2": "GTCAGC",
+        "dna_3": "GCGGCC",
+        "dna_4": "GGCTAT",
+        "dna_5": "GGTTGT",
+        "dna_6": "CCGACC"
+    },
+    {
+        "dna_1": "CTTGCT",
+        "dna_2": "CGTGCG",
+        "dna_3": "GGCCCC",
+        "dna_4": "ACAGAC",
+        "dna_5": "TATGGT",
+        "dna_6": "TAACAC"
+    },
+    {
+        "dna_1": "ACCGAG",
+        "dna_2": "GGCCTT",
+        "dna_3": "ATGGCC",
+        "dna_4": "ATTACG",
+        "dna_5": "GGTGGA",
+        "dna_6": "CTCCGC"
+    },
+    {
+        "dna_1": "CAGGAC",
+        "dna_2": "CCCATA",
+        "dna_3": "AAGAAC",
+        "dna_4": "AGGTTC",
+        "dna_5": "TAGAAT",
+        "dna_6": "AACATC"
+    },
+    {
+        "dna_1": "TAAGGA",
+        "dna_2": "TCAACC",
+        "dna_3": "AGATGG",
+        "dna_4": "TATTGT",
+        "dna_5": "CAGTAA",
+        "dna_6": "GAAAAG"
+    },
+    {
+        "dna_1": "AGGGCA",
+        "dna_2": "CGTGCG",
+        "dna_3": "CTCGCA",
+        "dna_4": "GGTACA",
+        "dna_5": "GTCCGT",
+        "dna_6": "GAGTTC"
+    },
+    {
+        "dna_1": "CCGTTT",
+        "dna_2": "CAGGAC",
+        "dna_3": "TCTCAA",
+        "dna_4": "GAGTAG",
+        "dna_5": "GCCTCC",
+        "dna_6": "CCAAGC"
+    },
+    {
+        "dna_1": "GTAGCA",
+        "dna_2": "CCCTTA",
+        "dna_3": "TCAGCA",
+        "dna_4": "TACTGT",
+        "dna_5": "TCGTAT",
+        "dna_6": "CGTGAT"
+    },
+    {
+        "dna_1": "GTCCTC",
+        "dna_2": "ATTGCA",
+        "dna_3": "TAGCGG",
+        "dna_4": "CCGGCG",
+        "dna_5": "AAAGCA",
+        "dna_6": "TCTTGA"
+    },
+    {
+        "dna_1": "AGGCGG",
+        "dna_2": "AAGACC",
+        "dna_3": "CCGAGG",
+        "dna_4": "ACTTCT",
+        "dna_5": "GCCGGT",
+        "dna_6": "GCTAGG"
+    },
+    {
+        "dna_1": "GGGTGC",
+        "dna_2": "CGGGGT",
+        "dna_3": "TGGCTA",
+        "dna_4": "CAGGTC",
+        "dna_5": "GCGGTA",
+        "dna_6": "CCACAC"
+    },
+    {
+        "dna_1": "ATGGTC",
+        "dna_2": "CGCCAC",
+        "dna_3": "GATACT",
+        "dna_4": "CTGAAT",
+        "dna_5": "ACCTAG",
+        "dna_6": "TTGTAG"
+    },
+    {
+        "dna_1": "CTCAGG",
+        "dna_2": "AAGAAA",
+        "dna_3": "GTTAAA",
+        "dna_4": "ACGTTA",
+        "dna_5": "GAAATC",
+        "dna_6": "TCTTAT"
+    },
+    {
+        "dna_1": "AATGTA",
+        "dna_2": "GTTCGT",
+        "dna_3": "CTCTGA",
+        "dna_4": "GTTATG",
+        "dna_5": "GTGAGC",
+        "dna_6": "TCCCAT"
+    },
+    {
+        "dna_1": "ATGGGA",
+        "dna_2": "ATACTC",
+        "dna_3": "AATCCA",
+        "dna_4": "GTGCTT",
+        "dna_5": "TTTACG",
+        "dna_6": "GGATCT"
+    },
+    {
+        "dna_1": "GATGAA",
+        "dna_2": "CATAAA",
+        "dna_3": "AGAGAC",
+        "dna_4": "TTATAA",
+        "dna_5": "TCTTGC",
+        "dna_6": "CACTTT"
+    },
+    {
+        "dna_1": "ACGCGG",
+        "dna_2": "AGTCAA",
+        "dna_3": "GGCGTG",
+        "dna_4": "TAGTAC",
+        "dna_5": "ATGCGT",
+        "dna_6": "GTGAGG"
+    },
+    {
+        "dna_1": "ACCTGG",
+        "dna_2": "TATGAT",
+        "dna_3": "GAGTTG",
+        "dna_4": "ACTATC",
+        "dna_5": "ACAATA",
+        "dna_6": "TCGTAA"
+    },
+    {
+        "dna_1": "TCCCCG",
+        "dna_2": "CTTGTG",
+        "dna_3": "GCACGG",
+        "dna_4": "GACGTG",
+        "dna_5": "AGAACT",
+        "dna_6": "TCTTCA"
+    },
+    {
+        "dna_1": "GCCGCT",
+        "dna_2": "GAAGAG",
+        "dna_3": "GTGGCC",
+        "dna_4": "GTCAAT",
+        "dna_5": "TGCCGC",
+        "dna_6": "CAGTTC"
+    },
+    {
+        "dna_1": "GACGGC",
+        "dna_2": "CTAGGA",
+        "dna_3": "CGACTC",
+        "dna_4": "CTCAAG",
+        "dna_5": "TTAGCT",
+        "dna_6": "TACCAG"
+    },
+    {
+        "dna_1": "GCATGT",
+        "dna_2": "CCTAAC",
+        "dna_3": "AACACA",
+        "dna_4": "AAATGA",
+        "dna_5": "AACCAA",
+        "dna_6": "CGCGTG"
+    },
+    {
+        "dna_1": "ACTAAG",
+        "dna_2": "TCAAGG",
+        "dna_3": "GTTCTC",
+        "dna_4": "AAGTAG",
+        "dna_5": "GGGACT",
+        "dna_6": "GAATCC"
+    },
+    {
+        "dna_1": "CGGGTC",
+        "dna_2": "ATCACG",
+        "dna_3": "TCCTAA",
+        "dna_4": "GTCATT",
+        "dna_5": "GGTTTC",
+        "dna_6": "CCTGCG"
+    },
+    {
+        "dna_1": "GGCGTT",
+        "dna_2": "CGGACT",
+        "dna_3": "ACGCGG",
+        "dna_4": "CTCAGA",
+        "dna_5": "ATCCCG",
+        "dna_6": "GAGCGA"
+    },
+    {
+        "dna_1": "TCGTAT",
+        "dna_2": "GATACT",
+        "dna_3": "ACTTTG",
+        "dna_4": "TAAACT",
+        "dna_5": "TCACGG",
+        "dna_6": "CCTGTG"
+    },
+    {
+        "dna_1": "CTTTCT",
+        "dna_2": "CCAAAG",
+        "dna_3": "CAGCCG",
+        "dna_4": "GGTCCT",
+        "dna_5": "AAATCA",
+        "dna_6": "GCGCCT"
+    },
+    {
+        "dna_1": "GTCCTA",
+        "dna_2": "CCAGTC",
+        "dna_3": "TTCCTC",
+        "dna_4": "AACTTC",
+        "dna_5": "GCCTTT",
+        "dna_6": "TTACCG"
+    },
+    {
+        "dna_1": "TTTTAT",
+        "dna_2": "GATTTA",
+        "dna_3": "GATACA",
+        "dna_4": "CCAACC",
+        "dna_5": "GTCAGC",
+        "dna_6": "CTAGGT"
+    },
+    {
+        "dna_1": "AGTTGA",
+        "dna_2": "GTTGCT",
+        "dna_3": "TAAGCT",
+        "dna_4": "TGACCT",
+        "dna_5": "TTAAAA",
+        "dna_6": "CGAGCC"
+    },
+    {
+        "dna_1": "TCACCC",
+        "dna_2": "ACGTAT",
+        "dna_3": "GATGAT",
+        "dna_4": "AAAATG",
+        "dna_5": "CCGGAT",
+        "dna_6": "CCCTAA"
+    },
+    {
+        "dna_1": "TTCTCC",
+        "dna_2": "ATAACG",
+        "dna_3": "TCGAAT",
+        "dna_4": "AAATTC",
+        "dna_5": "ATGTAC",
+        "dna_6": "CTCCCT"
+    },
+    {
+        "dna_1": "ACATCT",
+        "dna_2": "GTTCTA",
+        "dna_3": "AATTCC",
+        "dna_4": "CTAATC",
+        "dna_5": "GCTAAA",
+        "dna_6": "ATACAG"
+    },
+    {
+        "dna_1": "GGAGCA",
+        "dna_2": "TATGGA",
+        "dna_3": "TCGTTA",
+        "dna_4": "CAGGAC",
+        "dna_5": "CTAGCG",
+        "dna_6": "TATCCG"
+    },
+    {
+        "dna_1": "GTACCG",
+        "dna_2": "GGGGGA",
+        "dna_3": "GAGACC",
+        "dna_4": "CAAGAG",
+        "dna_5": "GGGAAG",
+        "dna_6": "ATGAGT"
+    },
+    {
+        "dna_1": "TAGTTA",
+        "dna_2": "AAGCGA",
+        "dna_3": "TGGGGT",
+        "dna_4": "GCATTG",
+        "dna_5": "GTGGAC",
+        "dna_6": "GCGGCC"
+    },
+    {
+        "dna_1": "GCCTTC",
+        "dna_2": "GCTATC",
+        "dna_3": "CTTTCA",
+        "dna_4": "AAACCG",
+        "dna_5": "CAGAAT",
+        "dna_6": "AACAGC"
+    },
+    {
+        "dna_1": "CCATTT",
+        "dna_2": "GGAATA",
+        "dna_3": "GAGTCC",
+        "dna_4": "GAATGC",
+        "dna_5": "GGTACA",
+        "dna_6": "ACACGT"
+    },
+    {
+        "dna_1": "CGAAAA",
+        "dna_2": "CTCCAC",
+        "dna_3": "CATAAG",
+        "dna_4": "GAGCGA",
+        "dna_5": "TGTCAT",
+        "dna_6": "GGGCTC"
+    },
+    {
+        "dna_1": "CGTATG",
+        "dna_2": "ATTGAG",
+        "dna_3": "CAACAG",
+        "dna_4": "CTATTT",
+        "dna_5": "TTATAT",
+        "dna_6": "ACGGTC"
+    },
+    {
+        "dna_1": "GTCAAG",
+        "dna_2": "TTCTTT",
+        "dna_3": "CCCACA",
+        "dna_4": "CCTAGC",
+        "dna_5": "TCGAGA",
+        "dna_6": "GATATT"
+    },
+    {
+        "dna_1": "GCAAAA",
+        "dna_2": "ATCTCT",
+        "dna_3": "ATCTTG",
+        "dna_4": "ATTTGA",
+        "dna_5": "GTTCGT",
+        "dna_6": "TGCTTA"
+    },
+    {
+        "dna_1": "ATTCTG",
+        "dna_2": "CCCAAG",
+        "dna_3": "AAGTGC",
+        "dna_4": "GTCATC",
+        "dna_5": "GTTATT",
+        "dna_6": "ACCAAG"
+    },
+    {
+        "dna_1": "ATTGTT",
+        "dna_2": "GGAAAT",
+        "dna_3": "CCCTGT",
+        "dna_4": "AGCATA",
+        "dna_5": "TTGAGG",
+        "dna_6": "TGAATA"
+    },
+    {
+        "dna_1": "TACGGT",
+        "dna_2": "CGGTAG",
+        "dna_3": "GAGCTG",
+        "dna_4": "GTCATG",
+        "dna_5": "CGGGGA",
+        "dna_6": "TAACTG"
+    },
+    {
+        "dna_1": "AAGGGA",
+        "dna_2": "CGTGAT",
+        "dna_3": "GTCTTA",
+        "dna_4": "GTATCT",
+        "dna_5": "AACTTG",
+        "dna_6": "CCCAGG"
+    },
+    {
+        "dna_1": "TGGATC",
+        "dna_2": "TCCACC",
+        "dna_3": "GTGATT",
+        "dna_4": "GCCGCC",
+        "dna_5": "TAAGGA",
+        "dna_6": "GAGCCT"
+    },
+    {
+        "dna_1": "GAGATA",
+        "dna_2": "TCCACG",
+        "dna_3": "GTCGAC",
+        "dna_4": "CGCGAT",
+        "dna_5": "TTTTAT",
+        "dna_6": "GTGCCA"
+    },
+    {
+        "dna_1": "GCCAAC",
+        "dna_2": "CTTTGG",
+        "dna_3": "GGTATT",
+        "dna_4": "GGGGAA",
+        "dna_5": "GGGAAA",
+        "dna_6": "AGGTAA"
+    },
+    {
+        "dna_1": "ATGAGT",
+        "dna_2": "CGTGTC",
+        "dna_3": "CGGGCG",
+        "dna_4": "CCTATC",
+        "dna_5": "TATGAA",
+        "dna_6": "CCTTGA"
+    },
+    {
+        "dna_1": "GCGCGA",
+        "dna_2": "TCGCCG",
+        "dna_3": "CTAGGG",
+        "dna_4": "TCGCAC",
+        "dna_5": "GTGATG",
+        "dna_6": "GTCTTC"
+    },
+    {
+        "dna_1": "AGGTGC",
+        "dna_2": "GTGACC",
+        "dna_3": "TTGTCG",
+        "dna_4": "TACTGT",
+        "dna_5": "GCCGGT",
+        "dna_6": "AAGAAT"
+    },
+    {
+        "dna_1": "GCCACC",
+        "dna_2": "CCGACG",
+        "dna_3": "CAGATG",
+        "dna_4": "GACGGT",
+        "dna_5": "ACTTAA",
+        "dna_6": "ATCGTG"
+    },
+    {
+        "dna_1": "TGGTAG",
+        "dna_2": "TATCGT",
+        "dna_3": "GCAACT",
+        "dna_4": "CCAACT",
+        "dna_5": "TCGTCA",
+        "dna_6": "AAAATA"
+    },
+    {
+        "dna_1": "AGGGAC",
+        "dna_2": "CCAAAT",
+        "dna_3": "GCTTTC",
+        "dna_4": "TGTCTA",
+        "dna_5": "GCAAAG",
+        "dna_6": "GAGCAG"
+    },
+    {
+        "dna_1": "GGGACT",
+        "dna_2": "TGATGT",
+        "dna_3": "TAATAA",
+        "dna_4": "CACCCG",
+        "dna_5": "AGGTCC",
+        "dna_6": "GCTACT"
+    },
+    {
+        "dna_1": "CGTGGA",
+        "dna_2": "GAGTAA",
+        "dna_3": "AGGGCT",
+        "dna_4": "TGAGGT",
+        "dna_5": "GCTAAA",
+        "dna_6": "GTGAGT"
+    },
+    {
+        "dna_1": "TCCTGG",
+        "dna_2": "GTTATG",
+        "dna_3": "CGAACG",
+        "dna_4": "GCCTCG",
+        "dna_5": "GGTCCG",
+        "dna_6": "TCTGTG"
+    },
+    {
+        "dna_1": "GTGGCC",
+        "dna_2": "TCTGCA",
+        "dna_3": "AGCCGA",
+        "dna_4": "AGGGGC",
+        "dna_5": "ATGGCT",
+        "dna_6": "CCAGGC"
+    },
+    {
+        "dna_1": "CTGCGA",
+        "dna_2": "CATGCA",
+        "dna_3": "TGAATT",
+        "dna_4": "CAATGG",
+        "dna_5": "GGGCTG",
+        "dna_6": "TATCAT"
+    },
+    {
+        "dna_1": "CTGTCA",
+        "dna_2": "TGCAAG",
+        "dna_3": "TTCTTT",
+        "dna_4": "GGAGAG",
+        "dna_5": "TTCTAA",
+        "dna_6": "TACAGA"
+    },
+    {
+        "dna_1": "CGAGGG",
+        "dna_2": "TCTACA",
+        "dna_3": "AAGATG",
+        "dna_4": "ACGGCA",
+        "dna_5": "TTAAAC",
+        "dna_6": "CCATAG"
+    },
+    {
+        "dna_1": "TAGCGA",
+        "dna_2": "ACAGTG",
+        "dna_3": "GGTGAA",
+        "dna_4": "TGGGGG",
+        "dna_5": "CCCGAT",
+        "dna_6": "TCCGAA"
+    },
+    {
+        "dna_1": "TGCTGG",
+        "dna_2": "CTACTT",
+        "dna_3": "AAGGTC",
+        "dna_4": "ATACGT",
+        "dna_5": "CTCACA",
+        "dna_6": "TGGCAC"
+    },
+    {
+        "dna_1": "TCGTTC",
+        "dna_2": "TAGGTG",
+        "dna_3": "TGTAGA",
+        "dna_4": "CAGAAC",
+        "dna_5": "GCGTTA",
+        "dna_6": "CTAAGT"
+    },
+    {
+        "dna_1": "GGTGCT",
+        "dna_2": "TTCAGC",
+        "dna_3": "TAATCT",
+        "dna_4": "AGCTAT",
+        "dna_5": "ACTCAT",
+        "dna_6": "CATGTT"
+    },
+    {
+        "dna_1": "GACGAC",
+        "dna_2": "GGAGGT",
+        "dna_3": "GGAGAA",
+        "dna_4": "ACGAGT",
+        "dna_5": "CTTATT",
+        "dna_6": "CGTAGT"
+    },
+    {
+        "dna_1": "GGCAGT",
+        "dna_2": "CCAAAA",
+        "dna_3": "TCCCTA",
+        "dna_4": "CACGCT",
+        "dna_5": "CGAACA",
+        "dna_6": "TAGCTC"
+    },
+    {
+        "dna_1": "ATCAGG",
+        "dna_2": "CGTCGA",
+        "dna_3": "GAGTGC",
+        "dna_4": "CCGAGG",
+        "dna_5": "CACTTT",
+        "dna_6": "ATTTGC"
+    },
+    {
+        "dna_1": "GGAGCT",
+        "dna_2": "TTAACG",
+        "dna_3": "ACGAGG",
+        "dna_4": "GTGCCA",
+        "dna_5": "ACTGCA",
+        "dna_6": "TGGGGT"
+    },
+    {
+        "dna_1": "GAAAGG",
+        "dna_2": "AGGCGT",
+        "dna_3": "TACCGG",
+        "dna_4": "GTTTCC",
+        "dna_5": "GGGTCT",
+        "dna_6": "CTCGGC"
+    },
+    {
+        "dna_1": "ATATTC",
+        "dna_2": "GCCACT",
+        "dna_3": "GACGAG",
+        "dna_4": "ATGGTA",
+        "dna_5": "GCGGAA",
+        "dna_6": "CAATTC"
+    },
+    {
+        "dna_1": "CAAATG",
+        "dna_2": "GCTCTA",
+        "dna_3": "AACTCT",
+        "dna_4": "TGACGC",
+        "dna_5": "CGCGCG",
+        "dna_6": "CCAATC"
+    },
+    {
+        "dna_1": "ATATCA",
+        "dna_2": "CAAGAC",
+        "dna_3": "CATACG",
+        "dna_4": "AGCTAC",
+        "dna_5": "CAAAGG",
+        "dna_6": "TCAAAT"
+    },
+    {
+        "dna_1": "GCTATG",
+        "dna_2": "TATGAT",
+        "dna_3": "CGCCAT",
+        "dna_4": "ATATAC",
+        "dna_5": "CTCAGG",
+        "dna_6": "GTGACT"
+    },
+    {
+        "dna_1": "CACTGT",
+        "dna_2": "TACTCT",
+        "dna_3": "ACCGGT",
+        "dna_4": "ACAATT",
+        "dna_5": "TAAGGC",
+        "dna_6": "TCATGC"
+    },
+    {
+        "dna_1": "TACGAT",
+        "dna_2": "GGTGGC",
+        "dna_3": "TACTTC",
+        "dna_4": "GAACCC",
+        "dna_5": "GGTTGC",
+        "dna_6": "GCTATA"
+    },
+    {
+        "dna_1": "AAACTT",
+        "dna_2": "GGTCCT",
+        "dna_3": "ATGTGG",
+        "dna_4": "TCACGG",
+        "dna_5": "TGGCCG",
+        "dna_6": "GGTGAT"
+    },
+    {
+        "dna_1": "CAGGGA",
+        "dna_2": "AGCCAT",
+        "dna_3": "GACCTT",
+        "dna_4": "GCCCGG",
+        "dna_5": "TACCCG",
+        "dna_6": "CTCCTG"
+    },
+    {
+        "dna_1": "TACTAT",
+        "dna_2": "TTTTTG",
+        "dna_3": "TGACCC",
+        "dna_4": "TGTTAT",
+        "dna_5": "GTGGCG",
+        "dna_6": "CCCCAG"
+    },
+    {
+        "dna_1": "AAAGGG",
+        "dna_2": "CCCCTC",
+        "dna_3": "GCCAAT",
+        "dna_4": "ATGGAT",
+        "dna_5": "TGAACC",
+        "dna_6": "GGGCAT"
+    },
+    {
+        "dna_1": "GGGGAG",
+        "dna_2": "TTCGGA",
+        "dna_3": "GCCGGC",
+        "dna_4": "ACTCTT",
+        "dna_5": "TGGACC",
+        "dna_6": "AGTCAG"
+    },
+    {
+        "dna_1": "CGTTGA",
+        "dna_2": "CAGTGC",
+        "dna_3": "TTTGTG",
+        "dna_4": "ACCCTT",
+        "dna_5": "ACGACG",
+        "dna_6": "CCGACT"
+    },
+    {
+        "dna_1": "CGTTAT",
+        "dna_2": "GCCAGC",
+        "dna_3": "GGGACA",
+        "dna_4": "AAAATC",
+        "dna_5": "GTGTGA",
+        "dna_6": "AAACAC"
+    },
+    {
+        "dna_1": "AAGCGT",
+        "dna_2": "CAGCAT",
+        "dna_3": "GATAGT",
+        "dna_4": "CGATTA",
+        "dna_5": "GTCACC",
+        "dna_6": "TTAACC"
+    },
+    {
+        "dna_1": "GCGTTA",
+        "dna_2": "TTTAAG",
+        "dna_3": "TCACGA",
+        "dna_4": "GAGGAG",
+        "dna_5": "ATTCTG",
+        "dna_6": "TTGGCA"
+    },
+    {
+        "dna_1": "AGGCCT",
+        "dna_2": "GCAGCA",
+        "dna_3": "GATTCG",
+        "dna_4": "CCGCAA",
+        "dna_5": "ACCTAA",
+        "dna_6": "TACGAT"
+    },
+    {
+        "dna_1": "CTTCAG",
+        "dna_2": "GCGTAG",
+        "dna_3": "AAATCA",
+        "dna_4": "GGGAGA",
+        "dna_5": "GGACGA",
+        "dna_6": "CGCAGA"
+    },
+    {
+        "dna_1": "ATCTGT",
+        "dna_2": "CGTGAG",
+        "dna_3": "TGGGTT",
+        "dna_4": "TGCCAT",
+        "dna_5": "TACTTG",
+        "dna_6": "CTAATC"
+    },
+    {
+        "dna_1": "CAAGTA",
+        "dna_2": "TTCGGG",
+        "dna_3": "GCTGCA",
+        "dna_4": "ATACAA",
+        "dna_5": "CCCCTT",
+        "dna_6": "GAACAA"
+    },
+    {
+        "dna_1": "GTATAA",
+        "dna_2": "TTTATT",
+        "dna_3": "ATCGCG",
+        "dna_4": "CAAGAC",
+        "dna_5": "CCCCTT",
+        "dna_6": "TTCAAA"
+    },
+    {
+        "dna_1": "GGTTGG",
+        "dna_2": "GATATG",
+        "dna_3": "AGAAGC",
+        "dna_4": "GGCTAA",
+        "dna_5": "TTCATA",
+        "dna_6": "ACGTAG"
+    },
+    {
+        "dna_1": "AGCCTT",
+        "dna_2": "GGGTGG",
+        "dna_3": "TCACGC",
+        "dna_4": "CTTCAG",
+        "dna_5": "AGTTAA",
+        "dna_6": "GAGCTT"
+    },
+    {
+        "dna_1": "ACGCGC",
+        "dna_2": "CGATAC",
+        "dna_3": "GACGAT",
+        "dna_4": "TAAAAC",
+        "dna_5": "CCCGAG",
+        "dna_6": "AGCGCG"
+    },
+    {
+        "dna_1": "CTTCTG",
+        "dna_2": "TCCCGA",
+        "dna_3": "GAGTTC",
+        "dna_4": "ACCGAT",
+        "dna_5": "TCTATA",
+        "dna_6": "GCCGCC"
+    },
+    {
+        "dna_1": "CCCTTC",
+        "dna_2": "AGCGGG",
+        "dna_3": "CCGTGT",
+        "dna_4": "GGTTAC",
+        "dna_5": "ATATTA",
+        "dna_6": "CGTAGG"
+    },
+    {
+        "dna_1": "TCTATG",
+        "dna_2": "GCGACA",
+        "dna_3": "TATTAG",
+        "dna_4": "TTTAGC",
+        "dna_5": "AGTGTG",
+        "dna_6": "TCTTAT"
+    },
+    {
+        "dna_1": "TAATTA",
+        "dna_2": "GTCTGA",
+        "dna_3": "AGGCGG",
+        "dna_4": "TGAGGA",
+        "dna_5": "GGCACC",
+        "dna_6": "ATGATC"
+    },
+    {
+        "dna_1": "GCCTCG",
+        "dna_2": "CCAGGA",
+        "dna_3": "GGGAGC",
+        "dna_4": "CATGCA",
+        "dna_5": "TTCTAA",
+        "dna_6": "GTTACC"
+    },
+    {
+        "dna_1": "CATGTG",
+        "dna_2": "AGGAAT",
+        "dna_3": "GGACGC",
+        "dna_4": "ATGCCA",
+        "dna_5": "CCACTA",
+        "dna_6": "CCTTCA"
+    },
+    {
+        "dna_1": "TGTAAA",
+        "dna_2": "GTGCCC",
+        "dna_3": "AAGTTG",
+        "dna_4": "TCGCAA",
+        "dna_5": "AATTGC",
+        "dna_6": "ATCTAC"
+    },
+    {
+        "dna_1": "AAACGG",
+        "dna_2": "CTTCGT",
+        "dna_3": "TTATCT",
+        "dna_4": "ACCTAC",
+        "dna_5": "GGATCC",
+        "dna_6": "TACTAT"
+    },
+    {
+        "dna_1": "GTCACA",
+        "dna_2": "GTGTCC",
+        "dna_3": "AACCCG",
+        "dna_4": "CCGCTC",
+        "dna_5": "ATCTCA",
+        "dna_6": "ACCAAT"
+    },
+    {
+        "dna_1": "CTCGTT",
+        "dna_2": "ATTTTT",
+        "dna_3": "TCTAAG",
+        "dna_4": "GACCGC",
+        "dna_5": "TCGCGT",
+        "dna_6": "CTACGG"
+    },
+    {
+        "dna_1": "AACAGG",
+        "dna_2": "TTATAC",
+        "dna_3": "ACATAA",
+        "dna_4": "TAGCTA",
+        "dna_5": "CCATGA",
+        "dna_6": "ACAAAA"
+    },
+    {
+        "dna_1": "GTGACT",
+        "dna_2": "CCCAAA",
+        "dna_3": "AGATAA",
+        "dna_4": "ATCGGA",
+        "dna_5": "GGGCCA",
+        "dna_6": "CGCTGT"
+    },
+    {
+        "dna_1": "ATAGGA",
+        "dna_2": "TCAGAA",
+        "dna_3": "GATAGG",
+        "dna_4": "TTAGAG",
+        "dna_5": "TTAAAT",
+        "dna_6": "GGAGGA"
+    },
+    {
+        "dna_1": "AAATGA",
+        "dna_2": "ACCGCC",
+        "dna_3": "CCTGTG",
+        "dna_4": "CCGTGG",
+        "dna_5": "GACTCG",
+        "dna_6": "ATAGCA"
+    },
+    {
+        "dna_1": "TACCAC",
+        "dna_2": "TATTTG",
+        "dna_3": "TTGCGG",
+        "dna_4": "ACAGAC",
+        "dna_5": "CCGTCC",
+        "dna_6": "GAGTGG"
+    },
+    {
+        "dna_1": "TCAAGA",
+        "dna_2": "TCTCAT",
+        "dna_3": "TCTTTA",
+        "dna_4": "ATTGAG",
+        "dna_5": "GAGACG",
+        "dna_6": "GTAGCG"
+    },
+    {
+        "dna_1": "CGTTCA",
+        "dna_2": "ATGAAG",
+        "dna_3": "CGAAAT",
+        "dna_4": "GGAGAA",
+        "dna_5": "GGTGAG",
+        "dna_6": "CAGACG"
+    },
+    {
+        "dna_1": "AAGCAG",
+        "dna_2": "CATCGC",
+        "dna_3": "GCAAAC",
+        "dna_4": "CGCAGC",
+        "dna_5": "TGGAGG",
+        "dna_6": "ATGATA"
+    },
+    {
+        "dna_1": "ACTAAA",
+        "dna_2": "AGGTAA",
+        "dna_3": "TCGGGC",
+        "dna_4": "ACCCTA",
+        "dna_5": "CCTACA",
+        "dna_6": "ATGAAG"
+    },
+    {
+        "dna_1": "TGGGAG",
+        "dna_2": "CGTTTA",
+        "dna_3": "TGTAAT",
+        "dna_4": "TCCGAA",
+        "dna_5": "ACATGC",
+        "dna_6": "CGCCTC"
+    },
+    {
+        "dna_1": "CAGTGC",
+        "dna_2": "GACGTG",
+        "dna_3": "TCGTAG",
+        "dna_4": "AACAGC",
+        "dna_5": "CACAGA",
+        "dna_6": "GTGACT"
+    },
+    {
+        "dna_1": "CTGCGT",
+        "dna_2": "TCACGT",
+        "dna_3": "GATGCA",
+        "dna_4": "AACGCT",
+        "dna_5": "TCTGAC",
+        "dna_6": "CTCTAT"
+    },
+    {
+        "dna_1": "CATTGC",
+        "dna_2": "AGTTTC",
+        "dna_3": "CGGACA",
+        "dna_4": "GGTCTT",
+        "dna_5": "GATTGG",
+        "dna_6": "TTTTGT"
+    },
+    {
+        "dna_1": "TAGCTT",
+        "dna_2": "GTTAGC",
+        "dna_3": "TACGCT",
+        "dna_4": "GAAAGA",
+        "dna_5": "AGGCAC",
+        "dna_6": "TATTAG"
+    },
+    {
+        "dna_1": "CGTCTG",
+        "dna_2": "TAGTTC",
+        "dna_3": "CGGTGC",
+        "dna_4": "CGTAGA",
+        "dna_5": "CGTATC",
+        "dna_6": "TGTCGG"
+    },
+    {
+        "dna_1": "TGCTTA",
+        "dna_2": "GATAGA",
+        "dna_3": "GTGTCA",
+        "dna_4": "CGCTCA",
+        "dna_5": "TTGTCT",
+        "dna_6": "CCTCGA"
+    },
+    {
+        "dna_1": "CATTGC",
+        "dna_2": "TCAGGG",
+        "dna_3": "CTGTCA",
+        "dna_4": "ATAACC",
+        "dna_5": "TACTGC",
+        "dna_6": "GGGCTG"
+    },
+    {
+        "dna_1": "AACTCA",
+        "dna_2": "GGTGAA",
+        "dna_3": "CAGAAT",
+        "dna_4": "TGTTCG",
+        "dna_5": "AATAGT",
+        "dna_6": "GCCATC"
+    },
+    {
+        "dna_1": "AAAACT",
+        "dna_2": "CATACA",
+        "dna_3": "ACACTG",
+        "dna_4": "TTAAGC",
+        "dna_5": "AATTAC",
+        "dna_6": "TCGTTT"
+    },
+    {
+        "dna_1": "TACGCA",
+        "dna_2": "GGCGTT",
+        "dna_3": "CATTCG",
+        "dna_4": "TATTGG",
+        "dna_5": "GATATA",
+        "dna_6": "GTGCGT"
+    },
+    {
+        "dna_1": "GTTGGG",
+        "dna_2": "CTGGCA",
+        "dna_3": "GTGACA",
+        "dna_4": "ACGCAA",
+        "dna_5": "ACGTTA",
+        "dna_6": "TCATTA"
+    },
+    {
+        "dna_1": "GAGCAT",
+        "dna_2": "CTCTCG",
+        "dna_3": "CCGACA",
+        "dna_4": "ACGCTG",
+        "dna_5": "CAAGGG",
+        "dna_6": "GATATA"
+    },
+    {
+        "dna_1": "TGCGTA",
+        "dna_2": "TTCGTC",
+        "dna_3": "GATACA",
+        "dna_4": "TTCGTC",
+        "dna_5": "CACTCC",
+        "dna_6": "AGGCTG"
+    },
+    {
+        "dna_1": "ACAAAA",
+        "dna_2": "ATAATA",
+        "dna_3": "ATATGA",
+        "dna_4": "CCGTTA",
+        "dna_5": "GGGGCA",
+        "dna_6": "TCACAA"
+    },
+    {
+        "dna_1": "GAATAA",
+        "dna_2": "ACACGG",
+        "dna_3": "AGGCAG",
+        "dna_4": "TCAACG",
+        "dna_5": "ATCGTG",
+        "dna_6": "GCGTCC"
+    },
+    {
+        "dna_1": "CCCTCA",
+        "dna_2": "ACGTGC",
+        "dna_3": "GTGACA",
+        "dna_4": "ACCCTA",
+        "dna_5": "GCGACA",
+        "dna_6": "GCGTCC"
+    },
+    {
+        "dna_1": "TTATGA",
+        "dna_2": "GTGTTT",
+        "dna_3": "TCGTAT",
+        "dna_4": "ATTCCG",
+        "dna_5": "CTTGCA",
+        "dna_6": "ACTTGT"
+    },
+    {
+        "dna_1": "TCCGGG",
+        "dna_2": "AGGTAC",
+        "dna_3": "GAGGGT",
+        "dna_4": "TCGAGT",
+        "dna_5": "TCCTCG",
+        "dna_6": "CACTTA"
+    },
+    {
+        "dna_1": "TCGCTA",
+        "dna_2": "TACACA",
+        "dna_3": "AATACC",
+        "dna_4": "AAGCTC",
+        "dna_5": "TTAGTA",
+        "dna_6": "CACGTT"
+    },
+    {
+        "dna_1": "GATTCT",
+        "dna_2": "GGGGCG",
+        "dna_3": "TGTCTT",
+        "dna_4": "CGAAAT",
+        "dna_5": "ATGCTA",
+        "dna_6": "AGGCGT"
+    },
+    {
+        "dna_1": "TGAGCG",
+        "dna_2": "TCGTTA",
+        "dna_3": "GAGTGC",
+        "dna_4": "ATGACT",
+        "dna_5": "CTTAAT",
+        "dna_6": "TGACAA"
+    },
+    {
+        "dna_1": "TCGCTC",
+        "dna_2": "GGTATC",
+        "dna_3": "GGCTCC",
+        "dna_4": "ATTTTC",
+        "dna_5": "AGTGAA",
+        "dna_6": "ATGGAG"
+    },
+    {
+        "dna_1": "ACGTAA",
+        "dna_2": "GCTGTT",
+        "dna_3": "TCGTGG",
+        "dna_4": "AGCTTT",
+        "dna_5": "CTTCTT",
+        "dna_6": "TGTGCC"
+    },
+    {
+        "dna_1": "TTTTAA",
+        "dna_2": "ATAATT",
+        "dna_3": "ACTTCG",
+        "dna_4": "AGCGAA",
+        "dna_5": "ACGAAA",
+        "dna_6": "CTAGGG"
+    },
+    {
+        "dna_1": "AGTCCT",
+        "dna_2": "CCATCT",
+        "dna_3": "GTGATT",
+        "dna_4": "AGTCGT",
+        "dna_5": "AGAGAG",
+        "dna_6": "TTTATG"
+    },
+    {
+        "dna_1": "GCTCCT",
+        "dna_2": "GCGACC",
+        "dna_3": "TGCTAT",
+        "dna_4": "CTGAGG",
+        "dna_5": "GCTTCT",
+        "dna_6": "CCTGGT"
+    },
+    {
+        "dna_1": "CCGGCA",
+        "dna_2": "CGCGGC",
+        "dna_3": "TTTGGG",
+        "dna_4": "GACAGC",
+        "dna_5": "ACTGGC",
+        "dna_6": "GCAAAG"
+    },
+    {
+        "dna_1": "GTTCTG",
+        "dna_2": "ACGGCG",
+        "dna_3": "CGCTGG",
+        "dna_4": "CTTCGC",
+        "dna_5": "TCACGC",
+        "dna_6": "TCGAGG"
+    },
+    {
+        "dna_1": "ATGGGC",
+        "dna_2": "ACCGTC",
+        "dna_3": "TCAGTC",
+        "dna_4": "TACTCT",
+        "dna_5": "TGTGAA",
+        "dna_6": "TTCCGG"
+    },
+    {
+        "dna_1": "CTCACG",
+        "dna_2": "AGGCCG",
+        "dna_3": "TTTGTG",
+        "dna_4": "CAGCTC",
+        "dna_5": "GCAAAC",
+        "dna_6": "CCAAGT"
+    },
+    {
+        "dna_1": "ATCAAA",
+        "dna_2": "TCTGTT",
+        "dna_3": "ATCCCT",
+        "dna_4": "TTCCAA",
+        "dna_5": "TCGTCC",
+        "dna_6": "ATCGAC"
+    },
+    {
+        "dna_1": "GCGTAA",
+        "dna_2": "ACCAGT",
+        "dna_3": "TCACGA",
+        "dna_4": "ATCTAA",
+        "dna_5": "AGCCAA",
+        "dna_6": "TGTCTC"
+    },
+    {
+        "dna_1": "TCTTAT",
+        "dna_2": "GGGGCT",
+        "dna_3": "CAGTAA",
+        "dna_4": "TGGGGC",
+        "dna_5": "TCCGAA",
+        "dna_6": "CAAAGG"
+    },
+    {
+        "dna_1": "TGAAGT",
+        "dna_2": "AACTCC",
+        "dna_3": "TAGGCT",
+        "dna_4": "ACGTTT",
+        "dna_5": "GAAAAT",
+        "dna_6": "AGCGTA"
+    },
+    {
+        "dna_1": "CGGACT",
+        "dna_2": "ATTATG",
+        "dna_3": "GTTTAC",
+        "dna_4": "CGACGG",
+        "dna_5": "TTTGAT",
+        "dna_6": "ACGTGC"
+    },
+    {
+        "dna_1": "CGATGC",
+        "dna_2": "CCCTAG",
+        "dna_3": "CATACA",
+        "dna_4": "ACAAAT",
+        "dna_5": "CACGCC",
+        "dna_6": "CACAAA"
+    },
+    {
+        "dna_1": "ACCAGA",
+        "dna_2": "GACTGG",
+        "dna_3": "TCCGTG",
+        "dna_4": "TGAAGG",
+        "dna_5": "CTTCCG",
+        "dna_6": "GGGGGG"
+    },
+    {
+        "dna_1": "TGGCGG",
+        "dna_2": "ATAAGC",
+        "dna_3": "TCTCGG",
+        "dna_4": "GAGGCC",
+        "dna_5": "AAGACA",
+        "dna_6": "CGACAT"
+    },
+    {
+        "dna_1": "CCGTTT",
+        "dna_2": "TCCCTC",
+        "dna_3": "CGTTAG",
+        "dna_4": "AAGCAG",
+        "dna_5": "CAAGAA",
+        "dna_6": "ACTTAG"
+    },
+    {
+        "dna_1": "GGTCTA",
+        "dna_2": "ACATCG",
+        "dna_3": "CCAATG",
+        "dna_4": "GAGTGA",
+        "dna_5": "ATACCT",
+        "dna_6": "CAACAA"
+    },
+    {
+        "dna_1": "AAGGTA",
+        "dna_2": "TAACTC",
+        "dna_3": "AATTTC",
+        "dna_4": "CTTGGT",
+        "dna_5": "CCGGAC",
+        "dna_6": "TTGGGG"
+    },
+    {
+        "dna_1": "CCCCCA",
+        "dna_2": "TTCTCG",
+        "dna_3": "CAAGGA",
+        "dna_4": "TAAACA",
+        "dna_5": "ACCGAT",
+        "dna_6": "GGAATG"
+    },
+    {
+        "dna_1": "CGCTAC",
+        "dna_2": "TAATGT",
+        "dna_3": "TCGCCT",
+        "dna_4": "TTAAGA",
+        "dna_5": "CGACGC",
+        "dna_6": "TATGGA"
+    },
+    {
+        "dna_1": "TCGCTG",
+        "dna_2": "AGGCCC",
+        "dna_3": "GCAATC",
+        "dna_4": "AAGATA",
+        "dna_5": "TTAGCT",
+        "dna_6": "CGTCCC"
+    },
+    {
+        "dna_1": "TGTCCG",
+        "dna_2": "GGCGGA",
+        "dna_3": "CTGAGA",
+        "dna_4": "GGCTAA",
+        "dna_5": "CGGGGA",
+        "dna_6": "TCCCCA"
+    },
+    {
+        "dna_1": "TGTGCC",
+        "dna_2": "GTAGTC",
+        "dna_3": "TTGCTA",
+        "dna_4": "TATGCG",
+        "dna_5": "CAAGGA",
+        "dna_6": "CCACAT"
+    },
+    {
+        "dna_1": "GTTCGG",
+        "dna_2": "CTAGCA",
+        "dna_3": "GGGGAC",
+        "dna_4": "GCCAAT",
+        "dna_5": "TATTAG",
+        "dna_6": "TAGGCC"
+    },
+    {
+        "dna_1": "CTTCGT",
+        "dna_2": "ACGTGT",
+        "dna_3": "TAATTG",
+        "dna_4": "GCTCCC",
+        "dna_5": "AGCTTC",
+        "dna_6": "GCACAC"
+    },
+    {
+        "dna_1": "TTAAAT",
+        "dna_2": "GTTATC",
+        "dna_3": "GATGGG",
+        "dna_4": "ATCATT",
+        "dna_5": "TTCTCG",
+        "dna_6": "GATCGG"
+    },
+    {
+        "dna_1": "TGAGAT",
+        "dna_2": "GTTCAA",
+        "dna_3": "TTGTTA",
+        "dna_4": "CCCTCG",
+        "dna_5": "AGCAAT",
+        "dna_6": "GTGGAT"
+    },
+    {
+        "dna_1": "GGACGC",
+        "dna_2": "TACCGT",
+        "dna_3": "CCCACT",
+        "dna_4": "TGATGG",
+        "dna_5": "AAATGG",
+        "dna_6": "GACACG"
+    },
+    {
+        "dna_1": "GAACTG",
+        "dna_2": "AGTAAC",
+        "dna_3": "TCCTGT",
+        "dna_4": "TGGACT",
+        "dna_5": "GTTCGC",
+        "dna_6": "GGCAAG"
+    },
+    {
+        "dna_1": "GTTTAA",
+        "dna_2": "AGCCTA",
+        "dna_3": "GGGACC",
+        "dna_4": "CCGCTA",
+        "dna_5": "ACAGCA",
+        "dna_6": "CTCGGA"
+    },
+    {
+        "dna_1": "AACAAG",
+        "dna_2": "GCGAGG",
+        "dna_3": "TCGGCC",
+        "dna_4": "TAGAAG",
+        "dna_5": "TCACTG",
+        "dna_6": "GTGCAG"
+    },
+    {
+        "dna_1": "AGCCAC",
+        "dna_2": "CTGATA",
+        "dna_3": "GTATGT",
+        "dna_4": "AAATTT",
+        "dna_5": "TCACGT",
+        "dna_6": "CTGAGG"
+    },
+    {
+        "dna_1": "AGTGGG",
+        "dna_2": "CTGTGT",
+        "dna_3": "GCGCAT",
+        "dna_4": "CACAGC",
+        "dna_5": "TGTCAA",
+        "dna_6": "ATCATG"
+    },
+    {
+        "dna_1": "CGCTCT",
+        "dna_2": "CTGGCG",
+        "dna_3": "CCCCTC",
+        "dna_4": "CACACT",
+        "dna_5": "AATGAT",
+        "dna_6": "GCCTTC"
+    },
+    {
+        "dna_1": "GGTTCG",
+        "dna_2": "CTCATG",
+        "dna_3": "GGATAG",
+        "dna_4": "CCTAAT",
+        "dna_5": "GTCCTT",
+        "dna_6": "GGTTCG"
+    },
+    {
+        "dna_1": "CAGGCC",
+        "dna_2": "ATGTGT",
+        "dna_3": "CATGCA",
+        "dna_4": "CTACAG",
+        "dna_5": "CGCAGC",
+        "dna_6": "CCCCCG"
+    },
+    {
+        "dna_1": "CCATCT",
+        "dna_2": "AGTTAG",
+        "dna_3": "CACAAT",
+        "dna_4": "TACTGC",
+        "dna_5": "GCGTAC",
+        "dna_6": "GCACTA"
+    },
+    {
+        "dna_1": "GCAACT",
+        "dna_2": "AGGGAG",
+        "dna_3": "GGCATC",
+        "dna_4": "ATCCTC",
+        "dna_5": "GCTTTA",
+        "dna_6": "CGTCTG"
+    },
+    {
+        "dna_1": "CGCAAG",
+        "dna_2": "GTAAGC",
+        "dna_3": "TCGGAA",
+        "dna_4": "ATTCCC",
+        "dna_5": "TGCCTG",
+        "dna_6": "GCACTG"
+    },
+    {
+        "dna_1": "TAGTAG",
+        "dna_2": "CAATCG",
+        "dna_3": "CGAACT",
+        "dna_4": "CTATTG",
+        "dna_5": "ACAGGT",
+        "dna_6": "CCGCAG"
+    },
+    {
+        "dna_1": "GCACGG",
+        "dna_2": "TTATAT",
+        "dna_3": "CACGAA",
+        "dna_4": "TTATAG",
+        "dna_5": "CAGTAG",
+        "dna_6": "GCTACT"
+    },
+    {
+        "dna_1": "CAAAAG",
+        "dna_2": "GATTGT",
+        "dna_3": "CTATAC",
+        "dna_4": "GTTGCA",
+        "dna_5": "GTGAAT",
+        "dna_6": "CTGGAA"
+    },
+    {
+        "dna_1": "GTATCA",
+        "dna_2": "ATATTA",
+        "dna_3": "CTTAAT",
+        "dna_4": "TCCAGA",
+        "dna_5": "GTTCCC",
+        "dna_6": "CCCGTG"
+    },
+    {
+        "dna_1": "CTAGTC",
+        "dna_2": "AAGTCC",
+        "dna_3": "TGGTTG",
+        "dna_4": "GGCCAA",
+        "dna_5": "CGTCAA",
+        "dna_6": "ACTCCT"
+    },
+    {
+        "dna_1": "CTGTTG",
+        "dna_2": "ACGGTT",
+        "dna_3": "TGACAC",
+        "dna_4": "CAGATT",
+        "dna_5": "TGTTTC",
+        "dna_6": "GGATTC"
+    },
+    {
+        "dna_1": "CTGGCA",
+        "dna_2": "AAAGGC",
+        "dna_3": "TCTCCT",
+        "dna_4": "GAACCG",
+        "dna_5": "CTTAGT",
+        "dna_6": "GAAATA"
+    },
+    {
+        "dna_1": "TTTGGA",
+        "dna_2": "TATCGA",
+        "dna_3": "CAGGAC",
+        "dna_4": "AGCCGG",
+        "dna_5": "CTACAA",
+        "dna_6": "GTGATT"
+    },
+    {
+        "dna_1": "TGGTGA",
+        "dna_2": "AACAGT",
+        "dna_3": "CTCCTT",
+        "dna_4": "GGTGGG",
+        "dna_5": "AAATTA",
+        "dna_6": "AGAAAG"
+    },
+    {
+        "dna_1": "ACACTG",
+        "dna_2": "CCACAC",
+        "dna_3": "TTCAAC",
+        "dna_4": "CTTTGC",
+        "dna_5": "GGTTTT",
+        "dna_6": "CTGACC"
+    },
+    {
+        "dna_1": "GGCACG",
+        "dna_2": "AGCGGA",
+        "dna_3": "GCTGTA",
+        "dna_4": "ACACAG",
+        "dna_5": "AGAATA",
+        "dna_6": "TCTCCA"
+    },
+    {
+        "dna_1": "GAGCTT",
+        "dna_2": "CTCGTA",
+        "dna_3": "TGGTAT",
+        "dna_4": "GACGGG",
+        "dna_5": "GTTTCG",
+        "dna_6": "TATACG"
+    },
+    {
+        "dna_1": "CCCTTC",
+        "dna_2": "GTGTGC",
+        "dna_3": "GCTGAA",
+        "dna_4": "GCTCAG",
+        "dna_5": "CGATTT",
+        "dna_6": "CTCTCA"
+    },
+    {
+        "dna_1": "GACTAG",
+        "dna_2": "GCGAAC",
+        "dna_3": "TTGCTT",
+        "dna_4": "TATTAA",
+        "dna_5": "CATAAG",
+        "dna_6": "GCTTTA"
+    },
+    {
+        "dna_1": "ATCCCT",
+        "dna_2": "CGCCCT",
+        "dna_3": "TGGGTT",
+        "dna_4": "CTGACC",
+        "dna_5": "CTTGCT",
+        "dna_6": "ATCATC"
+    },
+    {
+        "dna_1": "ATTACA",
+        "dna_2": "GACTGG",
+        "dna_3": "AGCCGA",
+        "dna_4": "GGCGGC",
+        "dna_5": "GCTCTC",
+        "dna_6": "GCTCGT"
+    },
+    {
+        "dna_1": "GTCCCT",
+        "dna_2": "ACACGT",
+        "dna_3": "GGTTTG",
+        "dna_4": "GCCTCA",
+        "dna_5": "GGCATA",
+        "dna_6": "ATTCCC"
+    },
+    {
+        "dna_1": "GCTTTG",
+        "dna_2": "TACGTC",
+        "dna_3": "TTACTC",
+        "dna_4": "AATTGT",
+        "dna_5": "GAATGA",
+        "dna_6": "AGCAGC"
+    },
+    {
+        "dna_1": "AGACGG",
+        "dna_2": "TTCTTG",
+        "dna_3": "TTGCGA",
+        "dna_4": "CCCTCC",
+        "dna_5": "GTATGA",
+        "dna_6": "GGAACC"
+    },
+    {
+        "dna_1": "GTCCTT",
+        "dna_2": "AGAGCC",
+        "dna_3": "AGCGAC",
+        "dna_4": "TGCACA",
+        "dna_5": "GTAAGC",
+        "dna_6": "GGCTGC"
+    },
+    {
+        "dna_1": "ACGTTT",
+        "dna_2": "TTCGTG",
+        "dna_3": "CGTTCG",
+        "dna_4": "TATTTC",
+        "dna_5": "AAACTA",
+        "dna_6": "ACCTAG"
+    },
+    {
+        "dna_1": "TCATGC",
+        "dna_2": "CGAATC",
+        "dna_3": "ATATAT",
+        "dna_4": "TCGATA",
+        "dna_5": "CAGGCC",
+        "dna_6": "CCGGCA"
+    },
+    {
+        "dna_1": "TACCGT",
+        "dna_2": "GTGGAA",
+        "dna_3": "TAAATA",
+        "dna_4": "TTGTGT",
+        "dna_5": "AGTAGT",
+        "dna_6": "ACTGCC"
+    },
+    {
+        "dna_1": "GGCCCT",
+        "dna_2": "GTGTGT",
+        "dna_3": "TAGGGT",
+        "dna_4": "TGATAT",
+        "dna_5": "TACAAC",
+        "dna_6": "CTCGCT"
+    },
+    {
+        "dna_1": "GCCCAA",
+        "dna_2": "GAATTA",
+        "dna_3": "GTTAGG",
+        "dna_4": "AATAAG",
+        "dna_5": "CCAGCG",
+        "dna_6": "TTCAAG"
+    },
+    {
+        "dna_1": "AGAGTA",
+        "dna_2": "GGTAAC",
+        "dna_3": "TGCTTA",
+        "dna_4": "TAGAAA",
+        "dna_5": "GCATGG",
+        "dna_6": "CAATCA"
+    },
+    {
+        "dna_1": "CTTCAT",
+        "dna_2": "TTAGCA",
+        "dna_3": "CACTCA",
+        "dna_4": "ACAGCA",
+        "dna_5": "TGGTCG",
+        "dna_6": "GAGTCT"
+    },
+    {
+        "dna_1": "ACTGAT",
+        "dna_2": "CATTCT",
+        "dna_3": "GGGAGG",
+        "dna_4": "GCCCAA",
+        "dna_5": "GTTTAG",
+        "dna_6": "TCCGAA"
+    },
+    {
+        "dna_1": "GTCTAG",
+        "dna_2": "GCTAAA",
+        "dna_3": "GAAACT",
+        "dna_4": "CCCCCC",
+        "dna_5": "GAATGA",
+        "dna_6": "CCCGGC"
+    },
+    {
+        "dna_1": "ATTTAT",
+        "dna_2": "TTAAGT",
+        "dna_3": "GCACCA",
+        "dna_4": "TAGCGT",
+        "dna_5": "ATGAGA",
+        "dna_6": "TGAGGG"
+    },
+    {
+        "dna_1": "TAGGTG",
+        "dna_2": "TAGAAA",
+        "dna_3": "AGAATC",
+        "dna_4": "CCACTA",
+        "dna_5": "AAGGTA",
+        "dna_6": "CGGCAT"
+    },
+    {
+        "dna_1": "GCGCGC",
+        "dna_2": "GTGGCT",
+        "dna_3": "GTAAGT",
+        "dna_4": "GTCGAA",
+        "dna_5": "CGCCCA",
+        "dna_6": "ATAGTG"
+    },
+    {
+        "dna_1": "ATTTTC",
+        "dna_2": "TTTCCA",
+        "dna_3": "GACTTA",
+        "dna_4": "CGCCCC",
+        "dna_5": "GAGCGT",
+        "dna_6": "CAGGGT"
+    },
+    {
+        "dna_1": "ATTACG",
+        "dna_2": "CCTCTA",
+        "dna_3": "CGATAA",
+        "dna_4": "TCGCGT",
+        "dna_5": "GAGGGG",
+        "dna_6": "TTTTCG"
+    },
+    {
+        "dna_1": "GTTTGT",
+        "dna_2": "ATATAG",
+        "dna_3": "ACCCTC",
+        "dna_4": "GTGCCC",
+        "dna_5": "GGACGG",
+        "dna_6": "TACGTC"
+    },
+    {
+        "dna_1": "CAGTCA",
+        "dna_2": "GAGATC",
+        "dna_3": "TCATCC",
+        "dna_4": "CCGGGG",
+        "dna_5": "AGGGGC",
+        "dna_6": "TAGGCT"
+    },
+    {
+        "dna_1": "AGGTAT",
+        "dna_2": "GACGCA",
+        "dna_3": "GGCAGC",
+        "dna_4": "CATAGG",
+        "dna_5": "TGGAAC",
+        "dna_6": "CTCTAG"
+    },
+    {
+        "dna_1": "AAAAAA",
+        "dna_2": "GCGATT",
+        "dna_3": "AGGATT",
+        "dna_4": "TCCGCC",
+        "dna_5": "GGCACA",
+        "dna_6": "TTCTCT"
+    },
+    {
+        "dna_1": "GAGGTT",
+        "dna_2": "CGCTCC",
+        "dna_3": "ATTGGT",
+        "dna_4": "GCCAGA",
+        "dna_5": "GCACTG",
+        "dna_6": "GGGAGT"
+    },
+    {
+        "dna_1": "GCTATC",
+        "dna_2": "TACACT",
+        "dna_3": "CGGTGG",
+        "dna_4": "GGTGCT",
+        "dna_5": "CTGACA",
+        "dna_6": "CTAGAC"
+    },
+    {
+        "dna_1": "CCATCG",
+        "dna_2": "CCGTTG",
+        "dna_3": "TCTATG",
+        "dna_4": "TTAAAA",
+        "dna_5": "GACGGA",
+        "dna_6": "TATCGG"
+    },
+    {
+        "dna_1": "CATGGC",
+        "dna_2": "AATATA",
+        "dna_3": "AATAGG",
+        "dna_4": "AGACGG",
+        "dna_5": "CTAGTG",
+        "dna_6": "CTTCTC"
+    },
+    {
+        "dna_1": "GGTATG",
+        "dna_2": "CCTTCA",
+        "dna_3": "CGGGCG",
+        "dna_4": "GCGTCC",
+        "dna_5": "CCGATT",
+        "dna_6": "TGAGGC"
+    },
+    {
+        "dna_1": "CTTAGG",
+        "dna_2": "GATCTA",
+        "dna_3": "ATGGGC",
+        "dna_4": "TCAAGT",
+        "dna_5": "TGATGA",
+        "dna_6": "GTTAAT"
+    },
+    {
+        "dna_1": "GAACCG",
+        "dna_2": "CGAGGG",
+        "dna_3": "GTAGTG",
+        "dna_4": "GACATT",
+        "dna_5": "TACGGT",
+        "dna_6": "CACTCC"
+    },
+    {
+        "dna_1": "GTGACT",
+        "dna_2": "GACGAG",
+        "dna_3": "GTTGGG",
+        "dna_4": "CAGATA",
+        "dna_5": "ATGGTC",
+        "dna_6": "CCTTTT"
+    },
+    {
+        "dna_1": "TACAAT",
+        "dna_2": "TGAGTA",
+        "dna_3": "AAGGAG",
+        "dna_4": "ATAACA",
+        "dna_5": "TAGGGT",
+        "dna_6": "ACAAGC"
+    },
+    {
+        "dna_1": "TTGGAA",
+        "dna_2": "TATATC",
+        "dna_3": "TCTTCT",
+        "dna_4": "CTGACT",
+        "dna_5": "ATCAGA",
+        "dna_6": "AAGATG"
+    },
+    {
+        "dna_1": "GTTAGT",
+        "dna_2": "GTTTCG",
+        "dna_3": "CCGACA",
+        "dna_4": "CAGTAT",
+        "dna_5": "CACTCA",
+        "dna_6": "ACCCCA"
+    },
+    {
+        "dna_1": "CGCTTG",
+        "dna_2": "GTAGTA",
+        "dna_3": "CCCGAT",
+        "dna_4": "ATCACC",
+        "dna_5": "ATTGTT",
+        "dna_6": "TTACTT"
+    },
+    {
+        "dna_1": "TTAGTG",
+        "dna_2": "CAAGTG",
+        "dna_3": "TACTCC",
+        "dna_4": "TCTATA",
+        "dna_5": "TCTGGG",
+        "dna_6": "CTATAC"
+    },
+    {
+        "dna_1": "GCTAGA",
+        "dna_2": "CGAGCG",
+        "dna_3": "CGCACA",
+        "dna_4": "ATCAAA",
+        "dna_5": "CGATTA",
+        "dna_6": "GACGGA"
+    },
+    {
+        "dna_1": "TATGTC",
+        "dna_2": "CGGGGA",
+        "dna_3": "AGCGAG",
+        "dna_4": "ATTAAA",
+        "dna_5": "GAGATG",
+        "dna_6": "CCAAGA"
+    },
+    {
+        "dna_1": "AGCGTA",
+        "dna_2": "GTTCCA",
+        "dna_3": "TCTCGG",
+        "dna_4": "AAACGT",
+        "dna_5": "CTCGTT",
+        "dna_6": "CTGTGC"
+    },
+    {
+        "dna_1": "CTCCTG",
+        "dna_2": "CCAAAT",
+        "dna_3": "CGTGGA",
+        "dna_4": "ATATTC",
+        "dna_5": "CCGTCA",
+        "dna_6": "GATTAA"
+    },
+    {
+        "dna_1": "CCCTGT",
+        "dna_2": "CCTATA",
+        "dna_3": "TGCGTA",
+        "dna_4": "ATGACC",
+        "dna_5": "TTAGCG",
+        "dna_6": "CCACTT"
+    },
+    {
+        "dna_1": "AAGCTT",
+        "dna_2": "CGGAAA",
+        "dna_3": "ACAAAT",
+        "dna_4": "TACAGA",
+        "dna_5": "GTATCT",
+        "dna_6": "TGCACG"
+    },
+    {
+        "dna_1": "GGCTAA",
+        "dna_2": "AGGAAA",
+        "dna_3": "TGCCCC",
+        "dna_4": "ATTTGG",
+        "dna_5": "TCTGTG",
+        "dna_6": "CCTGGT"
+    },
+    {
+        "dna_1": "TCTACT",
+        "dna_2": "TCTATG",
+        "dna_3": "GGTTAA",
+        "dna_4": "ACGACA",
+        "dna_5": "TGTTGG",
+        "dna_6": "GATAGC"
+    },
+    {
+        "dna_1": "GGATGG",
+        "dna_2": "CAACAT",
+        "dna_3": "CGCCTT",
+        "dna_4": "AAAACC",
+        "dna_5": "GCGGCC",
+        "dna_6": "GACGCG"
+    },
+    {
+        "dna_1": "TATAGT",
+        "dna_2": "TCCGGT",
+        "dna_3": "GTCTTT",
+        "dna_4": "GTGAAT",
+        "dna_5": "ACGCCT",
+        "dna_6": "AGGCTG"
+    },
+    {
+        "dna_1": "AGGGAG",
+        "dna_2": "GTCACC",
+        "dna_3": "AGCTCG",
+        "dna_4": "TATTTG",
+        "dna_5": "TGAATG",
+        "dna_6": "CCAAGG"
+    },
+    {
+        "dna_1": "GTACGA",
+        "dna_2": "GTAAAT",
+        "dna_3": "GTATAC",
+        "dna_4": "TTCTTT",
+        "dna_5": "CGCGAA",
+        "dna_6": "GCCTGA"
+    },
+    {
+        "dna_1": "GGAGTG",
+        "dna_2": "AGTTCC",
+        "dna_3": "CTTTCA",
+        "dna_4": "ATCTCA",
+        "dna_5": "AGGGTT",
+        "dna_6": "ACAAAA"
+    },
+    {
+        "dna_1": "CTGCTA",
+        "dna_2": "AACCTC",
+        "dna_3": "GCAGTC",
+        "dna_4": "CGCTGT",
+        "dna_5": "GAAACC",
+        "dna_6": "TGTACA"
+    },
+    {
+        "dna_1": "ACTTTC",
+        "dna_2": "GTCTTT",
+        "dna_3": "CTTCCG",
+        "dna_4": "CCCGTC",
+        "dna_5": "ACGAAA",
+        "dna_6": "TCCAAG"
+    },
+    {
+        "dna_1": "CTGCCA",
+        "dna_2": "TAATGT",
+        "dna_3": "GCACTC",
+        "dna_4": "CGCCTA",
+        "dna_5": "GCTGGA",
+        "dna_6": "GGTATC"
+    },
+    {
+        "dna_1": "ATTATA",
+        "dna_2": "TGGTTA",
+        "dna_3": "AACCTA",
+        "dna_4": "CCTCTC",
+        "dna_5": "AATATA",
+        "dna_6": "TTTAAT"
+    },
+    {
+        "dna_1": "TTAGTA",
+        "dna_2": "GTACAA",
+        "dna_3": "TCCACG",
+        "dna_4": "TATGCC",
+        "dna_5": "CCAGCT",
+        "dna_6": "GTGTAG"
+    },
+    {
+        "dna_1": "CAGGTC",
+        "dna_2": "ACTGAG",
+        "dna_3": "TCCTTT",
+        "dna_4": "GAAGCC",
+        "dna_5": "GCCCCT",
+        "dna_6": "GTGGAA"
+    },
+    {
+        "dna_1": "GAGTAT",
+        "dna_2": "ATGAAA",
+        "dna_3": "TTCATG",
+        "dna_4": "TAACAA",
+        "dna_5": "AATTTA",
+        "dna_6": "AGAGCT"
+    },
+    {
+        "dna_1": "CGCGTA",
+        "dna_2": "CGTCGT",
+        "dna_3": "CTGCAA",
+        "dna_4": "AAATGT",
+        "dna_5": "CTGTAG",
+        "dna_6": "ACATGT"
+    },
+    {
+        "dna_1": "GTGCTG",
+        "dna_2": "TCGACG",
+        "dna_3": "TCGTAT",
+        "dna_4": "AGGTCT",
+        "dna_5": "CCATCG",
+        "dna_6": "GTCGTG"
+    },
+    {
+        "dna_1": "CAACGC",
+        "dna_2": "CGGAAA",
+        "dna_3": "ACTATT",
+        "dna_4": "AAGGGG",
+        "dna_5": "TGATTG",
+        "dna_6": "TCCAAA"
+    },
+    {
+        "dna_1": "TCTTAC",
+        "dna_2": "TCAATT",
+        "dna_3": "CGCGTA",
+        "dna_4": "ACTGAC",
+        "dna_5": "CCTCCT",
+        "dna_6": "CGTAGA"
+    },
+    {
+        "dna_1": "TTATTC",
+        "dna_2": "TGCAGC",
+        "dna_3": "TGATCG",
+        "dna_4": "ACCGAG",
+        "dna_5": "TAGAAG",
+        "dna_6": "CCGGGC"
+    },
+    {
+        "dna_1": "GTAGGA",
+        "dna_2": "CTCTCG",
+        "dna_3": "GTACAT",
+        "dna_4": "ACGTGC",
+        "dna_5": "ACCTCC",
+        "dna_6": "GCAACG"
+    },
+    {
+        "dna_1": "CTACAA",
+        "dna_2": "CTACGA",
+        "dna_3": "CGTGAA",
+        "dna_4": "TACTTC",
+        "dna_5": "CCCAGG",
+        "dna_6": "CTGACC"
+    },
+    {
+        "dna_1": "GCCGTC",
+        "dna_2": "CGCATT",
+        "dna_3": "AGTTTG",
+        "dna_4": "AGCTCC",
+        "dna_5": "CTAGGG",
+        "dna_6": "GATCAT"
+    },
+    {
+        "dna_1": "GTCGCC",
+        "dna_2": "CTCTGA",
+        "dna_3": "CGACGT",
+        "dna_4": "GAACCT",
+        "dna_5": "AATTTA",
+        "dna_6": "TGCTTC"
+    },
+    {
+        "dna_1": "CTCTGT",
+        "dna_2": "CCACCC",
+        "dna_3": "TTGGTT",
+        "dna_4": "CCTAGG",
+        "dna_5": "CGAATA",
+        "dna_6": "GCTTTA"
+    },
+    {
+        "dna_1": "GATCGA",
+        "dna_2": "ACTCCT",
+        "dna_3": "CTCGGT",
+        "dna_4": "AGTCAT",
+        "dna_5": "TCTATG",
+        "dna_6": "CGGGAA"
+    },
+    {
+        "dna_1": "CAATCG",
+        "dna_2": "TGCCCC",
+        "dna_3": "ATAAGA",
+        "dna_4": "TCACTG",
+        "dna_5": "TGAACT",
+        "dna_6": "TTAAGC"
+    },
+    {
+        "dna_1": "AGATAC",
+        "dna_2": "CATTGA",
+        "dna_3": "TGACCG",
+        "dna_4": "TCCGAA",
+        "dna_5": "TACGCT",
+        "dna_6": "CTCCCT"
+    },
+    {
+        "dna_1": "AATGGT",
+        "dna_2": "TTTACT",
+        "dna_3": "GACAGA",
+        "dna_4": "CAGGTC",
+        "dna_5": "GTCGGC",
+        "dna_6": "TTCAAT"
+    },
+    {
+        "dna_1": "CGTTGG",
+        "dna_2": "ACTTGT",
+        "dna_3": "GGTCTC",
+        "dna_4": "CTCCAT",
+        "dna_5": "AAAGTC",
+        "dna_6": "GAACCC"
+    },
+    {
+        "dna_1": "GATTGC",
+        "dna_2": "AGGCGC",
+        "dna_3": "AGACCA",
+        "dna_4": "GACGCC",
+        "dna_5": "CTCTAA",
+        "dna_6": "CGTCCA"
+    },
+    {
+        "dna_1": "TTAGAG",
+        "dna_2": "CTTATT",
+        "dna_3": "TTCAGG",
+        "dna_4": "AAACTG",
+        "dna_5": "TCAGGG",
+        "dna_6": "CCTAGA"
+    },
+    {
+        "dna_1": "TCCCAC",
+        "dna_2": "GTGGGC",
+        "dna_3": "GTTCGA",
+        "dna_4": "TTTTCC",
+        "dna_5": "TACCGG",
+        "dna_6": "GGACTA"
+    },
+    {
+        "dna_1": "CGTTGA",
+        "dna_2": "TAAGTT",
+        "dna_3": "TTACGT",
+        "dna_4": "GAGAGA",
+        "dna_5": "GTCCAC",
+        "dna_6": "GCCTCG"
+    },
+    {
+        "dna_1": "GCACTA",
+        "dna_2": "GGGAGG",
+        "dna_3": "TATATG",
+        "dna_4": "CTCAAG",
+        "dna_5": "GCGTGC",
+        "dna_6": "GGGTTG"
+    },
+    {
+        "dna_1": "AAACCC",
+        "dna_2": "GTTCGC",
+        "dna_3": "ATTTCT",
+        "dna_4": "GCTCGT",
+        "dna_5": "GGGTTG",
+        "dna_6": "CTCTTC"
+    },
+    {
+        "dna_1": "TCGGCT",
+        "dna_2": "TGTGTC",
+        "dna_3": "CCAACT",
+        "dna_4": "CTGGTT",
+        "dna_5": "TCGGTA",
+        "dna_6": "TGTGGA"
+    },
+    {
+        "dna_1": "AAGCTT",
+        "dna_2": "TTGCGC",
+        "dna_3": "TAGTGT",
+        "dna_4": "AATTAC",
+        "dna_5": "TTAAAT",
+        "dna_6": "CCAGCT"
+    },
+    {
+        "dna_1": "GTCACT",
+        "dna_2": "TCTTCT",
+        "dna_3": "AATTCA",
+        "dna_4": "CTCTAT",
+        "dna_5": "TGTATT",
+        "dna_6": "ACAAAC"
+    },
+    {
+        "dna_1": "TCGTAG",
+        "dna_2": "TTTTAC",
+        "dna_3": "TGGTTG",
+        "dna_4": "TGGCCA",
+        "dna_5": "TCGGGA",
+        "dna_6": "GAATGA"
+    },
+    {
+        "dna_1": "TCGATA",
+        "dna_2": "CTCCAT",
+        "dna_3": "CGGTAG",
+        "dna_4": "CGAACT",
+        "dna_5": "TGGCTA",
+        "dna_6": "TGACAC"
+    },
+    {
+        "dna_1": "CGAGTT",
+        "dna_2": "TCAACT",
+        "dna_3": "TCTCGC",
+        "dna_4": "TCTGTA",
+        "dna_5": "GTGTTA",
+        "dna_6": "CGAGCT"
+    },
+    {
+        "dna_1": "ACTCCC",
+        "dna_2": "TATCCT",
+        "dna_3": "CTAGAT",
+        "dna_4": "CTAGAG",
+        "dna_5": "CTAGGC",
+        "dna_6": "TATTCT"
+    },
+    {
+        "dna_1": "AAGCAA",
+        "dna_2": "GGATCA",
+        "dna_3": "ACGATA",
+        "dna_4": "CAACAG",
+        "dna_5": "TCTCCC",
+        "dna_6": "AATGAT"
+    },
+    {
+        "dna_1": "GGGCCC",
+        "dna_2": "CGCTAC",
+        "dna_3": "TGGGTG",
+        "dna_4": "CTACGG",
+        "dna_5": "TGTAGG",
+        "dna_6": "AAGGCA"
+    },
+    {
+        "dna_1": "CGATGA",
+        "dna_2": "ATTTCA",
+        "dna_3": "GTGAAC",
+        "dna_4": "CAGCTC",
+        "dna_5": "ATGAGA",
+        "dna_6": "ATCTCA"
+    },
+    {
+        "dna_1": "AACCAG",
+        "dna_2": "CCCAAG",
+        "dna_3": "GTGACA",
+        "dna_4": "CCGTTC",
+        "dna_5": "ACCGAC",
+        "dna_6": "CACTGG"
+    },
+    {
+        "dna_1": "ATACGA",
+        "dna_2": "CTAGTG",
+        "dna_3": "CTTCGT",
+        "dna_4": "CTGCGT",
+        "dna_5": "TCTAGA",
+        "dna_6": "GAGATG"
+    },
+    {
+        "dna_1": "AACTGC",
+        "dna_2": "GTTACT",
+        "dna_3": "ATGGAT",
+        "dna_4": "TTAGAG",
+        "dna_5": "GATGTA",
+        "dna_6": "TCGTTA"
+    },
+    {
+        "dna_1": "ATATTA",
+        "dna_2": "ATAGCG",
+        "dna_3": "GTGTTT",
+        "dna_4": "TGGTCT",
+        "dna_5": "TCGTTG",
+        "dna_6": "TGACAA"
+    },
+    {
+        "dna_1": "CCAACC",
+        "dna_2": "CTGCTC",
+        "dna_3": "TGGAGA",
+        "dna_4": "GGCAGC",
+        "dna_5": "TGTGTC",
+        "dna_6": "CAAATT"
+    },
+    {
+        "dna_1": "TCACTC",
+        "dna_2": "GTATGT",
+        "dna_3": "TGGCTA",
+        "dna_4": "AACTGT",
+        "dna_5": "TACGGT",
+        "dna_6": "CGTGTA"
+    },
+    {
+        "dna_1": "AATTCC",
+        "dna_2": "ACCAGC",
+        "dna_3": "ATGGGT",
+        "dna_4": "ATGAGG",
+        "dna_5": "TACAGA",
+        "dna_6": "CCCCCG"
+    },
+    {
+        "dna_1": "CAGTTC",
+        "dna_2": "GTGATG",
+        "dna_3": "GGACCG",
+        "dna_4": "AGTGTA",
+        "dna_5": "CGAGTC",
+        "dna_6": "GCTGAG"
+    },
+    {
+        "dna_1": "GCTGCG",
+        "dna_2": "CAAAAA",
+        "dna_3": "TGCCGC",
+        "dna_4": "ATTCAG",
+        "dna_5": "ATGTGG",
+        "dna_6": "GAGCTG"
+    },
+    {
+        "dna_1": "CTCACA",
+        "dna_2": "CACACT",
+        "dna_3": "CCTAAT",
+        "dna_4": "CATTGA",
+        "dna_5": "TGTTAA",
+        "dna_6": "CTCCCG"
+    },
+    {
+        "dna_1": "TTAGCA",
+        "dna_2": "GGGGTT",
+        "dna_3": "AGAGAT",
+        "dna_4": "CTGATG",
+        "dna_5": "TTTTCT",
+        "dna_6": "TATGGT"
+    },
+    {
+        "dna_1": "GGAGGC",
+        "dna_2": "ATGACG",
+        "dna_3": "ACAAGC",
+        "dna_4": "TCGGAG",
+        "dna_5": "GTTACC",
+        "dna_6": "TACCTG"
+    },
+    {
+        "dna_1": "TACTAC",
+        "dna_2": "TCCCGC",
+        "dna_3": "GGAAAC",
+        "dna_4": "CTCCAT",
+        "dna_5": "GCCTCG",
+        "dna_6": "TTGTGA"
+    },
+    {
+        "dna_1": "TAAACA",
+        "dna_2": "CAGGTG",
+        "dna_3": "ATCTGT",
+        "dna_4": "AGTGCT",
+        "dna_5": "TTGACC",
+        "dna_6": "AATTCT"
+    },
+    {
+        "dna_1": "CTGGTA",
+        "dna_2": "GCTCAA",
+        "dna_3": "TACCTT",
+        "dna_4": "ACGACC",
+        "dna_5": "TGCATC",
+        "dna_6": "TTACTT"
+    },
+    {
+        "dna_1": "ATCTCT",
+        "dna_2": "CGGGTC",
+        "dna_3": "TCCATA",
+        "dna_4": "GGTGAA",
+        "dna_5": "CACCCC",
+        "dna_6": "GGCTGG"
+    },
+    {
+        "dna_1": "AGCACC",
+        "dna_2": "TCAGAA",
+        "dna_3": "CCAAAC",
+        "dna_4": "AAATGA",
+        "dna_5": "TGCCCC",
+        "dna_6": "CTAACT"
+    },
+    {
+        "dna_1": "CTGAGT",
+        "dna_2": "AACTCC",
+        "dna_3": "GCACGC",
+        "dna_4": "TCGTTC",
+        "dna_5": "GTCCGG",
+        "dna_6": "CTGAGC"
+    },
+    {
+        "dna_1": "ACTCTT",
+        "dna_2": "CCGGGC",
+        "dna_3": "TCAAGC",
+        "dna_4": "GAACAC",
+        "dna_5": "CCTCGG",
+        "dna_6": "GCGTTC"
+    },
+    {
+        "dna_1": "GTTGAC",
+        "dna_2": "ACGGGC",
+        "dna_3": "GACAAG",
+        "dna_4": "GCTTGG",
+        "dna_5": "CCATAA",
+        "dna_6": "AACTCT"
+    },
+    {
+        "dna_1": "TCGGCC",
+        "dna_2": "ATTCAA",
+        "dna_3": "GCTATC",
+        "dna_4": "CTGAGT",
+        "dna_5": "GCCTCT",
+        "dna_6": "GCACCA"
+    },
+    {
+        "dna_1": "TGCGCG",
+        "dna_2": "ATGACT",
+        "dna_3": "CTGTTC",
+        "dna_4": "CTCAGC",
+        "dna_5": "TCAAGC",
+        "dna_6": "AAACCA"
+    },
+    {
+        "dna_1": "CTTCTA",
+        "dna_2": "AGTCCT",
+        "dna_3": "GTCGTG",
+        "dna_4": "CAACCG",
+        "dna_5": "AGCTCA",
+        "dna_6": "GCAAAA"
+    },
+    {
+        "dna_1": "GGACCG",
+        "dna_2": "ATCCAT",
+        "dna_3": "CGCGGG",
+        "dna_4": "AGGGGA",
+        "dna_5": "AATGAA",
+        "dna_6": "CGCTGA"
+    },
+    {
+        "dna_1": "GTAGTA",
+        "dna_2": "AGTAGG",
+        "dna_3": "ATGATT",
+        "dna_4": "GCGAGG",
+        "dna_5": "TCCCAG",
+        "dna_6": "TGTTCA"
+    },
+    {
+        "dna_1": "CACGGA",
+        "dna_2": "GTGTCT",
+        "dna_3": "CCGAAT",
+        "dna_4": "GCATAG",
+        "dna_5": "TCAGTT",
+        "dna_6": "TATGTA"
+    },
+    {
+        "dna_1": "GGTGCC",
+        "dna_2": "GATTCC",
+        "dna_3": "GGGCGA",
+        "dna_4": "GAGATA",
+        "dna_5": "ACGGCG",
+        "dna_6": "TGGACT"
+    },
+    {
+        "dna_1": "GCTCTA",
+        "dna_2": "AACCAA",
+        "dna_3": "CGACTA",
+        "dna_4": "CAGAGA",
+        "dna_5": "CATCCG",
+        "dna_6": "CCCGCT"
+    },
+    {
+        "dna_1": "AATCAC",
+        "dna_2": "CGCAGG",
+        "dna_3": "CCTCCA",
+        "dna_4": "ACATGG",
+        "dna_5": "CAACAC",
+        "dna_6": "GACCCA"
+    },
+    {
+        "dna_1": "TACACC",
+        "dna_2": "CTCGCG",
+        "dna_3": "CAGGTA",
+        "dna_4": "CCCCTA",
+        "dna_5": "CGCACC",
+        "dna_6": "GGGCTC"
+    },
+    {
+        "dna_1": "TAAGAG",
+        "dna_2": "AGCTGT",
+        "dna_3": "TAACAA",
+        "dna_4": "CGCATT",
+        "dna_5": "GATTAT",
+        "dna_6": "TATCAG"
+    },
+    {
+        "dna_1": "GCTGTC",
+        "dna_2": "CTGCTG",
+        "dna_3": "GTAACC",
+        "dna_4": "CGGTCT",
+        "dna_5": "CGGTTC",
+        "dna_6": "TTGCGT"
+    },
+    {
+        "dna_1": "TTATCA",
+        "dna_2": "AACATA",
+        "dna_3": "TGTGTG",
+        "dna_4": "CTCCAG",
+        "dna_5": "CTCAGT",
+        "dna_6": "ATGCCT"
+    },
+    {
+        "dna_1": "TGCGGG",
+        "dna_2": "CCGTAC",
+        "dna_3": "TCCTTT",
+        "dna_4": "CTGTTG",
+        "dna_5": "TTTTGT",
+        "dna_6": "TGGTGG"
+    },
+    {
+        "dna_1": "CAGCTA",
+        "dna_2": "GCAGTT",
+        "dna_3": "AAGGTT",
+        "dna_4": "AAATAC",
+        "dna_5": "AGACAA",
+        "dna_6": "CGTCGG"
+    },
+    {
+        "dna_1": "GCTCCT",
+        "dna_2": "GCCCTA",
+        "dna_3": "CCGCCG",
+        "dna_4": "GAGCAA",
+        "dna_5": "TCAAAC",
+        "dna_6": "CGTCGA"
+    },
+    {
+        "dna_1": "GTGAAT",
+        "dna_2": "TTGCCT",
+        "dna_3": "TACGAT",
+        "dna_4": "ACGGTC",
+        "dna_5": "TAGGAC",
+        "dna_6": "CTGGTG"
+    },
+    {
+        "dna_1": "AGGCGG",
+        "dna_2": "CGTCAG",
+        "dna_3": "AGAAGC",
+        "dna_4": "TGCGGT",
+        "dna_5": "GCATCC",
+        "dna_6": "CGACTA"
+    },
+    {
+        "dna_1": "TTGAAC",
+        "dna_2": "CACACT",
+        "dna_3": "TCTCAG",
+        "dna_4": "AAACCC",
+        "dna_5": "AGCGAG",
+        "dna_6": "ACGTCG"
+    },
+    {
+        "dna_1": "ATAAGC",
+        "dna_2": "GTTGCC",
+        "dna_3": "AGCGAT",
+        "dna_4": "CTCGTT",
+        "dna_5": "CAATAG",
+        "dna_6": "GACCCG"
+    },
+    {
+        "dna_1": "TATCTG",
+        "dna_2": "TGATGT",
+        "dna_3": "ACCTAT",
+        "dna_4": "GACTAT",
+        "dna_5": "TCAGAA",
+        "dna_6": "GGGGTC"
+    },
+    {
+        "dna_1": "GAGAAC",
+        "dna_2": "GGGTAG",
+        "dna_3": "CCGGCG",
+        "dna_4": "GAAATC",
+        "dna_5": "TGGCCG",
+        "dna_6": "AAGTGC"
+    },
+    {
+        "dna_1": "CGGCTT",
+        "dna_2": "CGGGGT",
+        "dna_3": "GTGCAC",
+        "dna_4": "GTACGT",
+        "dna_5": "ATTAAA",
+        "dna_6": "TTTTGC"
+    },
+    {
+        "dna_1": "AGCCGA",
+        "dna_2": "GATCCG",
+        "dna_3": "GATTTT",
+        "dna_4": "CTGCAA",
+        "dna_5": "ACAACC",
+        "dna_6": "TAAAGA"
+    },
+    {
+        "dna_1": "GCACGC",
+        "dna_2": "ATTGGG",
+        "dna_3": "TCCTCA",
+        "dna_4": "ACGTTG",
+        "dna_5": "TAGCGA",
+        "dna_6": "AGAGGT"
+    },
+    {
+        "dna_1": "AGTCGG",
+        "dna_2": "GCTTAC",
+        "dna_3": "CGCTTT",
+        "dna_4": "GCACGT",
+        "dna_5": "CACGGG",
+        "dna_6": "TAGCTT"
+    },
+    {
+        "dna_1": "ACGGCG",
+        "dna_2": "TGTCCA",
+        "dna_3": "GTCGAG",
+        "dna_4": "ACGAGT",
+        "dna_5": "TGCTGT",
+        "dna_6": "CCAGGG"
+    },
+    {
+        "dna_1": "CGGGCC",
+        "dna_2": "AAAGGA",
+        "dna_3": "TCGGGA",
+        "dna_4": "TTAGCT",
+        "dna_5": "CACGTG",
+        "dna_6": "GCTTAT"
+    },
+    {
+        "dna_1": "ATATGA",
+        "dna_2": "GTTCGC",
+        "dna_3": "TCCTAG",
+        "dna_4": "CGAACC",
+        "dna_5": "TATGTA",
+        "dna_6": "GCATCG"
+    },
+    {
+        "dna_1": "CTTAGA",
+        "dna_2": "TCCCAT",
+        "dna_3": "AGGGAT",
+        "dna_4": "AAGTGA",
+        "dna_5": "TGGCTA",
+        "dna_6": "TTCGCG"
+    },
+    {
+        "dna_1": "CTTAAC",
+        "dna_2": "AGATCC",
+        "dna_3": "GGGTCA",
+        "dna_4": "GTTAGT",
+        "dna_5": "TCAGCC",
+        "dna_6": "TTCCCA"
+    },
+    {
+        "dna_1": "GGTTCC",
+        "dna_2": "GATTTC",
+        "dna_3": "ACTTGC",
+        "dna_4": "GCCCTC",
+        "dna_5": "CTTGGG",
+        "dna_6": "AACCGC"
+    },
+    {
+        "dna_1": "GGGAGT",
+        "dna_2": "AGTCAA",
+        "dna_3": "TGTGGC",
+        "dna_4": "CTCGCT",
+        "dna_5": "GTATCT",
+        "dna_6": "CGCCTA"
+    },
+    {
+        "dna_1": "GTGGAT",
+        "dna_2": "TCGCTC",
+        "dna_3": "ACGTTG",
+        "dna_4": "GATGGC",
+        "dna_5": "ATAACT",
+        "dna_6": "CCTCAG"
+    },
+    {
+        "dna_1": "CAAGCC",
+        "dna_2": "CCTACC",
+        "dna_3": "TAGCGC",
+        "dna_4": "CACACT",
+        "dna_5": "TCCTTT",
+        "dna_6": "GGTGGA"
+    },
+    {
+        "dna_1": "GGCTAT",
+        "dna_2": "GTCAGG",
+        "dna_3": "GCGACT",
+        "dna_4": "GTATGT",
+        "dna_5": "CGGTGC",
+        "dna_6": "GTCAAT"
+    },
+    {
+        "dna_1": "CACTAA",
+        "dna_2": "CCTAGG",
+        "dna_3": "AACTGG",
+        "dna_4": "ATTATG",
+        "dna_5": "AAAGGG",
+        "dna_6": "TCCACG"
+    },
+    {
+        "dna_1": "ACCTAT",
+        "dna_2": "CAATAC",
+        "dna_3": "TGCTGG",
+        "dna_4": "TAACTG",
+        "dna_5": "TTGCTC",
+        "dna_6": "ATGAAG"
+    },
+    {
+        "dna_1": "TGTACT",
+        "dna_2": "GAATGC",
+        "dna_3": "AGACCG",
+        "dna_4": "TTATCA",
+        "dna_5": "GCTACT",
+        "dna_6": "ATCTGA"
+    },
+    {
+        "dna_1": "CAATCG",
+        "dna_2": "CATCCC",
+        "dna_3": "GGGTTA",
+        "dna_4": "GGATAT",
+        "dna_5": "AACTGA",
+        "dna_6": "CACAGT"
+    },
+    {
+        "dna_1": "CACTGT",
+        "dna_2": "GTGTGA",
+        "dna_3": "GGGACT",
+        "dna_4": "TTCATA",
+        "dna_5": "GCCTTC",
+        "dna_6": "CTGTGG"
+    },
+    {
+        "dna_1": "ATCTGC",
+        "dna_2": "CTTAGG",
+        "dna_3": "TGAAAA",
+        "dna_4": "CCTGAG",
+        "dna_5": "GGGGTG",
+        "dna_6": "GCCCTG"
+    },
+    {
+        "dna_1": "ACTGAA",
+        "dna_2": "CTTAGA",
+        "dna_3": "GTTGTT",
+        "dna_4": "CAGCAT",
+        "dna_5": "ACTATA",
+        "dna_6": "CAATAT"
+    },
+    {
+        "dna_1": "TCTTCC",
+        "dna_2": "GGTTAG",
+        "dna_3": "GGTTGA",
+        "dna_4": "GTGCCA",
+        "dna_5": "GCGAAA",
+        "dna_6": "ACACTA"
+    },
+    {
+        "dna_1": "AAAAGC",
+        "dna_2": "GCGTGC",
+        "dna_3": "TGACGG",
+        "dna_4": "TTGATC",
+        "dna_5": "TGTTAA",
+        "dna_6": "TCCTGG"
+    },
+    {
+        "dna_1": "GTACAG",
+        "dna_2": "GATCGG",
+        "dna_3": "GTGATC",
+        "dna_4": "AGGATT",
+        "dna_5": "TCGTAA",
+        "dna_6": "GCATAC"
+    },
+    {
+        "dna_1": "TAGATC",
+        "dna_2": "GTAGTG",
+        "dna_3": "AGGGTC",
+        "dna_4": "TAGCTT",
+        "dna_5": "GTGCTC",
+        "dna_6": "TTTGTT"
+    },
+    {
+        "dna_1": "ATAGTA",
+        "dna_2": "CGAGAA",
+        "dna_3": "ATATCA",
+        "dna_4": "AGTAGC",
+        "dna_5": "GGAATC",
+        "dna_6": "GTCCCT"
+    },
+    {
+        "dna_1": "ATTAAC",
+        "dna_2": "CCATTG",
+        "dna_3": "GCGTTC",
+        "dna_4": "AAGATT",
+        "dna_5": "ACGCAC",
+        "dna_6": "CCCGTA"
+    },
+    {
+        "dna_1": "AAACGC",
+        "dna_2": "AACTGG",
+        "dna_3": "GTATGA",
+        "dna_4": "TATTGC",
+        "dna_5": "GAATGA",
+        "dna_6": "CTGTTC"
+    },
+    {
+        "dna_1": "ACGCAA",
+        "dna_2": "TGTTGT",
+        "dna_3": "CTCCAC",
+        "dna_4": "GATTGT",
+        "dna_5": "TGGCTA",
+        "dna_6": "ACAACG"
+    },
+    {
+        "dna_1": "AACAGG",
+        "dna_2": "CGCTTC",
+        "dna_3": "CTGTCA",
+        "dna_4": "GAGGCC",
+        "dna_5": "GTGGAG",
+        "dna_6": "CCACGA"
+    },
+    {
+        "dna_1": "ACGGCG",
+        "dna_2": "TTGTGC",
+        "dna_3": "TGATCT",
+        "dna_4": "TTATGA",
+        "dna_5": "ATCCGC",
+        "dna_6": "ATAGTT"
+    },
+    {
+        "dna_1": "TTCACT",
+        "dna_2": "CGCCTA",
+        "dna_3": "CCTGAC",
+        "dna_4": "CTGACG",
+        "dna_5": "TTGCGC",
+        "dna_6": "CGCGCG"
+    },
+    {
+        "dna_1": "TCCCAG",
+        "dna_2": "TGTTCG",
+        "dna_3": "CGCTGG",
+        "dna_4": "TCTAGC",
+        "dna_5": "CGTTAA",
+        "dna_6": "GGGGCG"
+    },
+    {
+        "dna_1": "AAGCAA",
+        "dna_2": "AGAGTT",
+        "dna_3": "TTTCAT",
+        "dna_4": "CGTATA",
+        "dna_5": "GGCTAA",
+        "dna_6": "GCACGA"
+    },
+    {
+        "dna_1": "ATTCTT",
+        "dna_2": "CTAAGG",
+        "dna_3": "GCGACG",
+        "dna_4": "CGATCA",
+        "dna_5": "ACGCGT",
+        "dna_6": "TCCGGT"
+    },
+    {
+        "dna_1": "TTGCGT",
+        "dna_2": "TCAACT",
+        "dna_3": "TCCATC",
+        "dna_4": "GCTTCG",
+        "dna_5": "TCAAGA",
+        "dna_6": "CCGCAG"
+    },
+    {
+        "dna_1": "TGTGAT",
+        "dna_2": "ACCGGA",
+        "dna_3": "ACTTGC",
+        "dna_4": "TCCTTT",
+        "dna_5": "CTCAAG",
+        "dna_6": "AATGCA"
+    },
+    {
+        "dna_1": "AGTCGG",
+        "dna_2": "AACATC",
+        "dna_3": "TTATAC",
+        "dna_4": "TTGTGA",
+        "dna_5": "TAAGAA",
+        "dna_6": "CCGAAG"
+    },
+    {
+        "dna_1": "TATTCT",
+        "dna_2": "CTCTAA",
+        "dna_3": "ATCATC",
+        "dna_4": "CTAACT",
+        "dna_5": "CCGGAA",
+        "dna_6": "GAGTGC"
+    },
+    {
+        "dna_1": "GATACT",
+        "dna_2": "AGGTGA",
+        "dna_3": "CGCCGT",
+        "dna_4": "TATTAG",
+        "dna_5": "CTGCTG",
+        "dna_6": "ACGGGC"
+    },
+    {
+        "dna_1": "CGATGT",
+        "dna_2": "GAGGTG",
+        "dna_3": "TTACCG",
+        "dna_4": "CCTGTC",
+        "dna_5": "GTACGT",
+        "dna_6": "GTATAT"
+    },
+    {
+        "dna_1": "TCAGTC",
+        "dna_2": "AGTGAA",
+        "dna_3": "TCAATT",
+        "dna_4": "CCGCCT",
+        "dna_5": "GTTAGT",
+        "dna_6": "GTAGTA"
+    },
+    {
+        "dna_1": "GCTTTT",
+        "dna_2": "CACTAG",
+        "dna_3": "TAGAGT",
+        "dna_4": "TTCACT",
+        "dna_5": "TACGCG",
+        "dna_6": "AAGCGA"
+    },
+    {
+        "dna_1": "GAGCGT",
+        "dna_2": "CTGGTC",
+        "dna_3": "CCCTAA",
+        "dna_4": "ACCGAA",
+        "dna_5": "CCAGCA",
+        "dna_6": "AGGTCC"
+    },
+    {
+        "dna_1": "GGAGCC",
+        "dna_2": "CTGAGC",
+        "dna_3": "TGGTTC",
+        "dna_4": "CTGGTC",
+        "dna_5": "CCGATT",
+        "dna_6": "GTTCCT"
+    },
+    {
+        "dna_1": "AGCTAC",
+        "dna_2": "ACATAT",
+        "dna_3": "AGCAAT",
+        "dna_4": "TCCTGA",
+        "dna_5": "TCTGCC",
+        "dna_6": "GGCAGG"
+    },
+    {
+        "dna_1": "TGCACA",
+        "dna_2": "CGCCAC",
+        "dna_3": "GGATGC",
+        "dna_4": "ATGCAA",
+        "dna_5": "AGATCG",
+        "dna_6": "CTACGG"
+    },
+    {
+        "dna_1": "TAGAGG",
+        "dna_2": "GTAGCC",
+        "dna_3": "GCCCTA",
+        "dna_4": "GTTGCC",
+        "dna_5": "ATGGAC",
+        "dna_6": "CGTCTC"
+    },
+    {
+        "dna_1": "GAAGCC",
+        "dna_2": "ATTGTT",
+        "dna_3": "CTTGCA",
+        "dna_4": "TGGCCC",
+        "dna_5": "TATTGC",
+        "dna_6": "TCGAGG"
+    },
+    {
+        "dna_1": "CAAATC",
+        "dna_2": "TACTGA",
+        "dna_3": "GCGTAC",
+        "dna_4": "AAATAT",
+        "dna_5": "GAATAA",
+        "dna_6": "CACTAG"
+    },
+    {
+        "dna_1": "GTGGAA",
+        "dna_2": "GTAACT",
+        "dna_3": "GACAAG",
+        "dna_4": "CGACGA",
+        "dna_5": "ATAGGT",
+        "dna_6": "AGTATT"
+    },
+    {
+        "dna_1": "GCTCGC",
+        "dna_2": "ATAACA",
+        "dna_3": "GGGCAT",
+        "dna_4": "AAGCTG",
+        "dna_5": "GCCAAT",
+        "dna_6": "TGGTAA"
+    },
+    {
+        "dna_1": "TGTCGA",
+        "dna_2": "CACGGA",
+        "dna_3": "GACTGA",
+        "dna_4": "CGATTT",
+        "dna_5": "GTCTGA",
+        "dna_6": "TTCCCA"
+    },
+    {
+        "dna_1": "TTCACT",
+        "dna_2": "TTGCCG",
+        "dna_3": "TGGAGT",
+        "dna_4": "ACTCTT",
+        "dna_5": "AAAAGT",
+        "dna_6": "CACTCG"
+    },
+    {
+        "dna_1": "CCGAAA",
+        "dna_2": "GCGATG",
+        "dna_3": "TGCAGT",
+        "dna_4": "CTGTTT",
+        "dna_5": "CTGATG",
+        "dna_6": "CGAGCC"
+    },
+    {
+        "dna_1": "CGCATA",
+        "dna_2": "GTATCT",
+        "dna_3": "CCGACG",
+        "dna_4": "CCTGGG",
+        "dna_5": "AGTTGG",
+        "dna_6": "CGCACG"
+    },
+    {
+        "dna_1": "AGCGAC",
+        "dna_2": "AAAACA",
+        "dna_3": "ATAAAA",
+        "dna_4": "ACGCAA",
+        "dna_5": "CGTCTC",
+        "dna_6": "GGACAG"
+    },
+    {
+        "dna_1": "GACAAA",
+        "dna_2": "TCTAAG",
+        "dna_3": "GTCCCT",
+        "dna_4": "GAATAG",
+        "dna_5": "TCCCAG",
+        "dna_6": "TGTTGC"
+    },
+    {
+        "dna_1": "CTACCA",
+        "dna_2": "AATGTT",
+        "dna_3": "AGTGGG",
+        "dna_4": "CGTCGG",
+        "dna_5": "CGCCTG",
+        "dna_6": "AACTGA"
+    },
+    {
+        "dna_1": "TTGTGT",
+        "dna_2": "GACTCG",
+        "dna_3": "ATGGTT",
+        "dna_4": "CTGCCT",
+        "dna_5": "TAACCC",
+        "dna_6": "GATGTA"
+    },
+    {
+        "dna_1": "CCAGGA",
+        "dna_2": "GCCAGT",
+        "dna_3": "GCCGGC",
+        "dna_4": "TCATCT",
+        "dna_5": "TAGATG",
+        "dna_6": "GTGCTG"
+    },
+    {
+        "dna_1": "CGTAGT",
+        "dna_2": "GATGGT",
+        "dna_3": "TTCCCC",
+        "dna_4": "CCTTAT",
+        "dna_5": "CTGACA",
+        "dna_6": "GTGGAG"
+    },
+    {
+        "dna_1": "AATGTA",
+        "dna_2": "CTTTAA",
+        "dna_3": "AGCACT",
+        "dna_4": "GGGCCT",
+        "dna_5": "CTGGCC",
+        "dna_6": "CATCGT"
+    },
+    {
+        "dna_1": "CCCTCT",
+        "dna_2": "ATTTCC",
+        "dna_3": "GCGGCT",
+        "dna_4": "TCTTAG",
+        "dna_5": "AGGAAT",
+        "dna_6": "GGAATG"
+    },
+    {
+        "dna_1": "CTGGCA",
+        "dna_2": "AGGAGG",
+        "dna_3": "ATGAGA",
+        "dna_4": "GTCAGG",
+        "dna_5": "GGTAGA",
+        "dna_6": "AAAGCA"
+    },
+    {
+        "dna_1": "GCCAGC",
+        "dna_2": "TTCAGA",
+        "dna_3": "TCAGTT",
+        "dna_4": "CTACGC",
+        "dna_5": "CCGATT",
+        "dna_6": "CCAGGT"
+    },
+    {
+        "dna_1": "GTTTTA",
+        "dna_2": "TGAACG",
+        "dna_3": "GCATTG",
+        "dna_4": "ATAGTT",
+        "dna_5": "CCTGAG",
+        "dna_6": "CTGGAT"
+    },
+    {
+        "dna_1": "GCAGAC",
+        "dna_2": "ATGGTC",
+        "dna_3": "TAAAAA",
+        "dna_4": "TGCGGT",
+        "dna_5": "TATGAC",
+        "dna_6": "AGGCGA"
+    },
+    {
+        "dna_1": "GCAACC",
+        "dna_2": "CGTCAG",
+        "dna_3": "GCTGTC",
+        "dna_4": "TGTGAC",
+        "dna_5": "GAGGTG",
+        "dna_6": "TCGATT"
+    },
+    {
+        "dna_1": "TTGTTT",
+        "dna_2": "GTCCTT",
+        "dna_3": "GGCCTT",
+        "dna_4": "GGCGTA",
+        "dna_5": "ACGAGT",
+        "dna_6": "TTACTA"
+    },
+    {
+        "dna_1": "GGAAAC",
+        "dna_2": "GCGCAG",
+        "dna_3": "TCGGTA",
+        "dna_4": "CACAGG",
+        "dna_5": "AACTCC",
+        "dna_6": "GGCCCT"
+    },
+    {
+        "dna_1": "CATTAC",
+        "dna_2": "AACGAT",
+        "dna_3": "AATGTT",
+        "dna_4": "AGACCC",
+        "dna_5": "GTGGCA",
+        "dna_6": "CGATAA"
+    },
+    {
+        "dna_1": "ATCATA",
+        "dna_2": "TCATAC",
+        "dna_3": "CGTTTA",
+        "dna_4": "GGTGAT",
+        "dna_5": "GAGTCT",
+        "dna_6": "ACCTCC"
+    },
+    {
+        "dna_1": "ATGTCT",
+        "dna_2": "ATTCCT",
+        "dna_3": "GCACTA",
+        "dna_4": "GCTCAC",
+        "dna_5": "ACGTTC",
+        "dna_6": "TTTTTA"
+    },
+    {
+        "dna_1": "GCACGA",
+        "dna_2": "TATCGC",
+        "dna_3": "ACGCTG",
+        "dna_4": "TGATTA",
+        "dna_5": "CGGTCT",
+        "dna_6": "TGTGCC"
+    },
+    {
+        "dna_1": "CCACAG",
+        "dna_2": "CGGATT",
+        "dna_3": "TATAAT",
+        "dna_4": "ATTCTT",
+        "dna_5": "GTGGCG",
+        "dna_6": "CTCCCA"
+    },
+    {
+        "dna_1": "GGGTAA",
+        "dna_2": "AACCGG",
+        "dna_3": "TAACGT",
+        "dna_4": "CGGGGC",
+        "dna_5": "TTGTCA",
+        "dna_6": "GCCTAT"
+    },
+    {
+        "dna_1": "CCTTTC",
+        "dna_2": "CTATGG",
+        "dna_3": "CTATGG",
+        "dna_4": "GGGCAT",
+        "dna_5": "GATGCT",
+        "dna_6": "TATGGG"
+    },
+    {
+        "dna_1": "AGTGAC",
+        "dna_2": "GAGAAC",
+        "dna_3": "TCCTAG",
+        "dna_4": "GAAAGT",
+        "dna_5": "TATATG",
+        "dna_6": "CCACGA"
+    },
+    {
+        "dna_1": "ACTCAA",
+        "dna_2": "CTCAGA",
+        "dna_3": "TGCCGC",
+        "dna_4": "ATATGC",
+        "dna_5": "AGATCA",
+        "dna_6": "ATGGCA"
+    },
+    {
+        "dna_1": "AATTCC",
+        "dna_2": "TTAACC",
+        "dna_3": "GACCGC",
+        "dna_4": "TTCTTA",
+        "dna_5": "AACAGA",
+        "dna_6": "ATGCTA"
+    },
+    {
+        "dna_1": "AATTAG",
+        "dna_2": "GACCGT",
+        "dna_3": "GCATAG",
+        "dna_4": "ATGCAT",
+        "dna_5": "GCTGCA",
+        "dna_6": "CAGAAG"
+    },
+    {
+        "dna_1": "ATGACG",
+        "dna_2": "CAATCT",
+        "dna_3": "TTATCC",
+        "dna_4": "TCAAAG",
+        "dna_5": "CATTCT",
+        "dna_6": "TAAACA"
+    },
+    {
+        "dna_1": "GTAGGG",
+        "dna_2": "TGAATA",
+        "dna_3": "AATACC",
+        "dna_4": "TCGAGT",
+        "dna_5": "AAGTGC",
+        "dna_6": "TTTGAT"
+    },
+    {
+        "dna_1": "CAAGCG",
+        "dna_2": "GCGCAG",
+        "dna_3": "AGTCGC",
+        "dna_4": "TGCTGC",
+        "dna_5": "CATTAG",
+        "dna_6": "ACGTAA"
+    },
+    {
+        "dna_1": "GGGGCA",
+        "dna_2": "ACATTC",
+        "dna_3": "CGCGCA",
+        "dna_4": "TTCTAG",
+        "dna_5": "AAAACC",
+        "dna_6": "CGCCCC"
+    },
+    {
+        "dna_1": "CTTCAA",
+        "dna_2": "CGATTC",
+        "dna_3": "TCAGCT",
+        "dna_4": "AATCGG",
+        "dna_5": "TGAGAG",
+        "dna_6": "GTCTGA"
+    },
+    {
+        "dna_1": "TGCAGG",
+        "dna_2": "TGAGCT",
+        "dna_3": "TATTTT",
+        "dna_4": "TCTACT",
+        "dna_5": "ATCTGC",
+        "dna_6": "TGTGAT"
+    },
+    {
+        "dna_1": "CAGGGT",
+        "dna_2": "GGCTAC",
+        "dna_3": "TTCATA",
+        "dna_4": "CAATGG",
+        "dna_5": "AAAGGT",
+        "dna_6": "ACCCTT"
+    },
+    {
+        "dna_1": "CCCGTA",
+        "dna_2": "GGGCCT",
+        "dna_3": "GACATT",
+        "dna_4": "GATACT",
+        "dna_5": "AATCGA",
+        "dna_6": "CAAACA"
+    },
+    {
+        "dna_1": "CAATCC",
+        "dna_2": "TTAGCA",
+        "dna_3": "AATACC",
+        "dna_4": "TATCAG",
+        "dna_5": "TAGTCT",
+        "dna_6": "GAATCG"
+    },
+    {
+        "dna_1": "CAACTC",
+        "dna_2": "TCGGGA",
+        "dna_3": "TCGGTA",
+        "dna_4": "ACACAG",
+        "dna_5": "CATCGT",
+        "dna_6": "TCCGGA"
+    },
+    {
+        "dna_1": "CTCGCA",
+        "dna_2": "ACGTGG",
+        "dna_3": "CTAGGG",
+        "dna_4": "TCCTCC",
+        "dna_5": "AAAGTG",
+        "dna_6": "CGCGCG"
+    },
+    {
+        "dna_1": "CTAGGT",
+        "dna_2": "AGAGAT",
+        "dna_3": "TGAGAA",
+        "dna_4": "GTTCGT",
+        "dna_5": "TGGGGC",
+        "dna_6": "ATGTCC"
+    },
+    {
+        "dna_1": "TTATTA",
+        "dna_2": "GGGCGA",
+        "dna_3": "AGATTA",
+        "dna_4": "GAGTGG",
+        "dna_5": "CCCTAG",
+        "dna_6": "CGATAG"
+    },
+    {
+        "dna_1": "CCTTCC",
+        "dna_2": "GGTACT",
+        "dna_3": "GATGTG",
+        "dna_4": "ATAAAT",
+        "dna_5": "GGAGCT",
+        "dna_6": "CTAGTA"
+    },
+    {
+        "dna_1": "TTGACC",
+        "dna_2": "AGGTCT",
+        "dna_3": "AGGCAA",
+        "dna_4": "CAAGTT",
+        "dna_5": "CGTATT",
+        "dna_6": "GGACTC"
+    },
+    {
+        "dna_1": "AAAGCG",
+        "dna_2": "AGTCAA",
+        "dna_3": "GATCTC",
+        "dna_4": "TTCTCG",
+        "dna_5": "TGGCGC",
+        "dna_6": "TCTAGA"
+    },
+    {
+        "dna_1": "GTGATA",
+        "dna_2": "TTTATT",
+        "dna_3": "TATGTA",
+        "dna_4": "GCGACC",
+        "dna_5": "TAGGGA",
+        "dna_6": "GACGTG"
+    },
+    {
+        "dna_1": "CCACGA",
+        "dna_2": "AGACGG",
+        "dna_3": "CCATTC",
+        "dna_4": "CTCGTT",
+        "dna_5": "TTTCTG",
+        "dna_6": "TTAGTC"
+    },
+    {
+        "dna_1": "CTTCTT",
+        "dna_2": "AACTTT",
+        "dna_3": "TGCCTG",
+        "dna_4": "CGCCTT",
+        "dna_5": "AGAGAT",
+        "dna_6": "CATTAG"
+    },
+    {
+        "dna_1": "CAAACA",
+        "dna_2": "TGATAA",
+        "dna_3": "GCATCC",
+        "dna_4": "CAGTGC",
+        "dna_5": "ACCTCT",
+        "dna_6": "CGGCGG"
+    },
+    {
+        "dna_1": "CCCCTT",
+        "dna_2": "ATCGTT",
+        "dna_3": "CAACGG",
+        "dna_4": "TATCCG",
+        "dna_5": "CGGGCA",
+        "dna_6": "CTGTTC"
+    },
+    {
+        "dna_1": "AGACGT",
+        "dna_2": "ATGTTA",
+        "dna_3": "TCTTAG",
+        "dna_4": "CCGATG",
+        "dna_5": "GCTGTC",
+        "dna_6": "AGATCA"
+    },
+    {
+        "dna_1": "CTATCC",
+        "dna_2": "GGGTAC",
+        "dna_3": "CCAAAG",
+        "dna_4": "AGACGC",
+        "dna_5": "CGGTTC",
+        "dna_6": "GAGTAT"
+    },
+    {
+        "dna_1": "GGGCGG",
+        "dna_2": "GAGCGT",
+        "dna_3": "TCCAAC",
+        "dna_4": "TTACTT",
+        "dna_5": "TGCCCC",
+        "dna_6": "ACTCAT"
+    },
+    {
+        "dna_1": "GCCGCC",
+        "dna_2": "TCCTTG",
+        "dna_3": "ATCGAA",
+        "dna_4": "TCGTGC",
+        "dna_5": "TAGATT",
+        "dna_6": "TACTGT"
+    },
+    {
+        "dna_1": "TCCTCA",
+        "dna_2": "CCGACC",
+        "dna_3": "GCCTCA",
+        "dna_4": "TCTGAT",
+        "dna_5": "TAAGGA",
+        "dna_6": "CCGAAG"
+    },
+    {
+        "dna_1": "CAAGTC",
+        "dna_2": "AGTCTT",
+        "dna_3": "TTCGGG",
+        "dna_4": "CGGAAC",
+        "dna_5": "CACCCC",
+        "dna_6": "AGGCCA"
+    },
+    {
+        "dna_1": "AACGGG",
+        "dna_2": "TGTAAG",
+        "dna_3": "ACGCAC",
+        "dna_4": "GGCAGA",
+        "dna_5": "ATGTTT",
+        "dna_6": "CTCTGG"
+    },
+    {
+        "dna_1": "ACTCTC",
+        "dna_2": "CTGTCC",
+        "dna_3": "CATTTC",
+        "dna_4": "ATCGAC",
+        "dna_5": "ATAATA",
+        "dna_6": "TTTCTG"
+    },
+    {
+        "dna_1": "GCTCGC",
+        "dna_2": "CTCATT",
+        "dna_3": "AGTGCG",
+        "dna_4": "CAAACA",
+        "dna_5": "CGTTAC",
+        "dna_6": "CTTTTC"
+    },
+    {
+        "dna_1": "GCGCCA",
+        "dna_2": "CTATCT",
+        "dna_3": "CTCAGT",
+        "dna_4": "ATATTG",
+        "dna_5": "ATCAAA",
+        "dna_6": "CGGCCA"
+    },
+    {
+        "dna_1": "ACAACA",
+        "dna_2": "GCTACA",
+        "dna_3": "GAGCTC",
+        "dna_4": "CAGCAA",
+        "dna_5": "GCCTGT",
+        "dna_6": "AATCTA"
+    },
+    {
+        "dna_1": "AGATGA",
+        "dna_2": "CCCCCC",
+        "dna_3": "GCGTAC",
+        "dna_4": "CCGCCA",
+        "dna_5": "TTCGGA",
+        "dna_6": "AGTGTG"
+    },
+    {
+        "dna_1": "GCAGAG",
+        "dna_2": "CGCTTA",
+        "dna_3": "GAAACT",
+        "dna_4": "ACGATT",
+        "dna_5": "TGGCCT",
+        "dna_6": "GCCCTA"
+    },
+    {
+        "dna_1": "ACATAA",
+        "dna_2": "GGCAAC",
+        "dna_3": "CGCGGC",
+        "dna_4": "GAGCAG",
+        "dna_5": "TCCGGA",
+        "dna_6": "CGGTTG"
+    },
+    {
+        "dna_1": "ACCGAT",
+        "dna_2": "ACTAGA",
+        "dna_3": "TTTGTA",
+        "dna_4": "TATTAA",
+        "dna_5": "TCCTAA",
+        "dna_6": "GCATTC"
+    },
+    {
+        "dna_1": "TATAAT",
+        "dna_2": "CGCAAT",
+        "dna_3": "AAAAGC",
+        "dna_4": "AACACC",
+        "dna_5": "TCCAGG",
+        "dna_6": "CTGAGA"
+    },
+    {
+        "dna_1": "ATGAGA",
+        "dna_2": "GGCTAA",
+        "dna_3": "GGAGTT",
+        "dna_4": "TATAAC",
+        "dna_5": "TCCAGA",
+        "dna_6": "CTGGTC"
+    },
+    {
+        "dna_1": "GCTCAT",
+        "dna_2": "GACGGG",
+        "dna_3": "CGTACA",
+        "dna_4": "TTCTCG",
+        "dna_5": "AAAATC",
+        "dna_6": "TTTCCC"
+    },
+    {
+        "dna_1": "TACTTA",
+        "dna_2": "TGTCAG",
+        "dna_3": "TGATAT",
+        "dna_4": "GACAAT",
+        "dna_5": "TGGACG",
+        "dna_6": "AAACGA"
+    },
+    {
+        "dna_1": "TGACTC",
+        "dna_2": "AATATA",
+        "dna_3": "CGGAAG",
+        "dna_4": "AATACG",
+        "dna_5": "CGGTGA",
+        "dna_6": "ATAAAT"
+    },
+    {
+        "dna_1": "TTGGCT",
+        "dna_2": "AGCATT",
+        "dna_3": "GCACTC",
+        "dna_4": "CCGCGC",
+        "dna_5": "ACGCGT",
+        "dna_6": "ACGACA"
+    },
+    {
+        "dna_1": "CCCCTG",
+        "dna_2": "AGTGGG",
+        "dna_3": "CTACCA",
+        "dna_4": "ACGTCA",
+        "dna_5": "AAGGAA",
+        "dna_6": "GGTTTT"
+    },
+    {
+        "dna_1": "TTGCGG",
+        "dna_2": "CTAGGG",
+        "dna_3": "CCTTTA",
+        "dna_4": "CAGACC",
+        "dna_5": "GAACAC",
+        "dna_6": "AGGGGT"
+    },
+    {
+        "dna_1": "GCGAGG",
+        "dna_2": "GAGAGT",
+        "dna_3": "AAGATG",
+        "dna_4": "AAGGCT",
+        "dna_5": "GGTGAG",
+        "dna_6": "GAGATA"
+    },
+    {
+        "dna_1": "GGATAC",
+        "dna_2": "TCGTTT",
+        "dna_3": "TCGTAG",
+        "dna_4": "GACCGC",
+        "dna_5": "AGTGTA",
+        "dna_6": "GCCGAC"
+    },
+    {
+        "dna_1": "GAGGGT",
+        "dna_2": "GAATGA",
+        "dna_3": "TTAAAA",
+        "dna_4": "TCTCTT",
+        "dna_5": "CAGCAC",
+        "dna_6": "GTACCG"
+    },
+    {
+        "dna_1": "ACAAGG",
+        "dna_2": "TATGTC",
+        "dna_3": "ACGCGG",
+        "dna_4": "GTCGTG",
+        "dna_5": "GTTCAT",
+        "dna_6": "ATAACG"
+    },
+    {
+        "dna_1": "ACCAAT",
+        "dna_2": "CGGTCA",
+        "dna_3": "TCCATA",
+        "dna_4": "GTGGAT",
+        "dna_5": "TTCTTA",
+        "dna_6": "AGCACA"
+    },
+    {
+        "dna_1": "AGACCC",
+        "dna_2": "GCCAAA",
+        "dna_3": "TCAGGA",
+        "dna_4": "GGCATC",
+        "dna_5": "ATAGTT",
+        "dna_6": "TTTCGG"
+    },
+    {
+        "dna_1": "CCTCAA",
+        "dna_2": "AAATAT",
+        "dna_3": "CGGCGT",
+        "dna_4": "CAGATC",
+        "dna_5": "AAATTT",
+        "dna_6": "AGAGGA"
+    },
+    {
+        "dna_1": "GGGAGC",
+        "dna_2": "AATGGT",
+        "dna_3": "CGCCAG",
+        "dna_4": "CGGGGG",
+        "dna_5": "TGCTTT",
+        "dna_6": "CGCTGC"
+    },
+    {
+        "dna_1": "GATTAC",
+        "dna_2": "GCTCCG",
+        "dna_3": "ACGCTT",
+        "dna_4": "CCGTCT",
+        "dna_5": "CATTAA",
+        "dna_6": "GGTAGA"
+    },
+    {
+        "dna_1": "AGACGA",
+        "dna_2": "CCGGGT",
+        "dna_3": "TCAGGA",
+        "dna_4": "CTGCCT",
+        "dna_5": "AGAGCA",
+        "dna_6": "GAGTAA"
+    },
+    {
+        "dna_1": "GATTTG",
+        "dna_2": "CGCCTA",
+        "dna_3": "ACCCCG",
+        "dna_4": "TACGCC",
+        "dna_5": "GGTCCA",
+        "dna_6": "CCGCAA"
+    },
+    {
+        "dna_1": "ATTCAC",
+        "dna_2": "AAGTCC",
+        "dna_3": "TTCTGG",
+        "dna_4": "CAGGAT",
+        "dna_5": "AGACCA",
+        "dna_6": "TTTCGT"
+    },
+    {
+        "dna_1": "TCTAGA",
+        "dna_2": "CGCGGC",
+        "dna_3": "TGCTGT",
+        "dna_4": "TACCAC",
+        "dna_5": "CTAGAA",
+        "dna_6": "TTGCGA"
+    },
+    {
+        "dna_1": "TGTGAG",
+        "dna_2": "ACGTTG",
+        "dna_3": "GCCTCT",
+        "dna_4": "ACCAGT",
+        "dna_5": "ACCGCC",
+        "dna_6": "GACTTG"
+    },
+    {
+        "dna_1": "GGCGCA",
+        "dna_2": "AGCGGT",
+        "dna_3": "ATTCGC",
+        "dna_4": "TCAAGC",
+        "dna_5": "AGCTAT",
+        "dna_6": "TGACAC"
+    },
+    {
+        "dna_1": "CACACT",
+        "dna_2": "AATGAA",
+        "dna_3": "TCACAG",
+        "dna_4": "CAGGTC",
+        "dna_5": "ATGCCA",
+        "dna_6": "TCTGTG"
+    },
+    {
+        "dna_1": "AACGCC",
+        "dna_2": "TTACAT",
+        "dna_3": "ACTATT",
+        "dna_4": "GACGAG",
+        "dna_5": "TCGCTC",
+        "dna_6": "TAATCC"
+    },
+    {
+        "dna_1": "ATATCG",
+        "dna_2": "TTTATC",
+        "dna_3": "CTTAAG",
+        "dna_4": "TCTTCA",
+        "dna_5": "ATTTTC",
+        "dna_6": "ATCGCG"
+    },
+    {
+        "dna_1": "CGCGTG",
+        "dna_2": "ATCTCG",
+        "dna_3": "TACTTA",
+        "dna_4": "ACCCGC",
+        "dna_5": "CTCCAA",
+        "dna_6": "ACCGTC"
+    },
+    {
+        "dna_1": "CAGTGA",
+        "dna_2": "TCATGT",
+        "dna_3": "GACACC",
+        "dna_4": "GGGAAA",
+        "dna_5": "CGTTGT",
+        "dna_6": "GATGCG"
+    },
+    {
+        "dna_1": "GTCTTA",
+        "dna_2": "AAGGAA",
+        "dna_3": "CGACGT",
+        "dna_4": "GTTCAC",
+        "dna_5": "TAGAAC",
+        "dna_6": "GTTCTG"
+    },
+    {
+        "dna_1": "CCACTG",
+        "dna_2": "CGTACG",
+        "dna_3": "AGCCCG",
+        "dna_4": "CGAACT",
+        "dna_5": "GAGGAC",
+        "dna_6": "CCGTCT"
+    },
+    {
+        "dna_1": "ATGGCA",
+        "dna_2": "AATGAC",
+        "dna_3": "ATCTCG",
+        "dna_4": "GACTAT",
+        "dna_5": "AGCTGT",
+        "dna_6": "GGGGTT"
+    },
+    {
+        "dna_1": "TCTCAT",
+        "dna_2": "CAACGG",
+        "dna_3": "AAAGGT",
+        "dna_4": "GATTCG",
+        "dna_5": "GATGCC",
+        "dna_6": "CCGCAT"
+    },
+    {
+        "dna_1": "TGAATG",
+        "dna_2": "GAGACG",
+        "dna_3": "AGTTGC",
+        "dna_4": "AGTTCA",
+        "dna_5": "ATCGGA",
+        "dna_6": "TAGTTT"
+    },
+    {
+        "dna_1": "TAGTAC",
+        "dna_2": "CTCTCC",
+        "dna_3": "GCCAAA",
+        "dna_4": "CACGAG",
+        "dna_5": "TTTTGA",
+        "dna_6": "GCCTTG"
+    },
+    {
+        "dna_1": "GCTTAG",
+        "dna_2": "ACGCCT",
+        "dna_3": "TTTAAA",
+        "dna_4": "GCTGGT",
+        "dna_5": "ATTTGA",
+        "dna_6": "AATCTG"
+    },
+    {
+        "dna_1": "GCTTAG",
+        "dna_2": "ACCCCC",
+        "dna_3": "CGGGCG",
+        "dna_4": "GGTGTA",
+        "dna_5": "TAGTAA",
+        "dna_6": "CATGTC"
+    },
+    {
+        "dna_1": "CCGCCC",
+        "dna_2": "AGGAGG",
+        "dna_3": "TAATTC",
+        "dna_4": "GTCTGG",
+        "dna_5": "ACGAGT",
+        "dna_6": "CTCCCC"
+    },
+    {
+        "dna_1": "TATGTG",
+        "dna_2": "GGTTGG",
+        "dna_3": "TGCCCA",
+        "dna_4": "TCCAGA",
+        "dna_5": "GGCCAG",
+        "dna_6": "GCCACC"
+    },
+    {
+        "dna_1": "TGCTAG",
+        "dna_2": "GAGGGT",
+        "dna_3": "GTACTC",
+        "dna_4": "GAAGCC",
+        "dna_5": "TGCCTA",
+        "dna_6": "AGGGCA"
+    },
+    {
+        "dna_1": "TAGCTT",
+        "dna_2": "CCTATC",
+        "dna_3": "CTTTGT",
+        "dna_4": "CCCGTG",
+        "dna_5": "CGTCAA",
+        "dna_6": "ATGATA"
+    },
+    {
+        "dna_1": "CAGGCG",
+        "dna_2": "TGATCC",
+        "dna_3": "GGGACG",
+        "dna_4": "ACGTGG",
+        "dna_5": "ATTTCG",
+        "dna_6": "AGGCGC"
+    },
+    {
+        "dna_1": "GATCGC",
+        "dna_2": "TCTCCA",
+        "dna_3": "AACATC",
+        "dna_4": "GGTTCC",
+        "dna_5": "CCCATA",
+        "dna_6": "AAACCA"
+    },
+    {
+        "dna_1": "TAGCCC",
+        "dna_2": "AACATA",
+        "dna_3": "TGTAAA",
+        "dna_4": "TAGCTA",
+        "dna_5": "AAACTT",
+        "dna_6": "CCGACT"
+    },
+    {
+        "dna_1": "AACCGA",
+        "dna_2": "CCCATC",
+        "dna_3": "GAGTAC",
+        "dna_4": "CTCACT",
+        "dna_5": "AGTCGC",
+        "dna_6": "TCTATC"
+    },
+    {
+        "dna_1": "CCCTCG",
+        "dna_2": "TGAGAT",
+        "dna_3": "TTCGTC",
+        "dna_4": "GTGACT",
+        "dna_5": "TTCCCA",
+        "dna_6": "GTGCTC"
+    },
+    {
+        "dna_1": "TGACCA",
+        "dna_2": "CTTTAG",
+        "dna_3": "GCAGGG",
+        "dna_4": "TAGAGA",
+        "dna_5": "CCATGT",
+        "dna_6": "ACCTTA"
+    },
+    {
+        "dna_1": "CGAAAT",
+        "dna_2": "CCTCGA",
+        "dna_3": "CATAAG",
+        "dna_4": "GCGCCC",
+        "dna_5": "CATGTG",
+        "dna_6": "TGTTAC"
+    },
+    {
+        "dna_1": "TGTAGG",
+        "dna_2": "ATCTTT",
+        "dna_3": "ACCGGC",
+        "dna_4": "ATCTCA",
+        "dna_5": "GGGCAT",
+        "dna_6": "GATGAT"
+    },
+    {
+        "dna_1": "AAGCGC",
+        "dna_2": "AGAGTA",
+        "dna_3": "AGACGA",
+        "dna_4": "CCATGA",
+        "dna_5": "CGGCAA",
+        "dna_6": "TGAGTC"
+    },
+    {
+        "dna_1": "AGTACT",
+        "dna_2": "TCCGCA",
+        "dna_3": "CATGCT",
+        "dna_4": "TCCCCC",
+        "dna_5": "ATGCTA",
+        "dna_6": "CATATA"
+    },
+    {
+        "dna_1": "ACTTTC",
+        "dna_2": "GGCCAG",
+        "dna_3": "AACGTC",
+        "dna_4": "CGTCTA",
+        "dna_5": "GTCGGC",
+        "dna_6": "TTGTGT"
+    },
+    {
+        "dna_1": "CTCAAG",
+        "dna_2": "TTAGTC",
+        "dna_3": "TAACAC",
+        "dna_4": "GATTAT",
+        "dna_5": "GATGAG",
+        "dna_6": "ACCTCC"
+    },
+    {
+        "dna_1": "GGCATA",
+        "dna_2": "CATAGC",
+        "dna_3": "TCCGTA",
+        "dna_4": "AAGAGT",
+        "dna_5": "CATCGC",
+        "dna_6": "TGGTAC"
+    },
+    {
+        "dna_1": "CCGGAT",
+        "dna_2": "CTAAAC",
+        "dna_3": "CAGGCG",
+        "dna_4": "TATAAT",
+        "dna_5": "ATGCCA",
+        "dna_6": "CGCTTC"
+    },
+    {
+        "dna_1": "ATCCAC",
+        "dna_2": "CCTGCC",
+        "dna_3": "GGACGG",
+        "dna_4": "TTCGAA",
+        "dna_5": "CGAACA",
+        "dna_6": "AAAGTT"
+    },
+    {
+        "dna_1": "ATATGC",
+        "dna_2": "AGCGAA",
+        "dna_3": "GTCGAA",
+        "dna_4": "TATCGC",
+        "dna_5": "TATCCA",
+        "dna_6": "CATGCG"
+    },
+    {
+        "dna_1": "AGCCGC",
+        "dna_2": "ACATCC",
+        "dna_3": "GTACGA",
+        "dna_4": "TACCCT",
+        "dna_5": "TCACCA",
+        "dna_6": "AGGAGC"
+    },
+    {
+        "dna_1": "TCACAA",
+        "dna_2": "GAAAGG",
+        "dna_3": "AGTCTG",
+        "dna_4": "TAAGCG",
+        "dna_5": "GAGCGT",
+        "dna_6": "GGGTAG"
+    },
+    {
+        "dna_1": "ATCGGT",
+        "dna_2": "CTGCTG",
+        "dna_3": "GACGTT",
+        "dna_4": "GATCCC",
+        "dna_5": "TGGGCC",
+        "dna_6": "GTTAAA"
+    },
+    {
+        "dna_1": "GGGTAG",
+        "dna_2": "AGATTT",
+        "dna_3": "GAGGTA",
+        "dna_4": "CCAGGA",
+        "dna_5": "ATCTCC",
+        "dna_6": "AACCGG"
+    },
+    {
+        "dna_1": "TTAAGG",
+        "dna_2": "AGGCAG",
+        "dna_3": "CTTGTA",
+        "dna_4": "ATCATA",
+        "dna_5": "CATTGA",
+        "dna_6": "GCGGAG"
+    },
+    {
+        "dna_1": "TTATGT",
+        "dna_2": "GAACGG",
+        "dna_3": "GCTGTG",
+        "dna_4": "GCTAAA",
+        "dna_5": "GGCGTC",
+        "dna_6": "AACACA"
+    },
+    {
+        "dna_1": "AGTTCC",
+        "dna_2": "CCACGG",
+        "dna_3": "GGATAC",
+        "dna_4": "CCTACC",
+        "dna_5": "CATGTG",
+        "dna_6": "AGCTGT"
+    },
+    {
+        "dna_1": "TTAGAG",
+        "dna_2": "GGAAGG",
+        "dna_3": "GTACCC",
+        "dna_4": "AAGGTT",
+        "dna_5": "TCAGGG",
+        "dna_6": "GCAAGC"
+    },
+    {
+        "dna_1": "CTGTAC",
+        "dna_2": "CTACTA",
+        "dna_3": "GTCTAA",
+        "dna_4": "CGGCAA",
+        "dna_5": "CTATAG",
+        "dna_6": "AAGATT"
+    },
+    {
+        "dna_1": "GAGAGC",
+        "dna_2": "TCGCCA",
+        "dna_3": "TCCTAA",
+        "dna_4": "TCTACA",
+        "dna_5": "GAAGGT",
+        "dna_6": "AAAAGT"
+    },
+    {
+        "dna_1": "AATGCA",
+        "dna_2": "TAAGAG",
+        "dna_3": "TAGTGA",
+        "dna_4": "CTTATT",
+        "dna_5": "GAATCG",
+        "dna_6": "GTTAGA"
+    },
+    {
+        "dna_1": "AAAGAT",
+        "dna_2": "CACTAA",
+        "dna_3": "AGAGAC",
+        "dna_4": "CACAGT",
+        "dna_5": "CGACCC",
+        "dna_6": "ACTCAC"
+    },
+    {
+        "dna_1": "GCAAAT",
+        "dna_2": "TCGGTC",
+        "dna_3": "CGCATA",
+        "dna_4": "TGGGCG",
+        "dna_5": "ACCCTC",
+        "dna_6": "TAGTAC"
+    },
+    {
+        "dna_1": "GGGGTG",
+        "dna_2": "AGTACC",
+        "dna_3": "CTACTA",
+        "dna_4": "AAACCG",
+        "dna_5": "CACGCG",
+        "dna_6": "GGCTAC"
+    },
+    {
+        "dna_1": "CGTCCA",
+        "dna_2": "GCCCAA",
+        "dna_3": "TACACT",
+        "dna_4": "GTCAAA",
+        "dna_5": "ACTTAT",
+        "dna_6": "TTTTAA"
+    },
+    {
+        "dna_1": "TGGCCG",
+        "dna_2": "GTTTTC",
+        "dna_3": "ACCTAG",
+        "dna_4": "TCGAAC",
+        "dna_5": "CCCCGG",
+        "dna_6": "TCCATG"
+    },
+    {
+        "dna_1": "GATTTA",
+        "dna_2": "GGTCGG",
+        "dna_3": "ATTAGG",
+        "dna_4": "TCGACT",
+        "dna_5": "AAGTTC",
+        "dna_6": "GGGCGC"
+    },
+    {
+        "dna_1": "AGGTTT",
+        "dna_2": "CATCAT",
+        "dna_3": "GCTTAA",
+        "dna_4": "GGGCGC",
+        "dna_5": "TTTAGT",
+        "dna_6": "GAAAAG"
+    },
+    {
+        "dna_1": "CGGAGT",
+        "dna_2": "CCGCAC",
+        "dna_3": "ATTTCT",
+        "dna_4": "TTGTGT",
+        "dna_5": "TTCTAC",
+        "dna_6": "ATTACG"
+    },
+    {
+        "dna_1": "GTAAGT",
+        "dna_2": "TAGCCC",
+        "dna_3": "GAACCC",
+        "dna_4": "CCATGT",
+        "dna_5": "ATGTGG",
+        "dna_6": "CCTGTT"
+    },
+    {
+        "dna_1": "ACGGGG",
+        "dna_2": "ACGTAA",
+        "dna_3": "CTTTTG",
+        "dna_4": "TTGTTG",
+        "dna_5": "CATTAC",
+        "dna_6": "TCGCGC"
+    },
+    {
+        "dna_1": "CTGTGG",
+        "dna_2": "TGACAT",
+        "dna_3": "GTATCA",
+        "dna_4": "TAGCGC",
+        "dna_5": "TGCAGC",
+        "dna_6": "GGCAAG"
+    },
+    {
+        "dna_1": "TGATGA",
+        "dna_2": "ATGTCC",
+        "dna_3": "TCCTAT",
+        "dna_4": "CCCTTC",
+        "dna_5": "GCTAAG",
+        "dna_6": "AGTTAT"
+    },
+    {
+        "dna_1": "GTTGGC",
+        "dna_2": "GTTGTT",
+        "dna_3": "AGGTGT",
+        "dna_4": "GTAATT",
+        "dna_5": "AGTTCC",
+        "dna_6": "CGTCGC"
+    },
+    {
+        "dna_1": "TCATGC",
+        "dna_2": "GTAGAA",
+        "dna_3": "ATTCTA",
+        "dna_4": "CCGGTC",
+        "dna_5": "GAGGTG",
+        "dna_6": "TCGGGC"
+    },
+    {
+        "dna_1": "GGTAAT",
+        "dna_2": "TGGCCG",
+        "dna_3": "GGGTGT",
+        "dna_4": "GGTAGA",
+        "dna_5": "TCTGAC",
+        "dna_6": "CCAAGC"
+    },
+    {
+        "dna_1": "AACACT",
+        "dna_2": "GAGATC",
+        "dna_3": "TCATGT",
+        "dna_4": "CTCGTA",
+        "dna_5": "CGTCAT",
+        "dna_6": "TGCAGC"
+    },
+    {
+        "dna_1": "GCGCAT",
+        "dna_2": "TAGCAG",
+        "dna_3": "TTGCCC",
+        "dna_4": "ACTATC",
+        "dna_5": "TGACAC",
+        "dna_6": "CCGTGT"
+    },
+    {
+        "dna_1": "GTAAAG",
+        "dna_2": "CTAGAA",
+        "dna_3": "GCCGAT",
+        "dna_4": "AGTTAA",
+        "dna_5": "GTTACA",
+        "dna_6": "CGAGAG"
+    },
+    {
+        "dna_1": "AACACG",
+        "dna_2": "GATCTT",
+        "dna_3": "GCGATC",
+        "dna_4": "TCACTG",
+        "dna_5": "AGGGTT",
+        "dna_6": "TGCTCT"
+    },
+    {
+        "dna_1": "TTAAGG",
+        "dna_2": "TCGCGG",
+        "dna_3": "TGCCGT",
+        "dna_4": "CACCGG",
+        "dna_5": "CTGGGA",
+        "dna_6": "GGAATC"
+    },
+    {
+        "dna_1": "GCGGGC",
+        "dna_2": "CCGGCT",
+        "dna_3": "GGCGGG",
+        "dna_4": "GACGGT",
+        "dna_5": "CCCTCA",
+        "dna_6": "AATGTG"
+    },
+    {
+        "dna_1": "GTTGTA",
+        "dna_2": "CTCGAT",
+        "dna_3": "ATCGGA",
+        "dna_4": "ACGGGT",
+        "dna_5": "AACGCC",
+        "dna_6": "ACAGTT"
+    },
+    {
+        "dna_1": "TCGGGG",
+        "dna_2": "TCGTAC",
+        "dna_3": "CTTCTT",
+        "dna_4": "CCGAGT",
+        "dna_5": "TTTCTT",
+        "dna_6": "ATCGGG"
+    },
+    {
+        "dna_1": "GCCGTA",
+        "dna_2": "TGGACA",
+        "dna_3": "GAACAG",
+        "dna_4": "CCCATG",
+        "dna_5": "TTGCCT",
+        "dna_6": "GGCCAT"
+    },
+    {
+        "dna_1": "GTCATA",
+        "dna_2": "TACACG",
+        "dna_3": "ACCAAT",
+        "dna_4": "TCAGCC",
+        "dna_5": "ATGAGC",
+        "dna_6": "GCCGGA"
+    },
+    {
+        "dna_1": "CGTGGC",
+        "dna_2": "AGCCAT",
+        "dna_3": "AAGATT",
+        "dna_4": "AGCAAT",
+        "dna_5": "CTAAGC",
+        "dna_6": "CTGGAA"
+    },
+    {
+        "dna_1": "GGTTAT",
+        "dna_2": "TTTTTT",
+        "dna_3": "TCACCC",
+        "dna_4": "TCAAGA",
+        "dna_5": "GGTCTG",
+        "dna_6": "CACGCT"
+    },
+    {
+        "dna_1": "TGGTTA",
+        "dna_2": "GCTCAA",
+        "dna_3": "GTTCAC",
+        "dna_4": "GTTCCT",
+        "dna_5": "CTGTTA",
+        "dna_6": "CCTGCT"
+    },
+    {
+        "dna_1": "AAGGGT",
+        "dna_2": "AAAATC",
+        "dna_3": "ACGTGG",
+        "dna_4": "TAAGTG",
+        "dna_5": "ATGATA",
+        "dna_6": "TTAGGG"
+    },
+    {
+        "dna_1": "GACTCA",
+        "dna_2": "GGGGAA",
+        "dna_3": "AACTGG",
+        "dna_4": "TCTACG",
+        "dna_5": "TCTCCA",
+        "dna_6": "GCCCTG"
+    },
+    {
+        "dna_1": "CTGTCG",
+        "dna_2": "CTGGAC",
+        "dna_3": "CAGGTT",
+        "dna_4": "ATTAAT",
+        "dna_5": "ACGGAC",
+        "dna_6": "CATTTG"
+    },
+    {
+        "dna_1": "ACGTGG",
+        "dna_2": "TGAGAC",
+        "dna_3": "GGTTAA",
+        "dna_4": "CGGCGT",
+        "dna_5": "CCCCAT",
+        "dna_6": "GTGAGT"
+    },
+    {
+        "dna_1": "TGCAAT",
+        "dna_2": "GGGACC",
+        "dna_3": "TAGGGA",
+        "dna_4": "GAGACT",
+        "dna_5": "GCACTC",
+        "dna_6": "GTTGCA"
+    },
+    {
+        "dna_1": "CCACGC",
+        "dna_2": "GTAATT",
+        "dna_3": "ATCATA",
+        "dna_4": "AATACC",
+        "dna_5": "TTAATC",
+        "dna_6": "GACACT"
+    },
+    {
+        "dna_1": "CGATTA",
+        "dna_2": "TCCCAC",
+        "dna_3": "TAGAAG",
+        "dna_4": "TTGCAC",
+        "dna_5": "GCAGCA",
+        "dna_6": "GCTCTA"
+    },
+    {
+        "dna_1": "CACGAC",
+        "dna_2": "GTCCGC",
+        "dna_3": "ACCTGT",
+        "dna_4": "CCCGAT",
+        "dna_5": "CGGTAG",
+        "dna_6": "TTTAGC"
+    },
+    {
+        "dna_1": "GGCACT",
+        "dna_2": "AAAGCC",
+        "dna_3": "TTTGCA",
+        "dna_4": "TTCTCT",
+        "dna_5": "ACCCAT",
+        "dna_6": "AATACT"
+    },
+    {
+        "dna_1": "AGTTGT",
+        "dna_2": "GATACG",
+        "dna_3": "GCTGAT",
+        "dna_4": "ACCACT",
+        "dna_5": "CAGGAA",
+        "dna_6": "ACAACA"
+    },
+    {
+        "dna_1": "CTAAAC",
+        "dna_2": "ATCACA",
+        "dna_3": "TTCTAT",
+        "dna_4": "AGGAAC",
+        "dna_5": "CGGCAG",
+        "dna_6": "GGCCCA"
+    },
+    {
+        "dna_1": "ATTGAG",
+        "dna_2": "AGATGC",
+        "dna_3": "GTCTCC",
+        "dna_4": "GGTAAG",
+        "dna_5": "GGCCCG",
+        "dna_6": "CTACCT"
+    },
+    {
+        "dna_1": "CCCCAT",
+        "dna_2": "CAGGGT",
+        "dna_3": "ACGACC",
+        "dna_4": "ACCTTA",
+        "dna_5": "TGCATC",
+        "dna_6": "TGGTGC"
+    },
+    {
+        "dna_1": "ACCTCG",
+        "dna_2": "TTTTTA",
+        "dna_3": "TGTGTG",
+        "dna_4": "AGGTAG",
+        "dna_5": "ATCGCA",
+        "dna_6": "ACCTCC"
+    },
+    {
+        "dna_1": "ATCGTG",
+        "dna_2": "TACAAT",
+        "dna_3": "GTGGTA",
+        "dna_4": "CATCGG",
+        "dna_5": "CTTGGC",
+        "dna_6": "TGACTT"
+    },
+    {
+        "dna_1": "CCGACC",
+        "dna_2": "TTCATC",
+        "dna_3": "ACACTC",
+        "dna_4": "ATTCTG",
+        "dna_5": "ACATTT",
+        "dna_6": "GGCAGG"
+    },
+    {
+        "dna_1": "AAAAAG",
+        "dna_2": "GACCGG",
+        "dna_3": "GGGCTA",
+        "dna_4": "GAGCGG",
+        "dna_5": "TCACGA",
+        "dna_6": "ACTACT"
+    },
+    {
+        "dna_1": "GAATCT",
+        "dna_2": "TGCTCA",
+        "dna_3": "GGACTG",
+        "dna_4": "CGACAA",
+        "dna_5": "CCGACG",
+        "dna_6": "GAATAG"
+    },
+    {
+        "dna_1": "AACTAA",
+        "dna_2": "AGTACG",
+        "dna_3": "CCCGAC",
+        "dna_4": "ATCTGG",
+        "dna_5": "CCTCTG",
+        "dna_6": "GGCGGG"
+    },
+    {
+        "dna_1": "AACTGT",
+        "dna_2": "ATTCCT",
+        "dna_3": "TGGGGC",
+        "dna_4": "AGCCCC",
+        "dna_5": "TGTGAG",
+        "dna_6": "CACAAA"
+    },
+    {
+        "dna_1": "CGGACT",
+        "dna_2": "TGGGGC",
+        "dna_3": "CGGATC",
+        "dna_4": "TCCCCG",
+        "dna_5": "TTACCT",
+        "dna_6": "GCTCTA"
+    },
+    {
+        "dna_1": "ACTCCC",
+        "dna_2": "GCTCGG",
+        "dna_3": "GAGATC",
+        "dna_4": "GCGGCA",
+        "dna_5": "AATGAC",
+        "dna_6": "GCTCGC"
+    },
+    {
+        "dna_1": "TTGACC",
+        "dna_2": "AAGCAG",
+        "dna_3": "TAACCA",
+        "dna_4": "CGATAC",
+        "dna_5": "CGAGAT",
+        "dna_6": "CTTGGT"
+    },
+    {
+        "dna_1": "TAACTG",
+        "dna_2": "CGATCA",
+        "dna_3": "CCTCGA",
+        "dna_4": "GGTTCA",
+        "dna_5": "CTATGA",
+        "dna_6": "GACGCG"
+    },
+    {
+        "dna_1": "GGCAGG",
+        "dna_2": "CGGACG",
+        "dna_3": "TTAAGT",
+        "dna_4": "TCGGCT",
+        "dna_5": "CACGAG",
+        "dna_6": "ATGGCG"
+    },
+    {
+        "dna_1": "TAGAAT",
+        "dna_2": "GGCGCT",
+        "dna_3": "TGCCGC",
+        "dna_4": "ATCCCG",
+        "dna_5": "GTAGTA",
+        "dna_6": "TGCAAT"
+    },
+    {
+        "dna_1": "AGGGTC",
+        "dna_2": "ACTAGA",
+        "dna_3": "GTCCAA",
+        "dna_4": "TAATAG",
+        "dna_5": "ACTTAT",
+        "dna_6": "TACGTC"
+    },
+    {
+        "dna_1": "AGTCAA",
+        "dna_2": "GATGAT",
+        "dna_3": "CATGGT",
+        "dna_4": "CTTACT",
+        "dna_5": "GCCTGT",
+        "dna_6": "CCGTTC"
+    },
+    {
+        "dna_1": "TCTCGT",
+        "dna_2": "TTCAGA",
+        "dna_3": "ACTAAT",
+        "dna_4": "ATACGT",
+        "dna_5": "CGACAC",
+        "dna_6": "AGGTTA"
+    },
+    {
+        "dna_1": "GGGTTA",
+        "dna_2": "CTACGG",
+        "dna_3": "ATCGCG",
+        "dna_4": "TGAGAC",
+        "dna_5": "AGCACG",
+        "dna_6": "GAAGAA"
+    },
+    {
+        "dna_1": "CCAGAT",
+        "dna_2": "TATGCG",
+        "dna_3": "ACTGCC",
+        "dna_4": "CTTAGG",
+        "dna_5": "CCGGTC",
+        "dna_6": "CAAGCG"
+    },
+    {
+        "dna_1": "GTATAA",
+        "dna_2": "GGACGA",
+        "dna_3": "GACTGG",
+        "dna_4": "GCTAGG",
+        "dna_5": "CACCGC",
+        "dna_6": "TGCTTA"
+    },
+    {
+        "dna_1": "CCTGCT",
+        "dna_2": "TACCGC",
+        "dna_3": "CTTGAT",
+        "dna_4": "CCCAAC",
+        "dna_5": "AGTACG",
+        "dna_6": "CATGGA"
+    },
+    {
+        "dna_1": "GGTGAG",
+        "dna_2": "AAACGC",
+        "dna_3": "TAGAAC",
+        "dna_4": "CTCTCC",
+        "dna_5": "ACCTTA",
+        "dna_6": "GACTAG"
+    },
+    {
+        "dna_1": "CTCCCC",
+        "dna_2": "GTCAGC",
+        "dna_3": "TAAGTC",
+        "dna_4": "CCAGGT",
+        "dna_5": "TCTACC",
+        "dna_6": "CAGACC"
+    },
+    {
+        "dna_1": "GGATTA",
+        "dna_2": "AGCGGC",
+        "dna_3": "CTATGC",
+        "dna_4": "GAGACA",
+        "dna_5": "CCTGTG",
+        "dna_6": "CTACGC"
+    },
+    {
+        "dna_1": "CGAGCT",
+        "dna_2": "AGCATG",
+        "dna_3": "GTTCCC",
+        "dna_4": "AAATAT",
+        "dna_5": "GGGCGT",
+        "dna_6": "AACGGG"
+    },
+    {
+        "dna_1": "CGTCGT",
+        "dna_2": "AAAACA",
+        "dna_3": "TCCCTT",
+        "dna_4": "AAGTTA",
+        "dna_5": "CTCTGA",
+        "dna_6": "CACCAG"
+    },
+    {
+        "dna_1": "GAAGTG",
+        "dna_2": "TGTGAA",
+        "dna_3": "CGCTGG",
+        "dna_4": "GTCAGC",
+        "dna_5": "TCACGG",
+        "dna_6": "CGATGT"
+    },
+    {
+        "dna_1": "ATTAGA",
+        "dna_2": "CACTGG",
+        "dna_3": "TCCTGC",
+        "dna_4": "TCAGTG",
+        "dna_5": "CCACTC",
+        "dna_6": "TCTAAG"
+    },
+    {
+        "dna_1": "TGTAAA",
+        "dna_2": "AGCAGT",
+        "dna_3": "TTCAAA",
+        "dna_4": "GATCCG",
+        "dna_5": "CTAGAG",
+        "dna_6": "TTTATA"
+    },
+    {
+        "dna_1": "ATCTGC",
+        "dna_2": "TGACAC",
+        "dna_3": "ATGTCT",
+        "dna_4": "CAAGCT",
+        "dna_5": "GGCTAC",
+        "dna_6": "TACGAT"
+    },
+    {
+        "dna_1": "GTAATA",
+        "dna_2": "TCACTA",
+        "dna_3": "CTAATT",
+        "dna_4": "TTATTG",
+        "dna_5": "ACTAAC",
+        "dna_6": "GTTGTA"
+    },
+    {
+        "dna_1": "TGTGGA",
+        "dna_2": "CGCGTC",
+        "dna_3": "CCGACG",
+        "dna_4": "GGCACG",
+        "dna_5": "ACTTAA",
+        "dna_6": "GGTCGC"
+    },
+    {
+        "dna_1": "CGTAAA",
+        "dna_2": "TCCTTG",
+        "dna_3": "GTAGCC",
+        "dna_4": "TGCCTT",
+        "dna_5": "GGAGCT",
+        "dna_6": "CATTTC"
+    },
+    {
+        "dna_1": "TTGTTG",
+        "dna_2": "TATCAC",
+        "dna_3": "AAGGTG",
+        "dna_4": "CCAGTC",
+        "dna_5": "GGCTGA",
+        "dna_6": "AGAAAG"
+    },
+    {
+        "dna_1": "AGCCGC",
+        "dna_2": "TTCTCT",
+        "dna_3": "CACATA",
+        "dna_4": "ACACCA",
+        "dna_5": "GCAGAT",
+        "dna_6": "CCGGGA"
+    },
+    {
+        "dna_1": "CCCTAT",
+        "dna_2": "AGTTTG",
+        "dna_3": "TCACAT",
+        "dna_4": "TAATGG",
+        "dna_5": "TGTAGG",
+        "dna_6": "CGATTG"
+    },
+    {
+        "dna_1": "ATAAAA",
+        "dna_2": "CCGCGG",
+        "dna_3": "TATGAT",
+        "dna_4": "GGCCAG",
+        "dna_5": "CCGATT",
+        "dna_6": "ACATGA"
+    },
+    {
+        "dna_1": "ACCGGG",
+        "dna_2": "ATTCAA",
+        "dna_3": "ATGGAG",
+        "dna_4": "TTGACG",
+        "dna_5": "AAGCCG",
+        "dna_6": "CATTGC"
+    },
+    {
+        "dna_1": "ATGCCA",
+        "dna_2": "GATTTG",
+        "dna_3": "CACCAC",
+        "dna_4": "TGGCGA",
+        "dna_5": "CCGGTC",
+        "dna_6": "CATCTG"
+    },
+    {
+        "dna_1": "GTCCCC",
+        "dna_2": "TAGGAG",
+        "dna_3": "ACGGGT",
+        "dna_4": "CCCGGT",
+        "dna_5": "GGGCAT",
+        "dna_6": "TCGCCT"
+    },
+    {
+        "dna_1": "CAATTC",
+        "dna_2": "GCCATG",
+        "dna_3": "CCTATA",
+        "dna_4": "GGGACC",
+        "dna_5": "GGAATG",
+        "dna_6": "TGTTTC"
+    },
+    {
+        "dna_1": "CCCCTA",
+        "dna_2": "TCAAGT",
+        "dna_3": "CCGTAG",
+        "dna_4": "GTCGGA",
+        "dna_5": "GGGCAT",
+        "dna_6": "TTGATG"
+    },
+    {
+        "dna_1": "AGCCCC",
+        "dna_2": "TTGGCG",
+        "dna_3": "ACAGCC",
+        "dna_4": "AGGGAA",
+        "dna_5": "AGCTCA",
+        "dna_6": "GGCGAG"
+    },
+    {
+        "dna_1": "GAGGTA",
+        "dna_2": "GAGCTA",
+        "dna_3": "GCCTAT",
+        "dna_4": "AGGTCG",
+        "dna_5": "TGCGGG",
+        "dna_6": "TTGTCA"
+    },
+    {
+        "dna_1": "CAATCA",
+        "dna_2": "GCAGTT",
+        "dna_3": "ACGTAC",
+        "dna_4": "ATGCGA",
+        "dna_5": "TGTCTC",
+        "dna_6": "ATCATC"
+    },
+    {
+        "dna_1": "CGGGAG",
+        "dna_2": "AATAGC",
+        "dna_3": "GGGATC",
+        "dna_4": "GTAACA",
+        "dna_5": "GGGTGC",
+        "dna_6": "TACCCT"
+    },
+    {
+        "dna_1": "TCCGTC",
+        "dna_2": "CCATCG",
+        "dna_3": "GACGCC",
+        "dna_4": "ATGAAG",
+        "dna_5": "GGAAGA",
+        "dna_6": "TATTCT"
+    },
+    {
+        "dna_1": "TACTGT",
+        "dna_2": "AAAAGA",
+        "dna_3": "AAGGGG",
+        "dna_4": "CCGTCT",
+        "dna_5": "ATGTAC",
+        "dna_6": "GCTACA"
+    },
+    {
+        "dna_1": "TGCAAC",
+        "dna_2": "AACCGG",
+        "dna_3": "GGATCC",
+        "dna_4": "TAGCAA",
+        "dna_5": "AGCGTT",
+        "dna_6": "AGTTCT"
+    },
+    {
+        "dna_1": "GTAGAA",
+        "dna_2": "CCTAAC",
+        "dna_3": "CGATCA",
+        "dna_4": "ATTGCG",
+        "dna_5": "GGCCCG",
+        "dna_6": "GCTAAG"
+    },
+    {
+        "dna_1": "ATCGTC",
+        "dna_2": "GTGTGT",
+        "dna_3": "TGAGGG",
+        "dna_4": "TCATTG",
+        "dna_5": "CGCACT",
+        "dna_6": "CCTTGG"
+    },
+    {
+        "dna_1": "ACGAAT",
+        "dna_2": "GAAAAT",
+        "dna_3": "GTAACA",
+        "dna_4": "GAGAAT",
+        "dna_5": "TGTCCT",
+        "dna_6": "GAGTCC"
+    },
+    {
+        "dna_1": "GTTGCA",
+        "dna_2": "CTTATG",
+        "dna_3": "TTAGTG",
+        "dna_4": "CCCCTG",
+        "dna_5": "TTTAGA",
+        "dna_6": "TAGGAT"
+    },
+    {
+        "dna_1": "ACGCGT",
+        "dna_2": "TGACTA",
+        "dna_3": "AGGCTC",
+        "dna_4": "AAATTA",
+        "dna_5": "AGACTC",
+        "dna_6": "AAACTG"
+    },
+    {
+        "dna_1": "CTGACG",
+        "dna_2": "TTGTTC",
+        "dna_3": "TTCGCG",
+        "dna_4": "GACCTG",
+        "dna_5": "CTGTCG",
+        "dna_6": "GACCGG"
+    },
+    {
+        "dna_1": "CGTACG",
+        "dna_2": "CTGGAC",
+        "dna_3": "TTCCCA",
+        "dna_4": "TCGCGT",
+        "dna_5": "TCAATT",
+        "dna_6": "GATGTC"
+    },
+    {
+        "dna_1": "TGTAGT",
+        "dna_2": "CTTATT",
+        "dna_3": "CAGTAC",
+        "dna_4": "TACTAC",
+        "dna_5": "AGCAAA",
+        "dna_6": "CATGGC"
+    },
+    {
+        "dna_1": "ACCCCC",
+        "dna_2": "TAAGCC",
+        "dna_3": "GATATA",
+        "dna_4": "ATCCTC",
+        "dna_5": "ATTGTA",
+        "dna_6": "CCACAA"
+    },
+    {
+        "dna_1": "GCACCA",
+        "dna_2": "TCGTAG",
+        "dna_3": "AGTTCA",
+        "dna_4": "CTTCTA",
+        "dna_5": "TGCCGG",
+        "dna_6": "CATACT"
+    },
+    {
+        "dna_1": "TCATGA",
+        "dna_2": "GTATAG",
+        "dna_3": "AAGCCG",
+        "dna_4": "CCGTCG",
+        "dna_5": "GCGGGT",
+        "dna_6": "GAAGTA"
+    },
+    {
+        "dna_1": "GTGCAG",
+        "dna_2": "TACGTC",
+        "dna_3": "GATCCC",
+        "dna_4": "ACCGCC",
+        "dna_5": "GGCCGC",
+        "dna_6": "AGAAAT"
+    },
+    {
+        "dna_1": "TCTGTC",
+        "dna_2": "ACGTCA",
+        "dna_3": "GTTGCG",
+        "dna_4": "TTCGGT",
+        "dna_5": "TTGATT",
+        "dna_6": "TAGAGT"
+    },
+    {
+        "dna_1": "GTTCAG",
+        "dna_2": "TCGCGG",
+        "dna_3": "AAGCGT",
+        "dna_4": "CTGCTC",
+        "dna_5": "GTTTTG",
+        "dna_6": "GTATTT"
+    },
+    {
+        "dna_1": "GATCCG",
+        "dna_2": "ATGTAG",
+        "dna_3": "ACGGCG",
+        "dna_4": "ATACAA",
+        "dna_5": "AATTGG",
+        "dna_6": "TGGTTA"
+    },
+    {
+        "dna_1": "ACGCTA",
+        "dna_2": "TTCGTG",
+        "dna_3": "CCGCGG",
+        "dna_4": "GGAACT",
+        "dna_5": "TTTCGT",
+        "dna_6": "TATTGG"
+    },
+    {
+        "dna_1": "CTCTAG",
+        "dna_2": "TACTAG",
+        "dna_3": "GTCCAA",
+        "dna_4": "TGAAAC",
+        "dna_5": "CGAGTT",
+        "dna_6": "TCGTTT"
+    },
+    {
+        "dna_1": "TGTTTA",
+        "dna_2": "CGGCAG",
+        "dna_3": "GCTTAA",
+        "dna_4": "GGATAC",
+        "dna_5": "TCAGTT",
+        "dna_6": "GTCGTT"
+    },
+    {
+        "dna_1": "ACGCTC",
+        "dna_2": "TGGGAA",
+        "dna_3": "GGTCGA",
+        "dna_4": "GGATTT",
+        "dna_5": "GGGTGA",
+        "dna_6": "ATATTA"
+    },
+    {
+        "dna_1": "GAGGGA",
+        "dna_2": "TTTACA",
+        "dna_3": "TTTTCC",
+        "dna_4": "AGGGAT",
+        "dna_5": "TCGGTG",
+        "dna_6": "GAATCC"
+    },
+    {
+        "dna_1": "TAATAA",
+        "dna_2": "CTGACC",
+        "dna_3": "TACGAG",
+        "dna_4": "ATATGC",
+        "dna_5": "TAAGTA",
+        "dna_6": "GTTGGA"
+    },
+    {
+        "dna_1": "GCCTCC",
+        "dna_2": "TCGAAT",
+        "dna_3": "GTTCGT",
+        "dna_4": "ATGGGT",
+        "dna_5": "TATGAA",
+        "dna_6": "GCAGCC"
+    },
+    {
+        "dna_1": "GTGATG",
+        "dna_2": "CGAATA",
+        "dna_3": "AGCTCC",
+        "dna_4": "TGTATT",
+        "dna_5": "TGTATT",
+        "dna_6": "CGAGTT"
+    },
+    {
+        "dna_1": "GGTGTC",
+        "dna_2": "AACAAA",
+        "dna_3": "GTTTTC",
+        "dna_4": "CGGGTA",
+        "dna_5": "AAGAAG",
+        "dna_6": "AGTATA"
+    },
+    {
+        "dna_1": "TGCGGG",
+        "dna_2": "GAAGCG",
+        "dna_3": "GGCTTT",
+        "dna_4": "AATACG",
+        "dna_5": "GTCATG",
+        "dna_6": "GTTGCT"
+    },
+    {
+        "dna_1": "GAAGTG",
+        "dna_2": "ATTGAC",
+        "dna_3": "CTTGAG",
+        "dna_4": "GCCAAT",
+        "dna_5": "AGCGTG",
+        "dna_6": "TCTGTA"
+    },
+    {
+        "dna_1": "ATGGGA",
+        "dna_2": "CAAAAG",
+        "dna_3": "CGGGCC",
+        "dna_4": "TCCACA",
+        "dna_5": "AGACCC",
+        "dna_6": "TCTACT"
+    },
+    {
+        "dna_1": "ACCAAC",
+        "dna_2": "CTGTTG",
+        "dna_3": "GACTGG",
+        "dna_4": "AAAGGG",
+        "dna_5": "CTAGTG",
+        "dna_6": "TCCATC"
+    },
+    {
+        "dna_1": "GAAAGT",
+        "dna_2": "GTTGCG",
+        "dna_3": "TAAGAT",
+        "dna_4": "GCAGCG",
+        "dna_5": "CTTGAG",
+        "dna_6": "CCATAC"
+    },
+    {
+        "dna_1": "GTAATG",
+        "dna_2": "GCGCTA",
+        "dna_3": "GTTTAC",
+        "dna_4": "GGGGAG",
+        "dna_5": "ACGAGT",
+        "dna_6": "CACAGA"
+    },
+    {
+        "dna_1": "GAACTG",
+        "dna_2": "TCTTGT",
+        "dna_3": "AGAACT",
+        "dna_4": "TTGACG",
+        "dna_5": "CTGACT",
+        "dna_6": "ACGTAA"
+    },
+    {
+        "dna_1": "AGGTGG",
+        "dna_2": "TCGCTG",
+        "dna_3": "CGGGAT",
+        "dna_4": "CCGAGA",
+        "dna_5": "TTATGC",
+        "dna_6": "CTGGTG"
+    },
+    {
+        "dna_1": "CCTCTA",
+        "dna_2": "CTTCCG",
+        "dna_3": "TTACAG",
+        "dna_4": "CAAAGC",
+        "dna_5": "TAGATC",
+        "dna_6": "CGGCGT"
+    },
+    {
+        "dna_1": "GTCACT",
+        "dna_2": "CGGATC",
+        "dna_3": "GTCACC",
+        "dna_4": "GGAGTC",
+        "dna_5": "AACTCG",
+        "dna_6": "TGACCC"
+    },
+    {
+        "dna_1": "ATTACC",
+        "dna_2": "TGTCTG",
+        "dna_3": "GAGCAG",
+        "dna_4": "TATCGC",
+        "dna_5": "CATCTA",
+        "dna_6": "TTGAGT"
+    },
+    {
+        "dna_1": "ATAGAA",
+        "dna_2": "GATCTT",
+        "dna_3": "GTGCTA",
+        "dna_4": "CAAGCA",
+        "dna_5": "AGTGGG",
+        "dna_6": "ACTCCC"
+    },
+    {
+        "dna_1": "CCTTCT",
+        "dna_2": "CCGGAA",
+        "dna_3": "CCAAGC",
+        "dna_4": "GCAGGC",
+        "dna_5": "TCCTAT",
+        "dna_6": "TAGATA"
+    },
+    {
+        "dna_1": "GCATAA",
+        "dna_2": "CCATCT",
+        "dna_3": "CTTATC",
+        "dna_4": "CAGCCA",
+        "dna_5": "GTTTGG",
+        "dna_6": "TAAATT"
+    },
+    {
+        "dna_1": "ATCTGC",
+        "dna_2": "AAATCT",
+        "dna_3": "GTAGAG",
+        "dna_4": "TCGCCA",
+        "dna_5": "AGGTTG",
+        "dna_6": "TCTGTT"
+    },
+    {
+        "dna_1": "CTAGTG",
+        "dna_2": "CGCTCA",
+        "dna_3": "TAAAGT",
+        "dna_4": "CGGATG",
+        "dna_5": "CCTTAA",
+        "dna_6": "TCGTAA"
+    },
+    {
+        "dna_1": "TCACGG",
+        "dna_2": "CCCAGA",
+        "dna_3": "GGGCTC",
+        "dna_4": "TAAATG",
+        "dna_5": "AATAGT",
+        "dna_6": "CCGTTC"
+    },
+    {
+        "dna_1": "CATCGC",
+        "dna_2": "GGAGGG",
+        "dna_3": "GAAGCC",
+        "dna_4": "GTTGCA",
+        "dna_5": "TAGGAG",
+        "dna_6": "AAGTTC"
+    },
+    {
+        "dna_1": "TTACTT",
+        "dna_2": "AAACAT",
+        "dna_3": "CTGCTA",
+        "dna_4": "GGGAGG",
+        "dna_5": "TGTTAG",
+        "dna_6": "GACTAG"
+    },
+    {
+        "dna_1": "AGGATG",
+        "dna_2": "TTGGTA",
+        "dna_3": "AAGACT",
+        "dna_4": "GGAGTT",
+        "dna_5": "TATCTC",
+        "dna_6": "AGCGGG"
+    },
+    {
+        "dna_1": "CGCTCA",
+        "dna_2": "GTGTGC",
+        "dna_3": "CATTGT",
+        "dna_4": "CCTGCC",
+        "dna_5": "CTCTAT",
+        "dna_6": "AGGAAG"
+    },
+    {
+        "dna_1": "GCGAAC",
+        "dna_2": "GAAGGT",
+        "dna_3": "CACGCG",
+        "dna_4": "CGTATT",
+        "dna_5": "TTTGTG",
+        "dna_6": "GGGAAC"
+    },
+    {
+        "dna_1": "GGCCAA",
+        "dna_2": "ATAAAT",
+        "dna_3": "TAAAAA",
+        "dna_4": "CACGTG",
+        "dna_5": "TCGACG",
+        "dna_6": "CATCCA"
+    },
+    {
+        "dna_1": "TTCGGA",
+        "dna_2": "GTGAAC",
+        "dna_3": "GTCAAA",
+        "dna_4": "TGTATC",
+        "dna_5": "TGTGAG",
+        "dna_6": "GTAGCC"
+    },
+    {
+        "dna_1": "CTTGGC",
+        "dna_2": "GAGCGA",
+        "dna_3": "TCTTGG",
+        "dna_4": "CCAGGT",
+        "dna_5": "TCGGCC",
+        "dna_6": "ACAATT"
+    },
+    {
+        "dna_1": "GAAGTC",
+        "dna_2": "CCCATG",
+        "dna_3": "CTATGT",
+        "dna_4": "CGGCGG",
+        "dna_5": "CACCGT",
+        "dna_6": "AGACAT"
+    },
+    {
+        "dna_1": "GATGGG",
+        "dna_2": "GTTTTG",
+        "dna_3": "TGGTTA",
+        "dna_4": "TTAATA",
+        "dna_5": "TAACTA",
+        "dna_6": "CCGACC"
+    },
+    {
+        "dna_1": "GGCGGG",
+        "dna_2": "CGCCGA",
+        "dna_3": "GGGAAG",
+        "dna_4": "GGATCT",
+        "dna_5": "CACCCC",
+        "dna_6": "GTTCAC"
+    },
+    {
+        "dna_1": "GTAAGC",
+        "dna_2": "ACCCTG",
+        "dna_3": "AATATG",
+        "dna_4": "CGTGGT",
+        "dna_5": "GAGTAA",
+        "dna_6": "GCTAGC"
+    },
+    {
+        "dna_1": "TCTGCC",
+        "dna_2": "ACCAAC",
+        "dna_3": "TACTGC",
+        "dna_4": "TAGTAA",
+        "dna_5": "TGAGAT",
+        "dna_6": "CTTGGG"
+    },
+    {
+        "dna_1": "ATCTAA",
+        "dna_2": "AGACTA",
+        "dna_3": "TTCTGG",
+        "dna_4": "GTCCGA",
+        "dna_5": "GTCTGG",
+        "dna_6": "TTTCCT"
+    },
+    {
+        "dna_1": "AGGAGG",
+        "dna_2": "CGTGAA",
+        "dna_3": "TCCCGT",
+        "dna_4": "CGACCC",
+        "dna_5": "GCCCCA",
+        "dna_6": "GGTGCT"
+    },
+    {
+        "dna_1": "CTTTGT",
+        "dna_2": "CAGTTT",
+        "dna_3": "TCAACA",
+        "dna_4": "TTTATA",
+        "dna_5": "ACGGGG",
+        "dna_6": "CTCAGG"
+    },
+    {
+        "dna_1": "TAATTG",
+        "dna_2": "CCACAA",
+        "dna_3": "CCGATC",
+        "dna_4": "ACTAGG",
+        "dna_5": "AAGAGG",
+        "dna_6": "GCTGAC"
+    },
+    {
+        "dna_1": "TTTCAG",
+        "dna_2": "TCCATA",
+        "dna_3": "TTCGAG",
+        "dna_4": "CTGTGT",
+        "dna_5": "GGCGCA",
+        "dna_6": "CTGGAG"
+    },
+    {
+        "dna_1": "CGGCGG",
+        "dna_2": "ATAGTA",
+        "dna_3": "TGGATC",
+        "dna_4": "GAGTAT",
+        "dna_5": "TGGTGA",
+        "dna_6": "TCCATT"
+    },
+    {
+        "dna_1": "TGGTTT",
+        "dna_2": "TCTTGG",
+        "dna_3": "GCAGAA",
+        "dna_4": "AGTAAC",
+        "dna_5": "GCTTTT",
+        "dna_6": "GTTGCA"
+    },
+    {
+        "dna_1": "GAGCAT",
+        "dna_2": "CGTAAC",
+        "dna_3": "AACAGC",
+        "dna_4": "AAATGA",
+        "dna_5": "AGATGC",
+        "dna_6": "GGTACC"
+    },
+    {
+        "dna_1": "TGTACT",
+        "dna_2": "GGGGAT",
+        "dna_3": "CTGTCA",
+        "dna_4": "AGTAAT",
+        "dna_5": "CGTTAA",
+        "dna_6": "GCTTGG"
+    },
+    {
+        "dna_1": "CATAAG",
+        "dna_2": "AGGATC",
+        "dna_3": "TGACCC",
+        "dna_4": "TCTCCT",
+        "dna_5": "AGACCG",
+        "dna_6": "CAGAAG"
+    },
+    {
+        "dna_1": "GATCTG",
+        "dna_2": "GAGGGA",
+        "dna_3": "ACGTGC",
+        "dna_4": "GAGGTA",
+        "dna_5": "TATCGC",
+        "dna_6": "TTTGGC"
+    },
+    {
+        "dna_1": "TGCATC",
+        "dna_2": "GCGAAT",
+        "dna_3": "ATTGTT",
+        "dna_4": "TCTTTT",
+        "dna_5": "CGTCGA",
+        "dna_6": "TGATAT"
+    },
+    {
+        "dna_1": "TATATG",
+        "dna_2": "TTTCAT",
+        "dna_3": "GGAACC",
+        "dna_4": "CCAGCA",
+        "dna_5": "GTGGCG",
+        "dna_6": "GACTGA"
+    },
+    {
+        "dna_1": "AAGTGC",
+        "dna_2": "CGGTCT",
+        "dna_3": "AAGGAC",
+        "dna_4": "AAGTAC",
+        "dna_5": "CCCCCG",
+        "dna_6": "GACGAA"
+    },
+    {
+        "dna_1": "CGGGGG",
+        "dna_2": "AGGTTT",
+        "dna_3": "CGCCCC",
+        "dna_4": "GCGCCG",
+        "dna_5": "TAGAAG",
+        "dna_6": "GCTGCT"
+    },
+    {
+        "dna_1": "TGTTAT",
+        "dna_2": "GCTAAT",
+        "dna_3": "GATCGC",
+        "dna_4": "GTCGAT",
+        "dna_5": "GAAAAA",
+        "dna_6": "AGACTA"
+    },
+    {
+        "dna_1": "TCCATG",
+        "dna_2": "GACGGA",
+        "dna_3": "TTGCAG",
+        "dna_4": "AGAAGG",
+        "dna_5": "TTTCAC",
+        "dna_6": "AATTAC"
+    },
+    {
+        "dna_1": "TCCAGA",
+        "dna_2": "TGTACC",
+        "dna_3": "ATGCCG",
+        "dna_4": "AGTCCT",
+        "dna_5": "TTTCCA",
+        "dna_6": "CGGTAT"
+    },
+    {
+        "dna_1": "AGTGGT",
+        "dna_2": "AGGCGC",
+        "dna_3": "TCAGTG",
+        "dna_4": "AAAATC",
+        "dna_5": "ACCGGT",
+        "dna_6": "TAAATT"
+    },
+    {
+        "dna_1": "GTCCAT",
+        "dna_2": "CCCATG",
+        "dna_3": "CGATGT",
+        "dna_4": "AACGGC",
+        "dna_5": "TCTTGG",
+        "dna_6": "GTCATG"
+    },
+    {
+        "dna_1": "GTTTTA",
+        "dna_2": "AAAGCA",
+        "dna_3": "CCGGCT",
+        "dna_4": "TCATGT",
+        "dna_5": "TGTAGC",
+        "dna_6": "GGGATA"
+    },
+    {
+        "dna_1": "CAGGCC",
+        "dna_2": "CACCTC",
+        "dna_3": "CTTGCT",
+        "dna_4": "GTTCCT",
+        "dna_5": "AGTAAG",
+        "dna_6": "GATGCT"
+    },
+    {
+        "dna_1": "TTAATC",
+        "dna_2": "TGCGGC",
+        "dna_3": "AGGTCT",
+        "dna_4": "GTCGCA",
+        "dna_5": "ATACAA",
+        "dna_6": "CATTCG"
+    },
+    {
+        "dna_1": "TCGGGC",
+        "dna_2": "ACCTAA",
+        "dna_3": "TACCAA",
+        "dna_4": "AACTAA",
+        "dna_5": "GTTACG",
+        "dna_6": "CTTCAT"
+    },
+    {
+        "dna_1": "ATAAAG",
+        "dna_2": "CACGAA",
+        "dna_3": "TAAATG",
+        "dna_4": "CGCTTG",
+        "dna_5": "GCGCGA",
+        "dna_6": "TGTCTC"
+    },
+    {
+        "dna_1": "TATGCG",
+        "dna_2": "TGCATA",
+        "dna_3": "TGGTAC",
+        "dna_4": "TATACC",
+        "dna_5": "TGGCGC",
+        "dna_6": "CCGCTC"
+    },
+    {
+        "dna_1": "TAATGC",
+        "dna_2": "GTAGTG",
+        "dna_3": "CCAGGG",
+        "dna_4": "TACCAT",
+        "dna_5": "CAAGCA",
+        "dna_6": "CCGTGA"
+    },
+    {
+        "dna_1": "CTACAT",
+        "dna_2": "AGCAAT",
+        "dna_3": "ACGGTG",
+        "dna_4": "ACGTTA",
+        "dna_5": "TGTTAT",
+        "dna_6": "CGCAAG"
+    },
+    {
+        "dna_1": "GCCCGT",
+        "dna_2": "TCCTCC",
+        "dna_3": "TGACGT",
+        "dna_4": "GCCGCG",
+        "dna_5": "AGAGTA",
+        "dna_6": "AATCCT"
+    },
+    {
+        "dna_1": "AATTCC",
+        "dna_2": "CGGATG",
+        "dna_3": "TGAAAG",
+        "dna_4": "CTGGCT",
+        "dna_5": "GCGTTT",
+        "dna_6": "AAAGAA"
+    },
+    {
+        "dna_1": "TTAGAT",
+        "dna_2": "TTACTA",
+        "dna_3": "TTATCG",
+        "dna_4": "GGACTC",
+        "dna_5": "AAGGGC",
+        "dna_6": "ATTTAA"
+    },
+    {
+        "dna_1": "GCTGTA",
+        "dna_2": "GGGGCT",
+        "dna_3": "TCGTAC",
+        "dna_4": "GTTTCA",
+        "dna_5": "GAGGCA",
+        "dna_6": "AGATGC"
+    },
+    {
+        "dna_1": "CCGAAA",
+        "dna_2": "ACGGAG",
+        "dna_3": "AGCAAC",
+        "dna_4": "ACAGGC",
+        "dna_5": "GACTCG",
+        "dna_6": "AGGTTG"
+    },
+    {
+        "dna_1": "ATATTG",
+        "dna_2": "GTATGG",
+        "dna_3": "AGCCTG",
+        "dna_4": "AGACAG",
+        "dna_5": "GGGGCT",
+        "dna_6": "AACCGT"
+    },
+    {
+        "dna_1": "CTCCCA",
+        "dna_2": "CCGGAG",
+        "dna_3": "ATGCTT",
+        "dna_4": "ATCATA",
+        "dna_5": "TGAAGT",
+        "dna_6": "TGTACG"
+    },
+    {
+        "dna_1": "TACTGC",
+        "dna_2": "GATGAT",
+        "dna_3": "CGAAAG",
+        "dna_4": "TCGCTG",
+        "dna_5": "CGGGCT",
+        "dna_6": "AACCAA"
+    },
+    {
+        "dna_1": "AACTGT",
+        "dna_2": "TATAAC",
+        "dna_3": "CGGGCG",
+        "dna_4": "TATTTG",
+        "dna_5": "TGGCGG",
+        "dna_6": "ATTGTG"
+    },
+    {
+        "dna_1": "TGGGAG",
+        "dna_2": "GACTAG",
+        "dna_3": "AATATA",
+        "dna_4": "GCAAAG",
+        "dna_5": "ATTTGT",
+        "dna_6": "GCATCG"
+    },
+    {
+        "dna_1": "ACCAGG",
+        "dna_2": "GGTAGG",
+        "dna_3": "CAATGT",
+        "dna_4": "AGGTGT",
+        "dna_5": "AGCAGA",
+        "dna_6": "GTTACG"
+    },
+    {
+        "dna_1": "TATCCC",
+        "dna_2": "GGACGG",
+        "dna_3": "ATTGGA",
+        "dna_4": "TCGATT",
+        "dna_5": "TGCGTG",
+        "dna_6": "GGTGGA"
+    },
+    {
+        "dna_1": "TTCGTA",
+        "dna_2": "GGGAGA",
+        "dna_3": "CCTTCG",
+        "dna_4": "CACTAT",
+        "dna_5": "GCAGAA",
+        "dna_6": "GCTGGG"
+    },
+    {
+        "dna_1": "CCTGAC",
+        "dna_2": "GCCCTG",
+        "dna_3": "TATCTT",
+        "dna_4": "AAGGCA",
+        "dna_5": "TAATTA",
+        "dna_6": "GACAAA"
+    },
+    {
+        "dna_1": "GCAGGG",
+        "dna_2": "TCGTTG",
+        "dna_3": "GATTGC",
+        "dna_4": "ATTAAG",
+        "dna_5": "ATATGG",
+        "dna_6": "GCGCTG"
+    },
+    {
+        "dna_1": "ATCGCG",
+        "dna_2": "GACTGT",
+        "dna_3": "GAAGTT",
+        "dna_4": "ATCTAA",
+        "dna_5": "GAGTAC",
+        "dna_6": "GTGTTT"
+    },
+    {
+        "dna_1": "GCGCAT",
+        "dna_2": "ACGAGC",
+        "dna_3": "ATCTGT",
+        "dna_4": "GGGCCC",
+        "dna_5": "CGCGTG",
+        "dna_6": "GTGTGC"
+    },
+    {
+        "dna_1": "CTTTAC",
+        "dna_2": "GATATA",
+        "dna_3": "TACGTA",
+        "dna_4": "TACTAG",
+        "dna_5": "TCACGA",
+        "dna_6": "ACCCCT"
+    },
+    {
+        "dna_1": "AGATTA",
+        "dna_2": "TGTGAG",
+        "dna_3": "TAAAGA",
+        "dna_4": "CTTATA",
+        "dna_5": "GAACAT",
+        "dna_6": "GATGAA"
+    },
+    {
+        "dna_1": "CCAGTG",
+        "dna_2": "GAAGAT",
+        "dna_3": "CGGCTA",
+        "dna_4": "CTAGGC",
+        "dna_5": "GTGTGC",
+        "dna_6": "CGCCTT"
+    },
+    {
+        "dna_1": "TATTAC",
+        "dna_2": "GTAACC",
+        "dna_3": "CGGGCT",
+        "dna_4": "AACTTT",
+        "dna_5": "TGTATT",
+        "dna_6": "GAGCCA"
+    },
+    {
+        "dna_1": "GGGGTT",
+        "dna_2": "TTAAGC",
+        "dna_3": "AGGGAA",
+        "dna_4": "TGGGCA",
+        "dna_5": "CCTACC",
+        "dna_6": "CATTTT"
+    },
+    {
+        "dna_1": "CTGTAC",
+        "dna_2": "GTCATA",
+        "dna_3": "CGTACC",
+        "dna_4": "CCCAGT",
+        "dna_5": "GATTCG",
+        "dna_6": "TAACAC"
+    },
+    {
+        "dna_1": "CTAAGA",
+        "dna_2": "ACTAAC",
+        "dna_3": "ATTCCG",
+        "dna_4": "AACATG",
+        "dna_5": "CTACAT",
+        "dna_6": "CGGAGG"
+    },
+    {
+        "dna_1": "GCCATT",
+        "dna_2": "CTGCAA",
+        "dna_3": "CGCATT",
+        "dna_4": "GACCTT",
+        "dna_5": "GAGCAT",
+        "dna_6": "TTTCAA"
+    },
+    {
+        "dna_1": "GTGTTC",
+        "dna_2": "TGGCTC",
+        "dna_3": "CCCCCG",
+        "dna_4": "TGCATT",
+        "dna_5": "TCGAAA",
+        "dna_6": "TTGGGT"
+    },
+    {
+        "dna_1": "TGACCG",
+        "dna_2": "GACTGC",
+        "dna_3": "GTTTTC",
+        "dna_4": "GAGAAC",
+        "dna_5": "GTAATG",
+        "dna_6": "CCTAGA"
+    },
+    {
+        "dna_1": "TGGCCA",
+        "dna_2": "CATCGT",
+        "dna_3": "TCTCAA",
+        "dna_4": "CCCGGA",
+        "dna_5": "TAACGA",
+        "dna_6": "TACCAC"
+    },
+    {
+        "dna_1": "CAGTAC",
+        "dna_2": "CAGTGC",
+        "dna_3": "TGATGA",
+        "dna_4": "ACGCGG",
+        "dna_5": "AGACCG",
+        "dna_6": "CGCGCG"
+    },
+    {
+        "dna_1": "CGATAT",
+        "dna_2": "AGATGC",
+        "dna_3": "GTTAAG",
+        "dna_4": "GCCGAT",
+        "dna_5": "TAGCAC",
+        "dna_6": "ACGCTC"
+    },
+    {
+        "dna_1": "TTAAAT",
+        "dna_2": "GAATGT",
+        "dna_3": "CATCTC",
+        "dna_4": "AGCCGC",
+        "dna_5": "GCGCAA",
+        "dna_6": "TGCGAC"
+    },
+    {
+        "dna_1": "ATGATA",
+        "dna_2": "GTAGTG",
+        "dna_3": "GGATAT",
+        "dna_4": "GTAGAC",
+        "dna_5": "AGAAGA",
+        "dna_6": "GATAAC"
+    },
+    {
+        "dna_1": "TGCTTT",
+        "dna_2": "CCACGT",
+        "dna_3": "GACAAT",
+        "dna_4": "TATCAT",
+        "dna_5": "ATCTTC",
+        "dna_6": "CCATCT"
+    },
+    {
+        "dna_1": "GGAGCG",
+        "dna_2": "GACGCC",
+        "dna_3": "GCTGGG",
+        "dna_4": "GTTTTT",
+        "dna_5": "TGGTGC",
+        "dna_6": "TTTCTA"
+    },
+    {
+        "dna_1": "TGAATG",
+        "dna_2": "TGGGGC",
+        "dna_3": "AACGTA",
+        "dna_4": "CAATCA",
+        "dna_5": "TCTTGT",
+        "dna_6": "CTCAGC"
+    },
+    {
+        "dna_1": "CACTCA",
+        "dna_2": "TAGTTG",
+        "dna_3": "CCGAAT",
+        "dna_4": "GGTAAA",
+        "dna_5": "TGGAAG",
+        "dna_6": "ACCTCT"
+    },
+    {
+        "dna_1": "CGCGAG",
+        "dna_2": "ACTCCG",
+        "dna_3": "TTGATA",
+        "dna_4": "ATGACA",
+        "dna_5": "ACAGAG",
+        "dna_6": "TCTCTA"
+    },
+    {
+        "dna_1": "CTTGTG",
+        "dna_2": "ACCATA",
+        "dna_3": "GAGAGA",
+        "dna_4": "AGCATT",
+        "dna_5": "ACACTA",
+        "dna_6": "AGGTAG"
+    },
+    {
+        "dna_1": "GCAGAG",
+        "dna_2": "GTTTCA",
+        "dna_3": "AGATTC",
+        "dna_4": "AAAAGG",
+        "dna_5": "GACGTG",
+        "dna_6": "GCTAAT"
+    },
+    {
+        "dna_1": "ATAACA",
+        "dna_2": "AAATCC",
+        "dna_3": "TTTTAC",
+        "dna_4": "TTCGAC",
+        "dna_5": "TAATCT",
+        "dna_6": "TCGTTT"
+    },
+    {
+        "dna_1": "CAGGCG",
+        "dna_2": "GCGTGG",
+        "dna_3": "AGGTGC",
+        "dna_4": "TGTTCA",
+        "dna_5": "GTCAGA",
+        "dna_6": "CCGGGT"
+    },
+    {
+        "dna_1": "TGCCCG",
+        "dna_2": "GGTCTG",
+        "dna_3": "GGCCGC",
+        "dna_4": "GTCTAC",
+        "dna_5": "AAGTAC",
+        "dna_6": "GTGTTG"
+    },
+    {
+        "dna_1": "GCATAG",
+        "dna_2": "CCGATT",
+        "dna_3": "CCTTTT",
+        "dna_4": "AGGCGC",
+        "dna_5": "CATCTC",
+        "dna_6": "GACACC"
+    },
+    {
+        "dna_1": "GGAGGG",
+        "dna_2": "GGGTTA",
+        "dna_3": "AAAACA",
+        "dna_4": "TAAGCT",
+        "dna_5": "TGCTTA",
+        "dna_6": "CAAAGT"
+    },
+    {
+        "dna_1": "TCGGAC",
+        "dna_2": "ACATTC",
+        "dna_3": "ACAACC",
+        "dna_4": "GATGTC",
+        "dna_5": "GAACGA",
+        "dna_6": "CAAGAT"
+    },
+    {
+        "dna_1": "CACAAA",
+        "dna_2": "TGATTC",
+        "dna_3": "TACCGA",
+        "dna_4": "GGACTA",
+        "dna_5": "AATACT",
+        "dna_6": "CTAGTC"
+    },
+    {
+        "dna_1": "GAAACG",
+        "dna_2": "AACTGT",
+        "dna_3": "AATGCT",
+        "dna_4": "AGACTT",
+        "dna_5": "CTGTTA",
+        "dna_6": "GCTAAT"
+    },
+    {
+        "dna_1": "AGGCTG",
+        "dna_2": "CGGGGC",
+        "dna_3": "TAAGAC",
+        "dna_4": "ACGAGC",
+        "dna_5": "ATACAT",
+        "dna_6": "GCGAGA"
+    },
+    {
+        "dna_1": "GTATAT",
+        "dna_2": "TAGGCC",
+        "dna_3": "GGTCGG",
+        "dna_4": "TAAGGG",
+        "dna_5": "CGCTAC",
+        "dna_6": "CCCCGT"
+    },
+    {
+        "dna_1": "AGTGAA",
+        "dna_2": "AGGCGT",
+        "dna_3": "GAGTCG",
+        "dna_4": "CAGGGA",
+        "dna_5": "TAGTGC",
+        "dna_6": "ATCCCG"
+    },
+    {
+        "dna_1": "ACATGT",
+        "dna_2": "GTACCC",
+        "dna_3": "TGTATA",
+        "dna_4": "TGGGCG",
+        "dna_5": "AACGGC",
+        "dna_6": "GAGGAG"
+    },
+    {
+        "dna_1": "AGGGTT",
+        "dna_2": "ATAGAG",
+        "dna_3": "CCCGAT",
+        "dna_4": "TTTACT",
+        "dna_5": "AATGCT",
+        "dna_6": "TATACC"
+    },
+    {
+        "dna_1": "GGCGGA",
+        "dna_2": "GGCGGG",
+        "dna_3": "GACCGC",
+        "dna_4": "CCACTA",
+        "dna_5": "TTTTAC",
+        "dna_6": "CTATGA"
+    },
+    {
+        "dna_1": "TCCGGG",
+        "dna_2": "TAAGCG",
+        "dna_3": "ATGCTC",
+        "dna_4": "ACTGAT",
+        "dna_5": "TACTTG",
+        "dna_6": "GCGTTT"
+    },
+    {
+        "dna_1": "AAACAC",
+        "dna_2": "ACGCCG",
+        "dna_3": "CTGGCA",
+        "dna_4": "TCACTA",
+        "dna_5": "GCCCCT",
+        "dna_6": "CGTCGT"
+    },
+    {
+        "dna_1": "GCAAGC",
+        "dna_2": "TTGCTG",
+        "dna_3": "GCGCAG",
+        "dna_4": "TTCGAG",
+        "dna_5": "ATGCCC",
+        "dna_6": "TCTAAA"
+    },
+    {
+        "dna_1": "GTCAGC",
+        "dna_2": "TATGTT",
+        "dna_3": "TGAAAC",
+        "dna_4": "GAATGT",
+        "dna_5": "TGGAAG",
+        "dna_6": "ACGGCG"
+    },
+    {
+        "dna_1": "GATAGT",
+        "dna_2": "TGTCAT",
+        "dna_3": "CTTGTA",
+        "dna_4": "CGGTTC",
+        "dna_5": "GTGTGT",
+        "dna_6": "TAACGT"
+    },
+    {
+        "dna_1": "GAGTGC",
+        "dna_2": "AGCCGC",
+        "dna_3": "TCCCGA",
+        "dna_4": "ACGTCC",
+        "dna_5": "TTGATG",
+        "dna_6": "GCCGGT"
+    },
+    {
+        "dna_1": "AGATTA",
+        "dna_2": "CCTTTA",
+        "dna_3": "GTGGGT",
+        "dna_4": "AAACCT",
+        "dna_5": "AAAGGC",
+        "dna_6": "ATTCCT"
+    },
+    {
+        "dna_1": "TTCAGC",
+        "dna_2": "ATGCAG",
+        "dna_3": "TGCTAT",
+        "dna_4": "ACAAAT",
+        "dna_5": "GAGTCT",
+        "dna_6": "GCAATA"
+    },
+    {
+        "dna_1": "GGTTAT",
+        "dna_2": "ACATCG",
+        "dna_3": "AGCCAG",
+        "dna_4": "TCCAGG",
+        "dna_5": "CATCTT",
+        "dna_6": "TGGGTG"
+    },
+    {
+        "dna_1": "GCCACT",
+        "dna_2": "CAACCA",
+        "dna_3": "GGAGCT",
+        "dna_4": "AGCCTG",
+        "dna_5": "GGGATC",
+        "dna_6": "GTACCA"
+    },
+    {
+        "dna_1": "AGCCAT",
+        "dna_2": "TACGAA",
+        "dna_3": "CGTTTA",
+        "dna_4": "GAGTCA",
+        "dna_5": "CCAAGT",
+        "dna_6": "TTAGAG"
+    },
+    {
+        "dna_1": "TGAACT",
+        "dna_2": "TCCTCG",
+        "dna_3": "GGTGCC",
+        "dna_4": "GAGGGA",
+        "dna_5": "AGGCTT",
+        "dna_6": "GACGCG"
+    },
+    {
+        "dna_1": "CACCGC",
+        "dna_2": "CATGGG",
+        "dna_3": "CAACTG",
+        "dna_4": "GCTACT",
+        "dna_5": "GCGGTC",
+        "dna_6": "TGGAGG"
+    },
+    {
+        "dna_1": "GAGTGC",
+        "dna_2": "TTCGCC",
+        "dna_3": "CAGCCG",
+        "dna_4": "TTCGGT",
+        "dna_5": "AAGGTG",
+        "dna_6": "TCAACC"
+    },
+    {
+        "dna_1": "GGGTGT",
+        "dna_2": "TTTTAA",
+        "dna_3": "GGTCAG",
+        "dna_4": "CTTGTC",
+        "dna_5": "GTGTAC",
+        "dna_6": "TCGATT"
+    },
+    {
+        "dna_1": "CCCATG",
+        "dna_2": "TGTCCG",
+        "dna_3": "TACGAA",
+        "dna_4": "TACCCT",
+        "dna_5": "TCACCG",
+        "dna_6": "TAGTCC"
+    },
+    {
+        "dna_1": "CTCTGG",
+        "dna_2": "CTTTAG",
+        "dna_3": "GCCGTA",
+        "dna_4": "ATGCGG",
+        "dna_5": "CTGACT",
+        "dna_6": "TGGAAC"
+    },
+    {
+        "dna_1": "GGCAAT",
+        "dna_2": "CCGCCC",
+        "dna_3": "AGCAGG",
+        "dna_4": "ACAGCA",
+        "dna_5": "GATCCG",
+        "dna_6": "GTTCAC"
+    },
+    {
+        "dna_1": "CGATTT",
+        "dna_2": "CTCACA",
+        "dna_3": "TCTAAT",
+        "dna_4": "ATCAGA",
+        "dna_5": "CTCTCT",
+        "dna_6": "ACCGCC"
+    },
+    {
+        "dna_1": "TGGGGT",
+        "dna_2": "ATGACT",
+        "dna_3": "CGCTCA",
+        "dna_4": "AGCTCG",
+        "dna_5": "CTAATT",
+        "dna_6": "GACTCG"
+    },
+    {
+        "dna_1": "CAAGTG",
+        "dna_2": "GGCTGA",
+        "dna_3": "AAATAT",
+        "dna_4": "ACCCTT",
+        "dna_5": "ATACGT",
+        "dna_6": "ATCCCT"
+    },
+    {
+        "dna_1": "TAAAGC",
+        "dna_2": "GTGAGA",
+        "dna_3": "GGTAAT",
+        "dna_4": "TATCTG",
+        "dna_5": "ACCAGC",
+        "dna_6": "ATTCCA"
+    },
+    {
+        "dna_1": "GGGGTC",
+        "dna_2": "CTATAT",
+        "dna_3": "TCTACG",
+        "dna_4": "AATGTA",
+        "dna_5": "TAAGGT",
+        "dna_6": "ACTACC"
+    },
+    {
+        "dna_1": "GTTCCC",
+        "dna_2": "GAAAAA",
+        "dna_3": "GGCATC",
+        "dna_4": "TACGAA",
+        "dna_5": "AGAGGG",
+        "dna_6": "ACACGA"
+    },
+    {
+        "dna_1": "GACTCT",
+        "dna_2": "GATCTG",
+        "dna_3": "AAACCC",
+        "dna_4": "AAGCCC",
+        "dna_5": "CAACTG",
+        "dna_6": "TCTCCC"
+    }
+]
